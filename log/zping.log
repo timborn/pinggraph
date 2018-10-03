@@ -1,0 +1,5494 @@
+10/01 10:31:00 starting pings
+10/01 10:31:00 error pinging yahoo.com retval 127
+10/01 10:31:00 mass ping failed retval 1
+10/01 10:32:00 starting pings
+10/01 10:32:15 rrd update for yahoo.com failed retval 1
+10/01 10:32:15 mass ping failed retval 1
+10/01 10:33:00 starting pings
+10/01 10:33:05 rrd update for yahoo.com failed retval 1
+10/01 10:33:05 mass ping failed retval 1
+10/01 10:34:00 starting pings
+10/01 10:34:06 pings complete
+10/01 10:34:06 generating graphs
+10/01 10:34:08 graph generation complete
+10/01 10:35:00 starting pings
+10/01 10:35:05 rrd update for yahoo.com failed retval 1
+10/01 10:35:05 mass ping failed retval 1
+10/01 10:36:00 starting pings
+10/01 10:36:05 rrd update for yahoo.com failed retval 1
+10/01 10:36:05 mass ping failed retval 1
+10/01 10:37:01 starting pings
+10/01 10:37:06 pings complete
+10/01 10:37:06 generating graphs
+10/01 10:37:06 graph generation complete
+10/01 10:38:00 starting pings
+10/01 10:38:05 rrd update for yahoo.com failed retval 1
+10/01 10:38:05 mass ping failed retval 1
+10/01 10:39:00 starting pings
+10/01 10:39:05 rrd update for yahoo.com failed retval 1
+10/01 10:39:05 mass ping failed retval 1
+10/01 10:40:00 starting pings
+10/01 10:40:05 pings complete
+10/01 10:40:05 generating graphs
+10/01 10:40:06 graph generation complete
+10/01 10:41:00 starting pings
+10/01 10:41:05 rrd update for yahoo.com failed retval 1
+10/01 10:41:05 mass ping failed retval 1
+10/01 10:42:00 starting pings
+10/01 10:42:04 rrd update for yahoo.com failed retval 1
+10/01 10:42:05 mass ping failed retval 1
+10/01 10:43:00 starting pings
+10/01 10:43:05 pings complete
+10/01 10:43:05 generating graphs
+10/01 10:43:06 graph generation complete
+10/01 10:44:00 starting pings
+10/01 10:44:06 rrd update for yahoo.com failed retval 1
+10/01 10:44:06 mass ping failed retval 1
+10/01 10:45:00 starting pings
+10/01 10:45:05 rrd update for yahoo.com failed retval 1
+10/01 10:45:05 mass ping failed retval 1
+10/01 10:46:00 starting pings
+10/01 10:46:05 pings complete
+10/01 10:46:05 generating graphs
+10/01 10:46:06 graph generation complete
+10/01 10:47:00 starting pings
+10/01 10:47:05 rrd update for yahoo.com failed retval 1
+10/01 10:47:05 mass ping failed retval 1
+10/01 10:48:00 starting pings
+10/01 10:48:05 rrd update for yahoo.com failed retval 1
+10/01 10:48:05 mass ping failed retval 1
+10/01 10:49:00 starting pings
+10/01 10:49:05 pings complete
+10/01 10:49:05 generating graphs
+10/01 10:49:06 graph generation complete
+10/01 10:50:00 starting pings
+10/01 10:50:05 rrd update for yahoo.com failed retval 1
+10/01 10:50:05 mass ping failed retval 1
+10/01 10:51:00 starting pings
+10/01 10:51:06 rrd update for yahoo.com failed retval 1
+10/01 10:51:06 mass ping failed retval 1
+10/01 10:52:00 starting pings
+10/01 10:52:05 pings complete
+10/01 10:52:05 generating graphs
+10/01 10:52:07 graph generation complete
+10/01 10:53:00 starting pings
+10/01 10:53:06 rrd update for yahoo.com failed retval 1
+10/01 10:53:06 mass ping failed retval 1
+10/01 10:54:00 starting pings
+10/01 10:54:06 rrd update for yahoo.com failed retval 1
+10/01 10:54:07 mass ping failed retval 1
+10/01 10:55:00 starting pings
+10/01 10:55:06 pings complete
+10/01 10:55:06 generating graphs
+10/01 10:55:07 graph generation complete
+10/01 10:56:00 starting pings
+10/01 10:56:05 rrd update for yahoo.com failed retval 1
+10/01 10:56:05 mass ping failed retval 1
+10/01 10:57:00 starting pings
+10/01 10:57:06 rrd update for yahoo.com failed retval 1
+10/01 10:57:06 mass ping failed retval 1
+10/01 10:58:00 starting pings
+10/01 10:58:05 pings complete
+10/01 10:58:05 generating graphs
+10/01 10:58:06 graph generation complete
+10/01 10:59:00 starting pings
+10/01 10:59:05 rrd update for yahoo.com failed retval 1
+10/01 10:59:05 mass ping failed retval 1
+10/01 11:00:00 starting pings
+10/01 11:00:06 rrd update for yahoo.com failed retval 1
+10/01 11:00:06 mass ping failed retval 1
+10/01 11:01:00 starting pings
+10/01 11:01:06 pings complete
+10/01 11:01:06 generating graphs
+10/01 11:01:07 graph generation complete
+10/01 11:02:00 starting pings
+10/01 11:02:04 rrd update for yahoo.com failed retval 1
+10/01 11:02:04 mass ping failed retval 1
+10/01 11:03:00 starting pings
+10/01 11:03:05 rrd update for yahoo.com failed retval 1
+10/01 11:03:05 mass ping failed retval 1
+10/01 11:04:00 starting pings
+10/01 11:04:05 pings complete
+10/01 11:04:05 generating graphs
+10/01 11:04:06 graph generation complete
+10/01 11:05:00 starting pings
+10/01 11:05:07 rrd update for yahoo.com failed retval 1
+10/01 11:05:07 mass ping failed retval 1
+10/01 11:06:00 starting pings
+10/01 11:06:06 pings complete
+10/01 11:06:06 generating graphs
+10/01 11:06:07 graph generation complete
+10/01 11:07:00 starting pings
+10/01 11:07:06 pings complete
+10/01 11:07:06 generating graphs
+10/01 11:07:07 graph generation complete
+10/01 11:08:00 starting pings
+10/01 11:08:06 pings complete
+10/01 11:08:06 generating graphs
+10/01 11:08:07 graph generation complete
+10/01 11:09:00 starting pings
+10/01 11:09:05 pings complete
+10/01 11:09:05 generating graphs
+10/01 11:09:06 graph generation complete
+10/01 11:10:00 starting pings
+10/01 11:10:05 pings complete
+10/01 11:10:05 generating graphs
+10/01 11:10:06 graph generation complete
+10/01 11:11:00 starting pings
+10/01 11:11:06 pings complete
+10/01 11:11:06 generating graphs
+10/01 11:11:08 graph generation complete
+10/01 11:12:00 starting pings
+10/01 11:12:07 pings complete
+10/01 11:12:07 generating graphs
+10/01 11:12:09 graph generation complete
+10/01 11:13:01 starting pings
+10/01 11:13:07 pings complete
+10/01 11:13:07 generating graphs
+10/01 11:13:08 graph generation complete
+10/01 11:14:00 starting pings
+10/01 11:14:08 pings complete
+10/01 11:14:08 generating graphs
+10/01 11:14:09 graph generation complete
+10/01 11:15:00 starting pings
+10/01 11:15:06 pings complete
+10/01 11:15:06 generating graphs
+10/01 11:15:07 graph generation complete
+10/01 11:16:00 starting pings
+10/01 11:16:06 pings complete
+10/01 11:16:06 generating graphs
+10/01 11:16:07 graph generation complete
+10/01 11:17:00 starting pings
+10/01 11:17:06 pings complete
+10/01 11:17:06 generating graphs
+10/01 11:17:07 graph generation complete
+10/01 11:18:00 starting pings
+10/01 11:18:08 pings complete
+10/01 11:18:08 generating graphs
+10/01 11:18:09 graph generation complete
+10/01 11:19:00 starting pings
+10/01 11:19:05 pings complete
+10/01 11:19:05 generating graphs
+10/01 11:19:06 graph generation complete
+10/01 11:20:00 starting pings
+10/01 11:20:06 pings complete
+10/01 11:20:06 generating graphs
+10/01 11:20:07 graph generation complete
+10/01 11:21:00 starting pings
+10/01 11:21:07 pings complete
+10/01 11:21:07 generating graphs
+10/01 11:21:09 graph generation complete
+10/01 11:22:00 starting pings
+10/01 11:22:07 pings complete
+10/01 11:22:07 generating graphs
+10/01 11:22:08 graph generation complete
+10/01 11:23:00 starting pings
+10/01 11:23:06 pings complete
+10/01 11:23:06 generating graphs
+10/01 11:23:07 graph generation complete
+10/01 11:24:00 starting pings
+10/01 11:24:06 pings complete
+10/01 11:24:06 generating graphs
+10/01 11:24:07 graph generation complete
+10/01 11:25:01 starting pings
+10/01 11:25:07 pings complete
+10/01 11:25:07 generating graphs
+10/01 11:25:08 graph generation complete
+10/01 11:26:00 starting pings
+10/01 11:26:06 pings complete
+10/01 11:26:06 generating graphs
+10/01 11:26:07 graph generation complete
+10/01 11:27:00 starting pings
+10/01 11:27:07 pings complete
+10/01 11:27:07 generating graphs
+10/01 11:27:08 graph generation complete
+10/01 11:28:00 starting pings
+10/01 11:28:06 pings complete
+10/01 11:28:06 generating graphs
+10/01 11:28:07 graph generation complete
+10/01 11:29:00 starting pings
+10/01 11:29:07 pings complete
+10/01 11:29:07 generating graphs
+10/01 11:29:08 graph generation complete
+10/01 11:30:00 starting pings
+10/01 11:30:07 pings complete
+10/01 11:30:07 generating graphs
+10/01 11:30:08 graph generation complete
+10/01 11:31:00 starting pings
+10/01 11:31:06 pings complete
+10/01 11:31:06 generating graphs
+10/01 11:31:07 graph generation complete
+10/01 11:32:00 starting pings
+10/01 11:32:07 pings complete
+10/01 11:32:07 generating graphs
+10/01 11:32:08 graph generation complete
+10/01 11:33:00 starting pings
+10/01 11:33:06 pings complete
+10/01 11:33:06 generating graphs
+10/01 11:33:07 graph generation complete
+10/01 11:34:00 starting pings
+10/01 11:34:06 pings complete
+10/01 11:34:06 generating graphs
+10/01 11:34:08 graph generation complete
+10/01 11:35:00 starting pings
+10/01 11:35:06 pings complete
+10/01 11:35:06 generating graphs
+10/01 11:35:07 graph generation complete
+10/01 11:36:00 starting pings
+10/01 11:36:06 pings complete
+10/01 11:36:06 generating graphs
+10/01 11:36:07 graph generation complete
+10/01 11:37:00 starting pings
+10/01 11:37:06 pings complete
+10/01 11:37:06 generating graphs
+10/01 11:37:07 graph generation complete
+10/01 11:38:00 starting pings
+10/01 11:38:07 pings complete
+10/01 11:38:07 generating graphs
+10/01 11:38:07 graph generation complete
+10/01 11:39:00 starting pings
+10/01 11:39:06 pings complete
+10/01 11:39:07 generating graphs
+10/01 11:39:08 graph generation complete
+10/01 11:40:00 starting pings
+10/01 11:40:06 pings complete
+10/01 11:40:06 generating graphs
+10/01 11:40:07 graph generation complete
+10/01 11:41:00 starting pings
+10/01 11:41:07 pings complete
+10/01 11:41:07 generating graphs
+10/01 11:41:08 graph generation complete
+10/01 11:42:00 starting pings
+10/01 11:42:07 pings complete
+10/01 11:42:07 generating graphs
+10/01 11:42:09 graph generation complete
+10/01 11:43:00 starting pings
+10/01 11:43:07 pings complete
+10/01 11:43:07 generating graphs
+10/01 11:43:08 graph generation complete
+10/01 11:44:00 starting pings
+10/01 11:44:07 pings complete
+10/01 11:44:07 generating graphs
+10/01 11:44:08 graph generation complete
+10/01 11:45:00 starting pings
+10/01 11:45:07 pings complete
+10/01 11:45:07 generating graphs
+10/01 11:45:08 graph generation complete
+10/01 11:46:00 starting pings
+10/01 11:46:07 pings complete
+10/01 11:46:07 generating graphs
+10/01 11:46:08 graph generation complete
+10/01 11:47:00 starting pings
+10/01 11:47:07 pings complete
+10/01 11:47:07 generating graphs
+10/01 11:47:08 graph generation complete
+10/01 11:48:00 starting pings
+10/01 11:48:08 pings complete
+10/01 11:48:08 generating graphs
+10/01 11:48:09 graph generation complete
+10/01 11:49:00 starting pings
+10/01 11:49:07 pings complete
+10/01 11:49:07 generating graphs
+10/01 11:49:08 graph generation complete
+10/01 11:50:00 starting pings
+10/01 11:50:08 pings complete
+10/01 11:50:08 generating graphs
+10/01 11:50:09 graph generation complete
+10/01 11:51:00 starting pings
+10/01 11:51:07 pings complete
+10/01 11:51:07 generating graphs
+10/01 11:51:09 graph generation complete
+10/01 11:52:00 starting pings
+10/01 11:52:07 pings complete
+10/01 11:52:07 generating graphs
+10/01 11:52:08 graph generation complete
+10/01 11:53:00 starting pings
+10/01 11:53:07 pings complete
+10/01 11:53:07 generating graphs
+10/01 11:53:08 graph generation complete
+10/01 11:54:00 starting pings
+10/01 11:54:08 pings complete
+10/01 11:54:08 generating graphs
+10/01 11:54:09 graph generation complete
+10/01 11:55:00 starting pings
+10/01 11:55:07 pings complete
+10/01 11:55:07 generating graphs
+10/01 11:55:09 graph generation complete
+10/01 11:56:00 starting pings
+10/01 11:56:07 pings complete
+10/01 11:56:07 generating graphs
+10/01 11:56:08 graph generation complete
+10/01 11:57:00 starting pings
+10/01 11:57:07 pings complete
+10/01 11:57:07 generating graphs
+10/01 11:57:08 graph generation complete
+10/01 11:58:00 starting pings
+10/01 11:58:07 pings complete
+10/01 11:58:07 generating graphs
+10/01 11:58:08 graph generation complete
+10/01 11:59:00 starting pings
+10/01 11:59:07 pings complete
+10/01 11:59:08 generating graphs
+10/01 11:59:08 graph generation complete
+10/01 12:00:01 starting pings
+10/01 12:00:08 pings complete
+10/01 12:00:08 generating graphs
+10/01 12:00:09 graph generation complete
+10/01 12:01:00 starting pings
+10/01 12:01:08 pings complete
+10/01 12:01:08 generating graphs
+10/01 12:01:08 graph generation complete
+10/01 12:02:01 starting pings
+10/01 12:02:08 pings complete
+10/01 12:02:08 generating graphs
+10/01 12:02:09 graph generation complete
+10/01 12:03:00 starting pings
+10/01 12:03:07 pings complete
+10/01 12:03:07 generating graphs
+10/01 12:03:08 graph generation complete
+10/01 12:04:01 starting pings
+10/01 12:04:08 pings complete
+10/01 12:04:08 generating graphs
+10/01 12:04:09 graph generation complete
+10/01 12:05:00 starting pings
+10/01 12:05:07 pings complete
+10/01 12:05:07 generating graphs
+10/01 12:05:08 graph generation complete
+10/01 12:06:00 starting pings
+10/01 12:06:06 pings complete
+10/01 12:06:06 generating graphs
+10/01 12:06:07 graph generation complete
+10/01 12:07:00 starting pings
+10/01 12:07:06 pings complete
+10/01 12:07:06 generating graphs
+10/01 12:07:07 graph generation complete
+10/01 12:08:00 starting pings
+10/01 12:08:06 pings complete
+10/01 12:08:06 generating graphs
+10/01 12:08:07 graph generation complete
+10/01 12:09:00 starting pings
+10/01 12:09:06 pings complete
+10/01 12:09:06 generating graphs
+10/01 12:09:07 graph generation complete
+10/01 12:10:00 starting pings
+10/01 12:10:06 pings complete
+10/01 12:10:06 generating graphs
+10/01 12:10:07 graph generation complete
+10/01 12:11:00 starting pings
+10/01 12:11:06 pings complete
+10/01 12:11:06 generating graphs
+10/01 12:11:07 graph generation complete
+10/01 12:12:00 starting pings
+10/01 12:12:06 pings complete
+10/01 12:12:06 generating graphs
+10/01 12:12:07 graph generation complete
+10/01 12:13:00 starting pings
+10/01 12:13:06 pings complete
+10/01 12:13:06 generating graphs
+10/01 12:13:07 graph generation complete
+10/01 12:14:00 starting pings
+10/01 12:14:06 pings complete
+10/01 12:14:06 generating graphs
+10/01 12:14:07 graph generation complete
+10/01 12:15:00 starting pings
+10/01 12:15:06 pings complete
+10/01 12:15:06 generating graphs
+10/01 12:15:07 graph generation complete
+10/01 12:16:00 starting pings
+10/01 12:16:07 pings complete
+10/01 12:16:07 generating graphs
+10/01 12:16:08 graph generation complete
+10/01 12:17:00 starting pings
+10/01 12:17:06 pings complete
+10/01 12:17:06 generating graphs
+10/01 12:17:07 graph generation complete
+10/01 12:18:00 starting pings
+10/01 12:18:06 pings complete
+10/01 12:18:06 generating graphs
+10/01 12:18:07 graph generation complete
+10/01 12:19:00 starting pings
+10/01 12:19:06 pings complete
+10/01 12:19:06 generating graphs
+10/01 12:19:07 graph generation complete
+10/01 12:20:01 starting pings
+10/01 12:20:07 pings complete
+10/01 12:20:07 generating graphs
+10/01 12:20:07 graph generation complete
+10/01 12:21:01 starting pings
+10/01 12:21:07 pings complete
+10/01 12:21:07 generating graphs
+10/01 12:21:08 graph generation complete
+10/01 12:22:00 starting pings
+10/01 12:22:06 pings complete
+10/01 12:22:06 generating graphs
+10/01 12:22:07 graph generation complete
+10/01 12:23:00 starting pings
+10/01 12:23:06 pings complete
+10/01 12:23:06 generating graphs
+10/01 12:23:07 graph generation complete
+10/01 12:24:00 starting pings
+10/01 12:24:06 pings complete
+10/01 12:24:07 generating graphs
+10/01 12:24:07 graph generation complete
+10/01 12:25:01 starting pings
+10/01 12:25:07 pings complete
+10/01 12:25:07 generating graphs
+10/01 12:25:08 graph generation complete
+10/01 12:26:00 starting pings
+10/01 12:26:06 pings complete
+10/01 12:26:06 generating graphs
+10/01 12:26:07 graph generation complete
+10/01 12:27:00 starting pings
+10/01 12:27:06 pings complete
+10/01 12:27:06 generating graphs
+10/01 12:27:07 graph generation complete
+10/01 12:28:00 starting pings
+10/01 12:28:06 pings complete
+10/01 12:28:06 generating graphs
+10/01 12:28:07 graph generation complete
+10/01 12:29:01 starting pings
+10/01 12:29:07 pings complete
+10/01 12:29:07 generating graphs
+10/01 12:29:07 graph generation complete
+10/01 12:30:01 starting pings
+10/01 12:30:07 pings complete
+10/01 12:30:07 generating graphs
+10/01 12:30:08 graph generation complete
+10/01 12:31:00 starting pings
+10/01 12:31:06 pings complete
+10/01 12:31:06 generating graphs
+10/01 12:31:07 graph generation complete
+10/01 12:32:00 starting pings
+10/01 12:32:07 pings complete
+10/01 12:32:07 generating graphs
+10/01 12:32:08 graph generation complete
+10/01 12:33:00 starting pings
+10/01 12:33:07 pings complete
+10/01 12:33:07 generating graphs
+10/01 12:33:08 graph generation complete
+10/01 12:34:00 starting pings
+10/01 12:34:08 pings complete
+10/01 12:34:08 generating graphs
+10/01 12:34:09 graph generation complete
+10/01 12:35:00 starting pings
+10/01 12:35:07 pings complete
+10/01 12:35:07 generating graphs
+10/01 12:35:08 graph generation complete
+10/01 12:36:00 starting pings
+10/01 12:36:07 pings complete
+10/01 12:36:07 generating graphs
+10/01 12:36:08 graph generation complete
+10/01 12:37:00 starting pings
+10/01 12:37:07 pings complete
+10/01 12:37:07 generating graphs
+10/01 12:37:08 graph generation complete
+10/01 12:38:00 starting pings
+10/01 12:38:07 pings complete
+10/01 12:38:07 generating graphs
+10/01 12:38:08 graph generation complete
+10/01 12:39:00 starting pings
+10/01 12:39:08 pings complete
+10/01 12:39:08 generating graphs
+10/01 12:39:09 graph generation complete
+10/01 12:40:00 starting pings
+10/01 12:40:07 pings complete
+10/01 12:40:07 generating graphs
+10/01 12:40:08 graph generation complete
+10/01 12:41:00 starting pings
+10/01 12:41:07 pings complete
+10/01 12:41:07 generating graphs
+10/01 12:41:08 graph generation complete
+10/01 12:42:01 starting pings
+10/01 12:42:08 pings complete
+10/01 12:42:08 generating graphs
+10/01 12:42:09 graph generation complete
+10/01 12:43:00 starting pings
+10/01 12:43:07 pings complete
+10/01 12:43:07 generating graphs
+10/01 12:43:08 graph generation complete
+10/01 12:44:00 starting pings
+10/01 12:44:07 pings complete
+10/01 12:44:07 generating graphs
+10/01 12:44:08 graph generation complete
+10/01 12:45:00 starting pings
+10/01 12:45:07 pings complete
+10/01 12:45:07 generating graphs
+10/01 12:45:08 graph generation complete
+10/01 12:46:00 starting pings
+10/01 12:46:07 pings complete
+10/01 12:46:07 generating graphs
+10/01 12:46:08 graph generation complete
+10/01 12:47:00 starting pings
+10/01 12:47:08 pings complete
+10/01 12:47:08 generating graphs
+10/01 12:47:09 graph generation complete
+10/01 12:48:00 starting pings
+10/01 12:48:07 pings complete
+10/01 12:48:07 generating graphs
+10/01 12:48:08 graph generation complete
+10/01 12:49:00 starting pings
+10/01 12:49:08 pings complete
+10/01 12:49:08 generating graphs
+10/01 12:49:09 graph generation complete
+10/01 12:50:00 starting pings
+10/01 12:50:07 pings complete
+10/01 12:50:07 generating graphs
+10/01 12:50:08 graph generation complete
+10/01 12:51:00 starting pings
+10/01 12:51:08 pings complete
+10/01 12:51:08 generating graphs
+10/01 12:51:09 graph generation complete
+10/01 12:52:00 starting pings
+10/01 12:52:07 pings complete
+10/01 12:52:07 generating graphs
+10/01 12:52:08 graph generation complete
+10/01 12:53:00 starting pings
+10/01 12:53:07 pings complete
+10/01 12:53:07 generating graphs
+10/01 12:53:08 graph generation complete
+10/01 12:54:00 starting pings
+10/01 12:54:08 pings complete
+10/01 12:54:08 generating graphs
+10/01 12:54:09 graph generation complete
+10/01 12:55:00 starting pings
+10/01 12:55:07 pings complete
+10/01 12:55:07 generating graphs
+10/01 12:55:08 graph generation complete
+10/01 12:56:00 starting pings
+10/01 12:56:07 pings complete
+10/01 12:56:07 generating graphs
+10/01 12:56:08 graph generation complete
+10/01 12:57:00 starting pings
+10/01 12:57:07 pings complete
+10/01 12:57:07 generating graphs
+10/01 12:57:08 graph generation complete
+10/01 12:58:00 starting pings
+10/01 12:58:08 pings complete
+10/01 12:58:08 generating graphs
+10/01 12:58:09 graph generation complete
+10/01 12:59:00 starting pings
+10/01 12:59:07 pings complete
+10/01 12:59:07 generating graphs
+10/01 12:59:09 graph generation complete
+10/01 13:00:00 starting pings
+10/01 13:00:07 pings complete
+10/01 13:00:07 generating graphs
+10/01 13:00:08 graph generation complete
+10/01 13:01:00 starting pings
+10/01 13:01:08 pings complete
+10/01 13:01:09 generating graphs
+10/01 13:01:10 graph generation complete
+10/01 13:02:00 starting pings
+10/01 13:02:07 pings complete
+10/01 13:02:07 generating graphs
+10/01 13:02:08 graph generation complete
+10/01 13:03:00 starting pings
+10/01 13:03:07 pings complete
+10/01 13:03:07 generating graphs
+10/01 13:03:08 graph generation complete
+10/01 13:04:00 starting pings
+10/01 13:04:07 pings complete
+10/01 13:04:07 generating graphs
+10/01 13:04:08 graph generation complete
+10/01 13:05:00 starting pings
+10/01 13:05:07 pings complete
+10/01 13:05:07 generating graphs
+10/01 13:05:08 graph generation complete
+10/01 13:06:00 starting pings
+10/01 13:06:08 pings complete
+10/01 13:06:08 generating graphs
+10/01 13:06:09 graph generation complete
+10/01 13:07:00 starting pings
+10/01 13:07:07 pings complete
+10/01 13:07:07 generating graphs
+10/01 13:07:08 graph generation complete
+10/01 13:08:00 starting pings
+10/01 13:08:08 pings complete
+10/01 13:08:08 generating graphs
+10/01 13:08:09 graph generation complete
+10/01 13:09:00 starting pings
+10/01 13:09:07 pings complete
+10/01 13:09:07 generating graphs
+10/01 13:09:08 graph generation complete
+10/01 13:10:00 starting pings
+10/01 13:10:08 pings complete
+10/01 13:10:08 generating graphs
+10/01 13:10:09 graph generation complete
+10/01 13:11:00 starting pings
+10/01 13:11:07 pings complete
+10/01 13:11:07 generating graphs
+10/01 13:11:08 graph generation complete
+10/01 13:12:00 starting pings
+10/01 13:12:07 pings complete
+10/01 13:12:07 generating graphs
+10/01 13:12:08 graph generation complete
+10/01 13:13:00 starting pings
+10/01 13:13:07 pings complete
+10/01 13:13:07 generating graphs
+10/01 13:13:08 graph generation complete
+10/01 13:14:00 starting pings
+10/01 13:14:07 pings complete
+10/01 13:14:07 generating graphs
+10/01 13:14:08 graph generation complete
+10/01 13:15:00 starting pings
+10/01 13:15:08 pings complete
+10/01 13:15:08 generating graphs
+10/01 13:15:08 graph generation complete
+10/01 13:16:01 starting pings
+10/01 13:16:08 pings complete
+10/01 13:16:08 generating graphs
+10/01 13:16:09 graph generation complete
+10/01 13:17:00 starting pings
+10/01 13:17:07 pings complete
+10/01 13:17:07 generating graphs
+10/01 13:17:08 graph generation complete
+10/01 13:18:00 starting pings
+10/01 13:18:07 pings complete
+10/01 13:18:07 generating graphs
+10/01 13:18:07 graph generation complete
+10/01 13:19:00 starting pings
+10/01 13:19:07 pings complete
+10/01 13:19:07 generating graphs
+10/01 13:19:08 graph generation complete
+10/01 13:20:00 starting pings
+10/01 13:20:07 pings complete
+10/01 13:20:07 generating graphs
+10/01 13:20:08 graph generation complete
+10/01 13:21:00 starting pings
+10/01 13:21:08 pings complete
+10/01 13:21:08 generating graphs
+10/01 13:21:09 graph generation complete
+10/01 13:22:00 starting pings
+10/01 13:22:07 pings complete
+10/01 13:22:07 generating graphs
+10/01 13:22:08 graph generation complete
+10/01 13:23:00 starting pings
+10/01 13:23:07 pings complete
+10/01 13:23:07 generating graphs
+10/01 13:23:08 graph generation complete
+10/01 13:24:00 starting pings
+10/01 13:24:08 pings complete
+10/01 13:24:08 generating graphs
+10/01 13:24:10 graph generation complete
+10/01 13:25:00 starting pings
+10/01 13:25:07 pings complete
+10/01 13:25:07 generating graphs
+10/01 13:25:08 graph generation complete
+10/01 13:26:00 starting pings
+10/01 13:26:07 pings complete
+10/01 13:26:08 generating graphs
+10/01 13:26:08 graph generation complete
+10/01 13:27:00 starting pings
+10/01 13:27:08 pings complete
+10/01 13:27:08 generating graphs
+10/01 13:27:09 graph generation complete
+10/01 13:28:00 starting pings
+10/01 13:28:07 pings complete
+10/01 13:28:07 generating graphs
+10/01 13:28:07 graph generation complete
+10/01 13:29:01 starting pings
+10/01 13:29:08 pings complete
+10/01 13:29:08 generating graphs
+10/01 13:29:09 graph generation complete
+10/01 13:30:00 starting pings
+10/01 13:30:07 pings complete
+10/01 13:30:08 generating graphs
+10/01 13:30:08 graph generation complete
+10/01 13:31:01 starting pings
+10/01 13:31:08 pings complete
+10/01 13:31:08 generating graphs
+10/01 13:31:09 graph generation complete
+10/01 13:32:00 starting pings
+10/01 13:32:07 pings complete
+10/01 13:32:07 generating graphs
+10/01 13:32:08 graph generation complete
+10/01 13:33:00 starting pings
+10/01 13:33:08 pings complete
+10/01 13:33:08 generating graphs
+10/01 13:33:09 graph generation complete
+10/01 13:34:00 starting pings
+10/01 13:34:07 pings complete
+10/01 13:34:07 generating graphs
+10/01 13:34:08 graph generation complete
+10/01 13:35:00 starting pings
+10/01 13:35:07 pings complete
+10/01 13:35:07 generating graphs
+10/01 13:35:08 graph generation complete
+10/01 13:36:00 starting pings
+10/01 13:36:08 pings complete
+10/01 13:36:08 generating graphs
+10/01 13:36:09 graph generation complete
+10/01 13:37:00 starting pings
+10/01 13:37:07 pings complete
+10/01 13:37:07 generating graphs
+10/01 13:37:08 graph generation complete
+10/01 13:38:00 starting pings
+10/01 13:38:07 pings complete
+10/01 13:38:07 generating graphs
+10/01 13:38:08 graph generation complete
+10/01 13:39:00 starting pings
+10/01 13:39:08 pings complete
+10/01 13:39:08 generating graphs
+10/01 13:39:09 graph generation complete
+10/01 13:40:00 starting pings
+10/01 13:40:07 pings complete
+10/01 13:40:07 generating graphs
+10/01 13:40:08 graph generation complete
+10/01 13:41:00 starting pings
+10/01 13:41:08 pings complete
+10/01 13:41:08 generating graphs
+10/01 13:41:09 graph generation complete
+10/01 13:42:00 starting pings
+10/01 13:42:07 pings complete
+10/01 13:42:07 generating graphs
+10/01 13:42:08 graph generation complete
+10/01 13:43:00 starting pings
+10/01 13:43:08 pings complete
+10/01 13:43:08 generating graphs
+10/01 13:43:09 graph generation complete
+10/01 13:44:00 starting pings
+10/01 13:44:06 pings complete
+10/01 13:44:06 generating graphs
+10/01 13:44:07 graph generation complete
+10/01 13:45:00 starting pings
+10/01 13:45:07 pings complete
+10/01 13:45:07 generating graphs
+10/01 13:45:08 graph generation complete
+10/01 13:46:00 starting pings
+10/01 13:46:06 pings complete
+10/01 13:46:06 generating graphs
+10/01 13:46:07 graph generation complete
+10/01 13:47:00 starting pings
+10/01 13:47:06 pings complete
+10/01 13:47:06 generating graphs
+10/01 13:47:07 graph generation complete
+10/01 13:48:00 starting pings
+10/01 13:48:06 pings complete
+10/01 13:48:06 generating graphs
+10/01 13:48:07 graph generation complete
+10/01 13:49:00 starting pings
+10/01 13:49:06 pings complete
+10/01 13:49:07 generating graphs
+10/01 13:49:08 graph generation complete
+10/01 13:50:00 starting pings
+10/01 13:50:06 pings complete
+10/01 13:50:06 generating graphs
+10/01 13:50:07 graph generation complete
+10/01 13:51:00 starting pings
+10/01 13:51:06 pings complete
+10/01 13:51:06 generating graphs
+10/01 13:51:07 graph generation complete
+10/01 13:52:00 starting pings
+10/01 13:52:06 pings complete
+10/01 13:52:06 generating graphs
+10/01 13:52:07 graph generation complete
+10/01 13:53:00 starting pings
+10/01 13:53:07 pings complete
+10/01 13:53:07 generating graphs
+10/01 13:53:08 graph generation complete
+10/01 13:54:00 starting pings
+10/01 13:54:07 pings complete
+10/01 13:54:07 generating graphs
+10/01 13:54:08 graph generation complete
+10/01 13:55:00 starting pings
+10/01 13:55:08 pings complete
+10/01 13:55:08 generating graphs
+10/01 13:55:09 graph generation complete
+10/01 13:56:00 starting pings
+10/01 13:56:07 pings complete
+10/01 13:56:07 generating graphs
+10/01 13:56:08 graph generation complete
+10/01 13:57:00 starting pings
+10/01 13:57:06 pings complete
+10/01 13:57:06 generating graphs
+10/01 13:57:07 graph generation complete
+10/01 13:58:00 starting pings
+10/01 13:58:08 pings complete
+10/01 13:58:08 generating graphs
+10/01 13:58:09 graph generation complete
+10/01 13:59:00 starting pings
+10/01 13:59:07 pings complete
+10/01 13:59:07 generating graphs
+10/01 13:59:08 graph generation complete
+10/01 14:00:00 starting pings
+10/01 14:00:07 pings complete
+10/01 14:00:07 generating graphs
+10/01 14:00:08 graph generation complete
+10/01 14:01:00 starting pings
+10/01 14:01:07 pings complete
+10/01 14:01:07 generating graphs
+10/01 14:01:08 graph generation complete
+10/01 14:02:00 starting pings
+10/01 14:02:07 pings complete
+10/01 14:02:07 generating graphs
+10/01 14:02:08 graph generation complete
+10/01 14:03:00 starting pings
+10/01 14:03:06 rrd update for yahoo.com failed retval 1
+10/01 14:03:07 mass ping failed retval 1
+10/01 14:04:00 starting pings
+10/01 14:04:07 pings complete
+10/01 14:04:07 generating graphs
+10/01 14:04:08 graph generation complete
+10/01 14:05:00 starting pings
+10/01 14:05:06 rrd update for yahoo.com failed retval 1
+10/01 14:05:06 mass ping failed retval 1
+10/01 14:06:00 starting pings
+10/01 14:06:07 pings complete
+10/01 14:06:07 generating graphs
+10/01 14:06:08 graph generation complete
+10/01 14:07:00 starting pings
+10/01 14:07:08 pings complete
+10/01 14:07:08 generating graphs
+10/01 14:07:08 graph generation complete
+10/01 14:08:01 starting pings
+10/01 14:08:07 rrd update for yahoo.com failed retval 1
+10/01 14:08:07 mass ping failed retval 1
+10/01 14:09:00 starting pings
+10/01 14:09:07 pings complete
+10/01 14:09:07 generating graphs
+10/01 14:09:08 graph generation complete
+10/01 14:10:00 starting pings
+10/01 14:10:07 pings complete
+10/01 14:10:07 generating graphs
+10/01 14:10:08 graph generation complete
+10/01 14:11:00 starting pings
+10/01 14:11:07 pings complete
+10/01 14:11:07 generating graphs
+10/01 14:11:08 graph generation complete
+10/01 14:12:00 starting pings
+10/01 14:12:07 pings complete
+10/01 14:12:07 generating graphs
+10/01 14:12:08 graph generation complete
+10/01 14:13:01 starting pings
+10/01 14:13:08 pings complete
+10/01 14:13:08 generating graphs
+10/01 14:13:08 graph generation complete
+10/01 14:14:01 starting pings
+10/01 14:14:08 pings complete
+10/01 14:14:08 generating graphs
+10/01 14:14:09 graph generation complete
+10/01 14:15:00 starting pings
+10/01 14:15:07 pings complete
+10/01 14:15:07 generating graphs
+10/01 14:15:08 graph generation complete
+10/01 14:16:00 starting pings
+10/01 14:16:07 pings complete
+10/01 14:16:07 generating graphs
+10/01 14:16:08 graph generation complete
+10/01 14:17:00 starting pings
+10/01 14:17:07 pings complete
+10/01 14:17:07 generating graphs
+10/01 14:17:08 graph generation complete
+10/01 14:18:00 starting pings
+10/01 14:18:07 pings complete
+10/01 14:18:07 generating graphs
+10/01 14:18:08 graph generation complete
+10/01 14:19:01 starting pings
+10/01 14:19:08 pings complete
+10/01 14:19:08 generating graphs
+10/01 14:19:09 graph generation complete
+10/01 14:20:00 starting pings
+10/01 14:20:07 pings complete
+10/01 14:20:07 generating graphs
+10/01 14:20:08 graph generation complete
+10/01 14:21:00 starting pings
+10/01 14:21:07 pings complete
+10/01 14:21:07 generating graphs
+10/01 14:21:08 graph generation complete
+10/01 14:22:00 starting pings
+10/01 14:22:08 pings complete
+10/01 14:22:08 generating graphs
+10/01 14:22:09 graph generation complete
+10/01 14:23:00 starting pings
+10/01 14:23:07 pings complete
+10/01 14:23:07 generating graphs
+10/01 14:23:08 graph generation complete
+10/01 14:24:00 starting pings
+10/01 14:24:07 pings complete
+10/01 14:24:07 generating graphs
+10/01 14:24:08 graph generation complete
+10/01 14:25:00 starting pings
+10/01 14:25:07 pings complete
+10/01 14:25:07 generating graphs
+10/01 14:25:08 graph generation complete
+10/01 14:26:01 starting pings
+10/01 14:26:08 pings complete
+10/01 14:26:08 generating graphs
+10/01 14:26:09 graph generation complete
+10/01 14:27:00 starting pings
+10/01 14:27:07 pings complete
+10/01 14:27:07 generating graphs
+10/01 14:27:08 graph generation complete
+10/01 14:28:00 starting pings
+10/01 14:28:07 pings complete
+10/01 14:28:08 generating graphs
+10/01 14:28:09 graph generation complete
+10/01 14:29:00 starting pings
+10/01 14:29:07 pings complete
+10/01 14:29:07 generating graphs
+10/01 14:29:08 graph generation complete
+10/01 14:30:00 starting pings
+10/01 14:30:07 pings complete
+10/01 14:30:07 generating graphs
+10/01 14:30:08 graph generation complete
+10/01 14:31:01 starting pings
+10/01 14:31:08 pings complete
+10/01 14:31:08 generating graphs
+10/01 14:31:09 graph generation complete
+10/01 14:32:00 starting pings
+10/01 14:32:07 pings complete
+10/01 14:32:07 generating graphs
+10/01 14:32:08 graph generation complete
+10/01 14:33:00 starting pings
+10/01 14:33:07 pings complete
+10/01 14:33:08 generating graphs
+10/01 14:33:09 graph generation complete
+10/01 14:34:00 starting pings
+10/01 14:34:07 pings complete
+10/01 14:34:07 generating graphs
+10/01 14:34:08 graph generation complete
+10/01 14:35:00 starting pings
+10/01 14:35:08 pings complete
+10/01 14:35:08 generating graphs
+10/01 14:35:09 graph generation complete
+10/01 14:36:00 starting pings
+10/01 14:36:07 pings complete
+10/01 14:36:07 generating graphs
+10/01 14:36:08 graph generation complete
+10/01 14:37:00 starting pings
+10/01 14:37:08 pings complete
+10/01 14:37:08 generating graphs
+10/01 14:37:09 graph generation complete
+10/01 14:38:00 starting pings
+10/01 14:38:07 pings complete
+10/01 14:38:07 generating graphs
+10/01 14:38:08 graph generation complete
+10/01 14:39:00 starting pings
+10/01 14:39:07 pings complete
+10/01 14:39:07 generating graphs
+10/01 14:39:08 graph generation complete
+10/01 14:40:00 starting pings
+10/01 14:40:07 pings complete
+10/01 14:40:07 generating graphs
+10/01 14:40:08 graph generation complete
+10/01 14:41:00 starting pings
+10/01 14:41:08 pings complete
+10/01 14:41:08 generating graphs
+10/01 14:41:09 graph generation complete
+10/01 14:42:00 starting pings
+10/01 14:42:07 pings complete
+10/01 14:42:08 generating graphs
+10/01 14:42:08 graph generation complete
+10/01 14:43:01 starting pings
+10/01 14:43:08 pings complete
+10/01 14:43:08 generating graphs
+10/01 14:43:09 graph generation complete
+10/01 14:44:00 starting pings
+10/01 14:44:07 pings complete
+10/01 14:44:07 generating graphs
+10/01 14:44:08 graph generation complete
+10/01 14:45:00 starting pings
+10/01 14:45:08 pings complete
+10/01 14:45:08 generating graphs
+10/01 14:45:08 graph generation complete
+10/01 14:46:01 starting pings
+10/01 14:46:08 pings complete
+10/01 14:46:08 generating graphs
+10/01 14:46:09 graph generation complete
+10/01 14:47:00 starting pings
+10/01 14:47:08 pings complete
+10/01 14:47:08 generating graphs
+10/01 14:47:09 graph generation complete
+10/01 14:48:00 starting pings
+10/01 14:48:07 pings complete
+10/01 14:48:07 generating graphs
+10/01 14:48:08 graph generation complete
+10/01 14:49:00 starting pings
+10/01 14:49:07 pings complete
+10/01 14:49:07 generating graphs
+10/01 14:49:08 graph generation complete
+10/01 14:50:00 starting pings
+10/01 14:50:07 pings complete
+10/01 14:50:08 generating graphs
+10/01 14:50:08 graph generation complete
+10/01 14:51:00 starting pings
+10/01 14:51:08 pings complete
+10/01 14:51:08 generating graphs
+10/01 14:51:09 graph generation complete
+10/01 14:52:00 starting pings
+10/01 14:52:07 pings complete
+10/01 14:52:07 generating graphs
+10/01 14:52:08 graph generation complete
+10/01 14:53:00 starting pings
+10/01 14:53:07 pings complete
+10/01 14:53:07 generating graphs
+10/01 14:53:08 graph generation complete
+10/01 14:54:01 starting pings
+10/01 14:54:08 pings complete
+10/01 14:54:08 generating graphs
+10/01 14:54:09 graph generation complete
+10/01 14:55:00 starting pings
+10/01 14:55:07 pings complete
+10/01 14:55:07 generating graphs
+10/01 14:55:08 graph generation complete
+10/01 14:56:00 starting pings
+10/01 14:56:07 pings complete
+10/01 14:56:07 generating graphs
+10/01 14:56:08 graph generation complete
+10/01 14:57:00 starting pings
+10/01 14:57:08 pings complete
+10/01 14:57:08 generating graphs
+10/01 14:57:09 graph generation complete
+10/01 14:58:00 starting pings
+10/01 14:58:07 pings complete
+10/01 14:58:07 generating graphs
+10/01 14:58:08 graph generation complete
+10/01 14:59:01 starting pings
+10/01 14:59:08 pings complete
+10/01 14:59:08 generating graphs
+10/01 14:59:09 graph generation complete
+10/01 15:00:00 starting pings
+10/01 15:00:07 pings complete
+10/01 15:00:07 generating graphs
+10/01 15:00:08 graph generation complete
+10/01 15:01:00 starting pings
+10/01 15:01:07 pings complete
+10/01 15:01:07 generating graphs
+10/01 15:01:08 graph generation complete
+10/01 15:02:00 starting pings
+10/01 15:02:07 pings complete
+10/01 15:02:07 generating graphs
+10/01 15:02:08 graph generation complete
+10/01 15:03:00 starting pings
+10/01 15:03:08 pings complete
+10/01 15:03:08 generating graphs
+10/01 15:03:09 graph generation complete
+10/01 15:04:00 starting pings
+10/01 15:04:08 pings complete
+10/01 15:04:08 generating graphs
+10/01 15:04:09 graph generation complete
+10/01 15:05:00 starting pings
+10/01 15:05:07 pings complete
+10/01 15:05:07 generating graphs
+10/01 15:05:09 graph generation complete
+10/01 15:06:00 starting pings
+10/01 15:06:07 pings complete
+10/01 15:06:07 generating graphs
+10/01 15:06:08 graph generation complete
+10/01 15:07:00 starting pings
+10/01 15:07:08 pings complete
+10/01 15:07:08 generating graphs
+10/01 15:07:09 graph generation complete
+10/01 15:08:00 starting pings
+10/01 15:08:06 pings complete
+10/01 15:08:06 generating graphs
+10/01 15:08:07 graph generation complete
+10/01 15:09:00 starting pings
+10/01 15:09:06 pings complete
+10/01 15:09:06 generating graphs
+10/01 15:09:07 graph generation complete
+10/01 15:10:00 starting pings
+10/01 15:10:06 pings complete
+10/01 15:10:06 generating graphs
+10/01 15:10:07 graph generation complete
+10/01 15:11:00 starting pings
+10/01 15:11:05 rrd update for yahoo.com failed retval 1
+10/01 15:11:05 mass ping failed retval 1
+10/01 15:12:00 starting pings
+10/01 15:12:07 pings complete
+10/01 15:12:07 generating graphs
+10/01 15:12:08 graph generation complete
+10/01 15:13:00 starting pings
+10/01 15:13:06 pings complete
+10/01 15:13:06 generating graphs
+10/01 15:13:07 graph generation complete
+10/01 15:14:00 starting pings
+10/01 15:14:06 pings complete
+10/01 15:14:06 generating graphs
+10/01 15:14:07 graph generation complete
+10/01 15:15:00 starting pings
+10/01 15:15:06 pings complete
+10/01 15:15:06 generating graphs
+10/01 15:15:07 graph generation complete
+10/01 15:16:00 starting pings
+10/01 15:16:07 pings complete
+10/01 15:16:07 generating graphs
+10/01 15:16:08 graph generation complete
+10/01 15:17:00 starting pings
+10/01 15:17:06 pings complete
+10/01 15:17:06 generating graphs
+10/01 15:17:07 graph generation complete
+10/01 15:18:00 starting pings
+10/01 15:18:06 pings complete
+10/01 15:18:06 generating graphs
+10/01 15:18:07 graph generation complete
+10/01 15:19:00 starting pings
+10/01 15:19:08 pings complete
+10/01 15:19:08 generating graphs
+10/01 15:19:09 graph generation complete
+10/01 15:20:00 starting pings
+10/01 15:20:07 pings complete
+10/01 15:20:07 generating graphs
+10/01 15:20:08 graph generation complete
+10/01 15:21:01 starting pings
+10/01 15:21:08 pings complete
+10/01 15:21:08 generating graphs
+10/01 15:21:09 graph generation complete
+10/01 15:22:01 starting pings
+10/01 15:22:08 pings complete
+10/01 15:22:08 generating graphs
+10/01 15:22:09 graph generation complete
+10/01 15:23:00 starting pings
+10/01 15:23:07 pings complete
+10/01 15:23:07 generating graphs
+10/01 15:23:08 graph generation complete
+10/01 15:24:00 starting pings
+10/01 15:24:07 pings complete
+10/01 15:24:07 generating graphs
+10/01 15:24:08 graph generation complete
+10/01 15:25:00 starting pings
+10/01 15:25:07 pings complete
+10/01 15:25:07 generating graphs
+10/01 15:25:08 graph generation complete
+10/01 15:26:01 starting pings
+10/01 15:26:08 pings complete
+10/01 15:26:08 generating graphs
+10/01 15:26:08 graph generation complete
+10/01 15:27:00 starting pings
+10/01 15:27:07 pings complete
+10/01 15:27:07 generating graphs
+10/01 15:27:08 graph generation complete
+10/01 15:28:00 starting pings
+10/01 15:28:07 pings complete
+10/01 15:28:07 generating graphs
+10/01 15:28:08 graph generation complete
+10/01 15:29:01 starting pings
+10/01 15:29:08 pings complete
+10/01 15:29:08 generating graphs
+10/01 15:29:09 graph generation complete
+10/01 15:30:00 starting pings
+10/01 15:30:07 pings complete
+10/01 15:30:07 generating graphs
+10/01 15:30:08 graph generation complete
+10/01 15:31:00 starting pings
+10/01 15:31:07 pings complete
+10/01 15:31:07 generating graphs
+10/01 15:31:08 graph generation complete
+10/01 15:32:01 starting pings
+10/01 15:32:08 pings complete
+10/01 15:32:08 generating graphs
+10/01 15:32:09 graph generation complete
+10/01 15:33:00 starting pings
+10/01 15:33:07 pings complete
+10/01 15:33:07 generating graphs
+10/01 15:33:07 graph generation complete
+10/01 15:34:01 starting pings
+10/01 15:34:08 pings complete
+10/01 15:34:08 generating graphs
+10/01 15:34:08 graph generation complete
+10/01 15:35:01 starting pings
+10/01 15:35:08 pings complete
+10/01 15:35:08 generating graphs
+10/01 15:35:09 graph generation complete
+10/01 15:36:00 starting pings
+10/01 15:36:07 pings complete
+10/01 15:36:07 generating graphs
+10/01 15:36:07 graph generation complete
+10/01 15:37:01 starting pings
+10/01 15:37:08 pings complete
+10/01 15:37:08 generating graphs
+10/01 15:37:09 graph generation complete
+10/01 15:38:00 starting pings
+10/01 15:38:07 pings complete
+10/01 15:38:07 generating graphs
+10/01 15:38:08 graph generation complete
+10/01 15:39:00 starting pings
+10/01 15:39:07 pings complete
+10/01 15:39:07 generating graphs
+10/01 15:39:08 graph generation complete
+10/01 15:40:00 starting pings
+10/01 15:40:07 pings complete
+10/01 15:40:07 generating graphs
+10/01 15:40:08 graph generation complete
+10/01 15:41:00 starting pings
+10/01 15:41:08 pings complete
+10/01 15:41:08 generating graphs
+10/01 15:41:09 graph generation complete
+10/01 15:42:00 starting pings
+10/01 15:42:07 pings complete
+10/01 15:42:07 generating graphs
+10/01 15:42:08 graph generation complete
+10/01 15:43:00 starting pings
+10/01 15:43:07 pings complete
+10/01 15:43:07 generating graphs
+10/01 15:43:08 graph generation complete
+10/01 15:44:00 starting pings
+10/01 15:44:07 pings complete
+10/01 15:44:07 generating graphs
+10/01 15:44:08 graph generation complete
+10/01 15:45:01 starting pings
+10/01 15:45:08 pings complete
+10/01 15:45:08 generating graphs
+10/01 15:45:09 graph generation complete
+10/01 15:46:00 starting pings
+10/01 15:46:07 pings complete
+10/01 15:46:07 generating graphs
+10/01 15:46:08 graph generation complete
+10/01 15:47:00 starting pings
+10/01 15:47:07 pings complete
+10/01 15:47:07 generating graphs
+10/01 15:47:08 graph generation complete
+10/01 15:48:00 starting pings
+10/01 15:48:08 pings complete
+10/01 15:48:08 generating graphs
+10/01 15:48:09 graph generation complete
+10/01 15:49:00 starting pings
+10/01 15:49:07 pings complete
+10/01 15:49:07 generating graphs
+10/01 15:49:08 graph generation complete
+10/01 15:50:01 starting pings
+10/01 15:50:08 pings complete
+10/01 15:50:08 generating graphs
+10/01 15:50:09 graph generation complete
+10/01 15:51:00 starting pings
+10/01 15:51:08 pings complete
+10/01 15:51:08 generating graphs
+10/01 15:51:09 graph generation complete
+10/01 15:52:00 starting pings
+10/01 15:52:07 pings complete
+10/01 15:52:07 generating graphs
+10/01 15:52:08 graph generation complete
+10/01 15:53:00 starting pings
+10/01 15:53:07 pings complete
+10/01 15:53:07 generating graphs
+10/01 15:53:08 graph generation complete
+10/01 15:54:00 starting pings
+10/01 15:54:07 pings complete
+10/01 15:54:07 generating graphs
+10/01 15:54:08 graph generation complete
+10/01 15:55:00 starting pings
+10/01 15:55:08 pings complete
+10/01 15:55:08 generating graphs
+10/01 15:55:09 graph generation complete
+10/01 15:56:00 starting pings
+10/01 15:56:07 pings complete
+10/01 15:56:07 generating graphs
+10/01 15:56:08 graph generation complete
+10/01 15:57:00 starting pings
+10/01 15:57:07 pings complete
+10/01 15:57:07 generating graphs
+10/01 15:57:08 graph generation complete
+10/01 15:58:00 starting pings
+10/01 15:58:07 pings complete
+10/01 15:58:07 generating graphs
+10/01 15:58:08 graph generation complete
+10/01 15:59:00 starting pings
+10/01 15:59:07 pings complete
+10/01 15:59:08 generating graphs
+10/01 15:59:09 graph generation complete
+10/01 16:00:00 starting pings
+10/01 16:00:07 pings complete
+10/01 16:00:07 generating graphs
+10/01 16:00:08 graph generation complete
+10/01 16:01:00 starting pings
+10/01 16:01:07 pings complete
+10/01 16:01:07 generating graphs
+10/01 16:01:08 graph generation complete
+10/01 16:02:00 starting pings
+10/01 16:02:07 pings complete
+10/01 16:02:07 generating graphs
+10/01 16:02:08 graph generation complete
+10/01 16:03:00 starting pings
+10/01 16:03:08 pings complete
+10/01 16:03:08 generating graphs
+10/01 16:03:09 graph generation complete
+10/01 16:04:00 starting pings
+10/01 16:04:07 pings complete
+10/01 16:04:07 generating graphs
+10/01 16:04:08 graph generation complete
+10/01 16:05:00 starting pings
+10/01 16:05:07 pings complete
+10/01 16:05:07 generating graphs
+10/01 16:05:08 graph generation complete
+10/01 16:06:00 starting pings
+10/01 16:06:07 pings complete
+10/01 16:06:07 generating graphs
+10/01 16:06:08 graph generation complete
+10/01 16:07:00 starting pings
+10/01 16:07:07 pings complete
+10/01 16:07:07 generating graphs
+10/01 16:07:08 graph generation complete
+10/01 16:08:00 starting pings
+10/01 16:08:07 pings complete
+10/01 16:08:07 generating graphs
+10/01 16:08:08 graph generation complete
+10/01 16:09:00 starting pings
+10/01 16:09:08 pings complete
+10/01 16:09:08 generating graphs
+10/01 16:09:09 graph generation complete
+10/01 16:10:00 starting pings
+10/01 16:10:07 pings complete
+10/01 16:10:07 generating graphs
+10/01 16:10:08 graph generation complete
+10/01 16:11:00 starting pings
+10/01 16:11:08 pings complete
+10/01 16:11:08 generating graphs
+10/01 16:11:09 graph generation complete
+10/01 16:12:00 starting pings
+10/01 16:12:07 pings complete
+10/01 16:12:07 generating graphs
+10/01 16:12:08 graph generation complete
+10/01 16:13:00 starting pings
+10/01 16:13:08 pings complete
+10/01 16:13:08 generating graphs
+10/01 16:13:09 graph generation complete
+10/01 16:14:00 starting pings
+10/01 16:14:07 pings complete
+10/01 16:14:07 generating graphs
+10/01 16:14:08 graph generation complete
+10/01 16:15:00 starting pings
+10/01 16:15:08 pings complete
+10/01 16:15:08 generating graphs
+10/01 16:15:08 graph generation complete
+10/01 16:16:01 starting pings
+10/01 16:16:08 pings complete
+10/01 16:16:08 generating graphs
+10/01 16:16:09 graph generation complete
+10/01 16:17:00 starting pings
+10/01 16:17:07 pings complete
+10/01 16:17:07 generating graphs
+10/01 16:17:08 graph generation complete
+10/01 16:18:00 starting pings
+10/01 16:18:07 pings complete
+10/01 16:18:07 generating graphs
+10/01 16:18:08 graph generation complete
+10/01 16:19:00 starting pings
+10/01 16:19:07 pings complete
+10/01 16:19:07 generating graphs
+10/01 16:19:08 graph generation complete
+10/01 16:20:00 starting pings
+10/01 16:20:07 pings complete
+10/01 16:20:07 generating graphs
+10/01 16:20:08 graph generation complete
+10/01 16:21:00 starting pings
+10/01 16:21:07 pings complete
+10/01 16:21:08 generating graphs
+10/01 16:21:08 graph generation complete
+10/01 16:22:01 starting pings
+10/01 16:22:08 pings complete
+10/01 16:22:08 generating graphs
+10/01 16:22:09 graph generation complete
+10/01 16:23:00 starting pings
+10/01 16:23:07 pings complete
+10/01 16:23:07 generating graphs
+10/01 16:23:08 graph generation complete
+10/01 16:24:01 starting pings
+10/01 16:24:07 pings complete
+10/01 16:24:07 generating graphs
+10/01 16:24:09 graph generation complete
+10/01 16:25:00 starting pings
+10/01 16:25:07 pings complete
+10/01 16:25:07 generating graphs
+10/01 16:25:08 graph generation complete
+10/01 16:26:00 starting pings
+10/01 16:26:07 pings complete
+10/01 16:26:07 generating graphs
+10/01 16:26:08 graph generation complete
+10/01 16:27:00 starting pings
+10/01 16:27:07 pings complete
+10/01 16:27:07 generating graphs
+10/01 16:27:08 graph generation complete
+10/01 16:28:00 starting pings
+10/01 16:28:06 pings complete
+10/01 16:28:06 generating graphs
+10/01 16:28:07 graph generation complete
+10/01 16:29:01 starting pings
+10/01 16:29:08 pings complete
+10/01 16:29:08 generating graphs
+10/01 16:29:08 graph generation complete
+10/01 16:30:01 starting pings
+10/01 16:30:08 pings complete
+10/01 16:30:08 generating graphs
+10/01 16:30:09 graph generation complete
+10/01 16:31:00 starting pings
+10/01 16:31:07 pings complete
+10/01 16:31:07 generating graphs
+10/01 16:31:08 graph generation complete
+10/01 16:32:00 starting pings
+10/01 16:32:07 pings complete
+10/01 16:32:07 generating graphs
+10/01 16:32:09 graph generation complete
+10/01 16:33:00 starting pings
+10/01 16:33:07 pings complete
+10/01 16:33:07 generating graphs
+10/01 16:33:08 graph generation complete
+10/01 16:34:00 starting pings
+10/01 16:34:07 pings complete
+10/01 16:34:07 generating graphs
+10/01 16:34:08 graph generation complete
+10/01 16:35:00 starting pings
+10/01 16:35:06 pings complete
+10/01 16:35:06 generating graphs
+10/01 16:35:07 graph generation complete
+10/01 16:36:00 starting pings
+10/01 16:36:06 pings complete
+10/01 16:36:06 generating graphs
+10/01 16:36:07 graph generation complete
+10/01 16:37:00 starting pings
+10/01 16:37:06 pings complete
+10/01 16:37:06 generating graphs
+10/01 16:37:07 graph generation complete
+10/01 16:38:00 starting pings
+10/01 16:38:05 pings complete
+10/01 16:38:05 generating graphs
+10/01 16:38:06 graph generation complete
+10/01 16:39:00 starting pings
+10/01 16:39:06 pings complete
+10/01 16:39:06 generating graphs
+10/01 16:39:07 graph generation complete
+10/01 16:40:00 starting pings
+10/01 16:40:05 pings complete
+10/01 16:40:05 generating graphs
+10/01 16:40:06 graph generation complete
+10/01 16:41:00 starting pings
+10/01 16:41:06 pings complete
+10/01 16:41:06 generating graphs
+10/01 16:41:07 graph generation complete
+10/01 16:42:00 starting pings
+10/01 16:42:06 pings complete
+10/01 16:42:06 generating graphs
+10/01 16:42:06 graph generation complete
+10/01 16:43:01 starting pings
+10/01 16:43:05 pings complete
+10/01 16:43:05 generating graphs
+10/01 16:43:06 graph generation complete
+10/01 16:44:00 starting pings
+10/01 16:44:05 pings complete
+10/01 16:44:05 generating graphs
+10/01 16:44:06 graph generation complete
+10/01 16:45:00 starting pings
+10/01 16:45:06 pings complete
+10/01 16:45:06 generating graphs
+10/01 16:45:08 graph generation complete
+10/01 16:46:00 starting pings
+10/01 16:46:05 pings complete
+10/01 16:46:05 generating graphs
+10/01 16:46:07 graph generation complete
+10/01 16:47:00 starting pings
+10/01 16:47:05 pings complete
+10/01 16:47:05 generating graphs
+10/01 16:47:06 graph generation complete
+10/01 16:48:00 starting pings
+10/01 16:48:07 pings complete
+10/01 16:48:07 generating graphs
+10/01 16:48:08 graph generation complete
+10/01 16:49:00 starting pings
+10/01 16:49:05 pings complete
+10/01 16:49:05 generating graphs
+10/01 16:49:06 graph generation complete
+10/01 16:50:00 starting pings
+10/01 16:50:06 pings complete
+10/01 16:50:06 generating graphs
+10/01 16:50:07 graph generation complete
+10/01 16:51:00 starting pings
+10/01 16:51:05 pings complete
+10/01 16:51:05 generating graphs
+10/01 16:51:06 graph generation complete
+10/02 07:39:01 starting pings
+10/02 07:39:37 pings complete
+10/02 07:39:37 generating graphs
+10/02 07:39:48 graph generation complete
+10/02 07:40:00 starting pings
+10/02 07:40:06 pings complete
+10/02 07:40:06 generating graphs
+10/02 07:40:07 graph generation complete
+10/02 07:41:00 starting pings
+10/02 07:41:07 pings complete
+10/02 07:41:07 generating graphs
+10/02 07:41:09 graph generation complete
+10/02 07:42:00 starting pings
+10/02 07:42:06 pings complete
+10/02 07:42:06 generating graphs
+10/02 07:42:07 graph generation complete
+10/02 07:43:00 starting pings
+10/02 07:43:05 pings complete
+10/02 07:43:05 generating graphs
+10/02 07:43:07 graph generation complete
+10/02 07:44:00 starting pings
+10/02 07:44:06 pings complete
+10/02 07:44:06 generating graphs
+10/02 07:44:07 graph generation complete
+10/02 07:45:00 starting pings
+10/02 07:45:07 pings complete
+10/02 07:45:07 generating graphs
+10/02 07:45:09 graph generation complete
+10/02 07:46:00 starting pings
+10/02 07:46:06 pings complete
+10/02 07:46:06 generating graphs
+10/02 07:46:09 graph generation complete
+10/02 07:47:00 starting pings
+10/02 07:47:07 pings complete
+10/02 07:47:07 generating graphs
+10/02 07:47:08 graph generation complete
+10/02 07:48:00 starting pings
+10/02 07:48:06 pings complete
+10/02 07:48:06 generating graphs
+10/02 07:48:07 graph generation complete
+10/02 07:49:00 starting pings
+10/02 07:49:06 pings complete
+10/02 07:49:06 generating graphs
+10/02 07:49:07 graph generation complete
+10/02 07:50:00 starting pings
+10/02 07:50:07 pings complete
+10/02 07:50:07 generating graphs
+10/02 07:50:08 graph generation complete
+10/02 07:51:00 starting pings
+10/02 07:51:07 pings complete
+10/02 07:51:07 generating graphs
+10/02 07:51:08 graph generation complete
+10/02 07:52:00 starting pings
+10/02 07:52:06 pings complete
+10/02 07:52:06 generating graphs
+10/02 07:52:07 graph generation complete
+10/02 07:53:00 starting pings
+10/02 07:53:07 pings complete
+10/02 07:53:07 generating graphs
+10/02 07:53:08 graph generation complete
+10/02 07:54:00 starting pings
+10/02 07:54:06 pings complete
+10/02 07:54:06 generating graphs
+10/02 07:54:07 graph generation complete
+10/02 07:55:00 starting pings
+10/02 07:55:06 pings complete
+10/02 07:55:07 generating graphs
+10/02 07:55:09 graph generation complete
+10/02 07:56:00 starting pings
+10/02 07:56:06 pings complete
+10/02 07:56:06 generating graphs
+10/02 07:56:07 graph generation complete
+10/02 07:57:00 starting pings
+10/02 07:57:07 pings complete
+10/02 07:57:07 generating graphs
+10/02 07:57:09 graph generation complete
+10/02 07:58:00 starting pings
+10/02 07:58:06 pings complete
+10/02 07:58:06 generating graphs
+10/02 07:58:07 graph generation complete
+10/02 07:59:00 starting pings
+10/02 07:59:07 pings complete
+10/02 07:59:07 generating graphs
+10/02 07:59:08 graph generation complete
+10/02 08:00:00 starting pings
+10/02 08:00:07 pings complete
+10/02 08:00:08 generating graphs
+10/02 08:00:09 graph generation complete
+10/02 08:01:00 starting pings
+10/02 08:01:06 pings complete
+10/02 08:01:06 generating graphs
+10/02 08:01:07 graph generation complete
+10/02 08:02:00 starting pings
+10/02 08:02:06 pings complete
+10/02 08:02:06 generating graphs
+10/02 08:02:08 graph generation complete
+10/02 08:03:00 starting pings
+10/02 08:03:06 pings complete
+10/02 08:03:06 generating graphs
+10/02 08:03:07 graph generation complete
+10/02 08:04:00 starting pings
+10/02 08:04:06 pings complete
+10/02 08:04:06 generating graphs
+10/02 08:04:07 graph generation complete
+10/02 08:05:00 starting pings
+10/02 08:05:06 pings complete
+10/02 08:05:06 generating graphs
+10/02 08:05:07 graph generation complete
+10/02 08:06:00 starting pings
+10/02 08:06:07 pings complete
+10/02 08:06:07 generating graphs
+10/02 08:06:08 graph generation complete
+10/02 08:07:00 starting pings
+10/02 08:07:06 pings complete
+10/02 08:07:06 generating graphs
+10/02 08:07:07 graph generation complete
+10/02 08:08:00 starting pings
+10/02 08:08:06 pings complete
+10/02 08:08:06 generating graphs
+10/02 08:08:08 graph generation complete
+10/02 08:09:00 starting pings
+10/02 08:09:06 pings complete
+10/02 08:09:06 generating graphs
+10/02 08:09:07 graph generation complete
+10/02 08:10:00 starting pings
+10/02 08:10:06 pings complete
+10/02 08:10:06 generating graphs
+10/02 08:10:07 graph generation complete
+10/02 08:11:00 starting pings
+10/02 08:11:06 pings complete
+10/02 08:11:07 generating graphs
+10/02 08:11:08 graph generation complete
+10/02 08:12:00 starting pings
+10/02 08:12:06 pings complete
+10/02 08:12:06 generating graphs
+10/02 08:12:07 graph generation complete
+10/02 08:13:00 starting pings
+10/02 08:13:06 pings complete
+10/02 08:13:06 generating graphs
+10/02 08:13:07 graph generation complete
+10/02 08:14:00 starting pings
+10/02 08:14:06 pings complete
+10/02 08:14:07 generating graphs
+10/02 08:14:07 graph generation complete
+10/02 08:15:01 starting pings
+10/02 08:15:07 pings complete
+10/02 08:15:07 generating graphs
+10/02 08:15:08 graph generation complete
+10/02 08:16:00 starting pings
+10/02 08:16:06 pings complete
+10/02 08:16:06 generating graphs
+10/02 08:16:07 graph generation complete
+10/02 08:17:00 starting pings
+10/02 08:17:07 pings complete
+10/02 08:17:07 generating graphs
+10/02 08:17:08 graph generation complete
+10/02 08:18:00 starting pings
+10/02 08:18:06 pings complete
+10/02 08:18:06 generating graphs
+10/02 08:18:07 graph generation complete
+10/02 08:19:00 starting pings
+10/02 08:19:06 pings complete
+10/02 08:19:06 generating graphs
+10/02 08:19:07 graph generation complete
+10/02 08:20:00 starting pings
+10/02 08:20:07 pings complete
+10/02 08:20:07 generating graphs
+10/02 08:20:08 graph generation complete
+10/02 08:21:00 starting pings
+10/02 08:21:06 pings complete
+10/02 08:21:06 generating graphs
+10/02 08:21:07 graph generation complete
+10/02 08:22:00 starting pings
+10/02 08:22:07 pings complete
+10/02 08:22:07 generating graphs
+10/02 08:22:08 graph generation complete
+10/02 08:31:02 starting pings
+10/02 08:31:16 pings complete
+10/02 08:31:16 generating graphs
+10/02 08:31:21 graph generation complete
+10/02 08:32:00 starting pings
+10/02 08:32:07 pings complete
+10/02 08:32:07 generating graphs
+10/02 08:32:08 graph generation complete
+10/02 08:33:00 starting pings
+10/02 08:33:08 pings complete
+10/02 08:33:08 generating graphs
+10/02 08:33:10 graph generation complete
+10/02 08:34:00 starting pings
+10/02 08:34:06 pings complete
+10/02 08:34:06 generating graphs
+10/02 08:34:07 graph generation complete
+10/02 08:35:00 starting pings
+10/02 08:35:06 pings complete
+10/02 08:35:06 generating graphs
+10/02 08:35:07 graph generation complete
+10/02 08:36:00 starting pings
+10/02 08:36:06 pings complete
+10/02 08:36:07 generating graphs
+10/02 08:36:07 graph generation complete
+10/02 08:37:00 starting pings
+10/02 08:37:06 pings complete
+10/02 08:37:07 generating graphs
+10/02 08:37:07 graph generation complete
+10/02 08:38:00 starting pings
+10/02 08:38:07 pings complete
+10/02 08:38:07 generating graphs
+10/02 08:38:08 graph generation complete
+10/02 08:39:00 starting pings
+10/02 08:39:06 pings complete
+10/02 08:39:06 generating graphs
+10/02 08:39:07 graph generation complete
+10/02 08:40:00 starting pings
+10/02 08:40:06 pings complete
+10/02 08:40:06 generating graphs
+10/02 08:40:07 graph generation complete
+10/02 08:41:00 starting pings
+10/02 08:41:06 pings complete
+10/02 08:41:06 generating graphs
+10/02 08:41:07 graph generation complete
+10/02 08:42:01 starting pings
+10/02 08:42:07 pings complete
+10/02 08:42:07 generating graphs
+10/02 08:42:08 graph generation complete
+10/02 08:43:00 starting pings
+10/02 08:43:07 pings complete
+10/02 08:43:07 generating graphs
+10/02 08:43:08 graph generation complete
+10/02 08:44:00 starting pings
+10/02 08:44:06 pings complete
+10/02 08:44:06 generating graphs
+10/02 08:44:07 graph generation complete
+10/02 08:45:00 starting pings
+10/02 08:45:06 pings complete
+10/02 08:45:06 generating graphs
+10/02 08:45:07 graph generation complete
+10/02 08:46:01 starting pings
+10/02 08:46:07 pings complete
+10/02 08:46:07 generating graphs
+10/02 08:46:08 graph generation complete
+10/02 08:47:00 starting pings
+10/02 08:47:04 pings complete
+10/02 08:47:05 generating graphs
+10/02 08:47:05 graph generation complete
+10/02 08:48:00 starting pings
+10/02 08:48:07 pings complete
+10/02 08:48:07 generating graphs
+10/02 08:48:08 graph generation complete
+10/02 08:49:00 starting pings
+10/02 08:49:08 pings complete
+10/02 08:49:08 generating graphs
+10/02 08:49:09 graph generation complete
+10/02 08:50:00 starting pings
+10/02 08:50:06 pings complete
+10/02 08:50:06 generating graphs
+10/02 08:50:07 graph generation complete
+10/02 08:51:01 starting pings
+10/02 08:51:07 pings complete
+10/02 08:51:07 generating graphs
+10/02 08:51:08 graph generation complete
+10/02 08:52:00 starting pings
+10/02 08:52:06 pings complete
+10/02 08:52:06 generating graphs
+10/02 08:52:07 graph generation complete
+10/02 08:53:00 starting pings
+10/02 08:53:06 pings complete
+10/02 08:53:07 generating graphs
+10/02 08:53:07 graph generation complete
+10/02 08:54:01 starting pings
+10/02 08:54:07 pings complete
+10/02 08:54:07 generating graphs
+10/02 08:54:08 graph generation complete
+10/02 08:55:00 starting pings
+10/02 08:55:06 pings complete
+10/02 08:55:06 generating graphs
+10/02 08:55:07 graph generation complete
+10/02 08:56:00 starting pings
+10/02 08:56:06 pings complete
+10/02 08:56:06 generating graphs
+10/02 08:56:08 graph generation complete
+10/02 08:57:00 starting pings
+10/02 08:57:06 pings complete
+10/02 08:57:06 generating graphs
+10/02 08:57:07 graph generation complete
+10/02 08:58:00 starting pings
+10/02 08:58:06 pings complete
+10/02 08:58:06 generating graphs
+10/02 08:58:07 graph generation complete
+10/02 08:59:01 starting pings
+10/02 08:59:07 pings complete
+10/02 08:59:07 generating graphs
+10/02 08:59:07 graph generation complete
+10/02 09:00:00 starting pings
+10/02 09:00:13 pings complete
+10/02 09:00:13 generating graphs
+10/02 09:00:14 graph generation complete
+10/02 09:01:00 starting pings
+10/02 09:01:05 rrd update for yahoo.com failed retval 1
+10/02 09:01:05 mass ping failed retval 1
+10/02 09:02:00 starting pings
+10/02 09:02:06 pings complete
+10/02 09:02:06 generating graphs
+10/02 09:02:07 graph generation complete
+10/02 09:03:00 starting pings
+10/02 09:03:06 pings complete
+10/02 09:03:06 generating graphs
+10/02 09:03:07 graph generation complete
+10/02 09:04:01 starting pings
+10/02 09:04:07 pings complete
+10/02 09:04:07 generating graphs
+10/02 09:04:08 graph generation complete
+10/02 09:05:00 starting pings
+10/02 09:05:05 pings complete
+10/02 09:05:05 generating graphs
+10/02 09:05:06 graph generation complete
+10/02 09:06:00 starting pings
+10/02 09:06:05 pings complete
+10/02 09:06:05 generating graphs
+10/02 09:06:06 graph generation complete
+10/02 09:07:00 starting pings
+10/02 09:07:05 pings complete
+10/02 09:07:05 generating graphs
+10/02 09:07:06 graph generation complete
+10/02 09:08:00 starting pings
+10/02 09:08:05 pings complete
+10/02 09:08:05 generating graphs
+10/02 09:08:06 graph generation complete
+10/02 09:09:00 starting pings
+10/02 09:09:05 pings complete
+10/02 09:09:05 generating graphs
+10/02 09:09:06 graph generation complete
+10/02 09:10:00 starting pings
+10/02 09:10:06 pings complete
+10/02 09:10:06 generating graphs
+10/02 09:10:07 graph generation complete
+10/02 09:11:00 starting pings
+10/02 09:11:06 pings complete
+10/02 09:11:06 generating graphs
+10/02 09:11:07 graph generation complete
+10/02 09:12:00 starting pings
+10/02 09:12:05 pings complete
+10/02 09:12:05 generating graphs
+10/02 09:12:05 graph generation complete
+10/02 09:13:01 starting pings
+10/02 09:13:08 pings complete
+10/02 09:13:08 generating graphs
+10/02 09:13:09 graph generation complete
+10/02 09:14:00 starting pings
+10/02 09:14:06 pings complete
+10/02 09:14:07 generating graphs
+10/02 09:14:07 graph generation complete
+10/02 09:15:01 starting pings
+10/02 09:15:05 pings complete
+10/02 09:15:05 generating graphs
+10/02 09:15:07 graph generation complete
+10/02 09:16:00 starting pings
+10/02 09:16:06 pings complete
+10/02 09:16:06 generating graphs
+10/02 09:16:07 graph generation complete
+10/02 09:17:00 starting pings
+10/02 09:17:05 pings complete
+10/02 09:17:05 generating graphs
+10/02 09:17:06 graph generation complete
+10/02 09:18:00 starting pings
+10/02 09:18:05 pings complete
+10/02 09:18:05 generating graphs
+10/02 09:18:06 graph generation complete
+10/02 09:19:00 starting pings
+10/02 09:19:07 pings complete
+10/02 09:19:08 generating graphs
+10/02 09:19:09 graph generation complete
+10/02 09:20:00 starting pings
+10/02 09:20:07 pings complete
+10/02 09:20:07 generating graphs
+10/02 09:20:08 graph generation complete
+10/02 09:21:01 starting pings
+10/02 09:21:05 pings complete
+10/02 09:21:05 generating graphs
+10/02 09:21:07 graph generation complete
+10/02 09:22:00 starting pings
+10/02 09:22:05 pings complete
+10/02 09:22:05 generating graphs
+10/02 09:22:06 graph generation complete
+10/02 09:23:00 starting pings
+10/02 09:23:07 pings complete
+10/02 09:23:07 generating graphs
+10/02 09:23:07 graph generation complete
+10/02 09:24:01 starting pings
+10/02 09:24:06 pings complete
+10/02 09:24:06 generating graphs
+10/02 09:24:07 graph generation complete
+10/02 09:25:00 starting pings
+10/02 09:25:05 pings complete
+10/02 09:25:05 generating graphs
+10/02 09:25:06 graph generation complete
+10/02 09:26:00 starting pings
+10/02 09:26:05 pings complete
+10/02 09:26:05 generating graphs
+10/02 09:26:06 graph generation complete
+10/02 09:27:00 starting pings
+10/02 09:27:05 pings complete
+10/02 09:27:05 generating graphs
+10/02 09:27:06 graph generation complete
+10/02 09:28:00 starting pings
+10/02 09:28:05 pings complete
+10/02 09:28:05 generating graphs
+10/02 09:28:07 graph generation complete
+10/02 09:29:00 starting pings
+10/02 09:29:06 pings complete
+10/02 09:29:06 generating graphs
+10/02 09:29:07 graph generation complete
+10/02 09:30:00 starting pings
+10/02 09:30:06 pings complete
+10/02 09:30:06 generating graphs
+10/02 09:30:07 graph generation complete
+10/02 09:31:00 starting pings
+10/02 09:31:07 pings complete
+10/02 09:31:07 generating graphs
+10/02 09:31:07 graph generation complete
+10/02 09:32:00 starting pings
+10/02 09:32:06 pings complete
+10/02 09:32:06 generating graphs
+10/02 09:32:07 graph generation complete
+10/02 09:33:00 starting pings
+10/02 09:33:06 pings complete
+10/02 09:33:06 generating graphs
+10/02 09:33:07 graph generation complete
+10/02 09:34:01 starting pings
+10/02 09:34:07 pings complete
+10/02 09:34:07 generating graphs
+10/02 09:34:08 graph generation complete
+10/02 09:35:00 starting pings
+10/02 09:35:06 pings complete
+10/02 09:35:06 generating graphs
+10/02 09:35:07 graph generation complete
+10/02 09:36:00 starting pings
+10/02 09:36:05 pings complete
+10/02 09:36:05 generating graphs
+10/02 09:36:06 graph generation complete
+10/02 09:37:00 starting pings
+10/02 09:37:07 pings complete
+10/02 09:37:07 generating graphs
+10/02 09:37:07 graph generation complete
+10/02 09:38:00 starting pings
+10/02 09:38:07 pings complete
+10/02 09:38:07 generating graphs
+10/02 09:38:08 graph generation complete
+10/02 09:39:00 starting pings
+10/02 09:39:06 pings complete
+10/02 09:39:06 generating graphs
+10/02 09:39:07 graph generation complete
+10/02 09:40:00 starting pings
+10/02 09:40:05 pings complete
+10/02 09:40:05 generating graphs
+10/02 09:40:06 graph generation complete
+10/02 09:41:00 starting pings
+10/02 09:41:07 pings complete
+10/02 09:41:07 generating graphs
+10/02 09:41:08 graph generation complete
+10/02 09:42:00 starting pings
+10/02 09:42:07 pings complete
+10/02 09:42:07 generating graphs
+10/02 09:42:08 graph generation complete
+10/02 09:43:01 starting pings
+10/02 09:43:08 pings complete
+10/02 09:43:08 generating graphs
+10/02 09:43:09 graph generation complete
+10/02 09:44:00 starting pings
+10/02 09:44:06 pings complete
+10/02 09:44:06 generating graphs
+10/02 09:44:07 graph generation complete
+10/02 09:45:00 starting pings
+10/02 09:45:06 pings complete
+10/02 09:45:06 generating graphs
+10/02 09:45:07 graph generation complete
+10/02 09:46:00 starting pings
+10/02 09:46:07 pings complete
+10/02 09:46:07 generating graphs
+10/02 09:46:08 graph generation complete
+10/02 09:47:00 starting pings
+10/02 09:47:07 pings complete
+10/02 09:47:07 generating graphs
+10/02 09:47:08 graph generation complete
+10/02 09:48:00 starting pings
+10/02 09:48:05 pings complete
+10/02 09:48:05 generating graphs
+10/02 09:48:06 graph generation complete
+10/02 09:49:00 starting pings
+10/02 09:49:06 pings complete
+10/02 09:49:06 generating graphs
+10/02 09:49:07 graph generation complete
+10/02 09:50:00 starting pings
+10/02 09:50:07 pings complete
+10/02 09:50:07 generating graphs
+10/02 09:50:08 graph generation complete
+10/02 09:51:00 starting pings
+10/02 09:51:06 pings complete
+10/02 09:51:06 generating graphs
+10/02 09:51:07 graph generation complete
+10/02 09:52:00 starting pings
+10/02 09:52:05 pings complete
+10/02 09:52:05 generating graphs
+10/02 09:52:06 graph generation complete
+10/02 09:53:00 starting pings
+10/02 09:53:07 pings complete
+10/02 09:53:07 generating graphs
+10/02 09:53:08 graph generation complete
+10/02 09:54:00 starting pings
+10/02 09:54:05 pings complete
+10/02 09:54:05 generating graphs
+10/02 09:54:06 graph generation complete
+10/02 09:55:00 starting pings
+10/02 09:55:07 pings complete
+10/02 09:55:07 generating graphs
+10/02 09:55:08 graph generation complete
+10/02 09:56:00 starting pings
+10/02 09:56:05 pings complete
+10/02 09:56:05 generating graphs
+10/02 09:56:06 graph generation complete
+10/02 09:57:00 starting pings
+10/02 09:57:05 pings complete
+10/02 09:57:05 generating graphs
+10/02 09:57:06 graph generation complete
+10/02 09:58:00 starting pings
+10/02 09:58:06 pings complete
+10/02 09:58:06 generating graphs
+10/02 09:58:07 graph generation complete
+10/02 09:59:00 starting pings
+10/02 09:59:06 pings complete
+10/02 09:59:06 generating graphs
+10/02 09:59:07 graph generation complete
+10/02 10:00:00 starting pings
+10/02 10:00:08 pings complete
+10/02 10:00:08 generating graphs
+10/02 10:00:09 graph generation complete
+10/02 10:01:00 starting pings
+10/02 10:01:06 pings complete
+10/02 10:01:07 generating graphs
+10/02 10:01:08 graph generation complete
+10/02 10:02:00 starting pings
+10/02 10:02:06 pings complete
+10/02 10:02:06 generating graphs
+10/02 10:02:08 graph generation complete
+10/02 10:03:00 starting pings
+10/02 10:03:06 pings complete
+10/02 10:03:07 generating graphs
+10/02 10:03:08 graph generation complete
+10/02 10:04:00 starting pings
+10/02 10:04:06 pings complete
+10/02 10:04:07 generating graphs
+10/02 10:04:08 graph generation complete
+10/02 10:05:00 starting pings
+10/02 10:05:06 pings complete
+10/02 10:05:06 generating graphs
+10/02 10:05:07 graph generation complete
+10/02 10:06:00 starting pings
+10/02 10:06:05 pings complete
+10/02 10:06:05 generating graphs
+10/02 10:06:06 graph generation complete
+10/02 10:07:00 starting pings
+10/02 10:07:07 pings complete
+10/02 10:07:07 generating graphs
+10/02 10:07:08 graph generation complete
+10/02 10:08:00 starting pings
+10/02 10:08:05 pings complete
+10/02 10:08:05 generating graphs
+10/02 10:08:06 graph generation complete
+10/02 10:09:00 starting pings
+10/02 10:09:05 pings complete
+10/02 10:09:06 generating graphs
+10/02 10:09:06 graph generation complete
+10/02 10:10:01 starting pings
+10/02 10:10:08 pings complete
+10/02 10:10:08 generating graphs
+10/02 10:10:09 graph generation complete
+10/02 10:11:00 starting pings
+10/02 10:11:07 pings complete
+10/02 10:11:07 generating graphs
+10/02 10:11:08 graph generation complete
+10/02 10:12:00 starting pings
+10/02 10:12:08 pings complete
+10/02 10:12:08 generating graphs
+10/02 10:12:09 graph generation complete
+10/02 10:13:00 starting pings
+10/02 10:13:08 pings complete
+10/02 10:13:08 generating graphs
+10/02 10:13:09 graph generation complete
+10/02 10:14:00 starting pings
+10/02 10:14:08 pings complete
+10/02 10:14:08 generating graphs
+10/02 10:14:09 graph generation complete
+10/02 10:15:00 starting pings
+10/02 10:15:08 pings complete
+10/02 10:15:08 generating graphs
+10/02 10:15:08 graph generation complete
+10/02 10:16:01 starting pings
+10/02 10:16:07 pings complete
+10/02 10:16:07 generating graphs
+10/02 10:16:08 graph generation complete
+10/02 10:17:00 starting pings
+10/02 10:17:06 pings complete
+10/02 10:17:06 generating graphs
+10/02 10:17:07 graph generation complete
+10/02 10:18:00 starting pings
+10/02 10:18:07 pings complete
+10/02 10:18:07 generating graphs
+10/02 10:18:08 graph generation complete
+10/02 10:19:00 starting pings
+10/02 10:19:05 pings complete
+10/02 10:19:05 generating graphs
+10/02 10:19:06 graph generation complete
+10/02 10:20:00 starting pings
+10/02 10:20:06 pings complete
+10/02 10:20:06 generating graphs
+10/02 10:20:07 graph generation complete
+10/02 10:21:00 starting pings
+10/02 10:21:08 pings complete
+10/02 10:21:08 generating graphs
+10/02 10:21:10 graph generation complete
+10/02 10:22:00 starting pings
+10/02 10:22:07 pings complete
+10/02 10:22:07 generating graphs
+10/02 10:22:07 graph generation complete
+10/02 10:23:01 starting pings
+10/02 10:23:08 pings complete
+10/02 10:23:08 generating graphs
+10/02 10:23:09 graph generation complete
+10/02 10:24:00 starting pings
+10/02 10:24:07 pings complete
+10/02 10:24:07 generating graphs
+10/02 10:24:08 graph generation complete
+10/02 10:25:00 starting pings
+10/02 10:25:07 pings complete
+10/02 10:25:08 generating graphs
+10/02 10:25:08 graph generation complete
+10/02 10:26:00 starting pings
+10/02 10:26:07 pings complete
+10/02 10:26:07 generating graphs
+10/02 10:26:08 graph generation complete
+10/02 10:27:00 starting pings
+10/02 10:27:07 pings complete
+10/02 10:27:07 generating graphs
+10/02 10:27:08 graph generation complete
+10/02 10:28:00 starting pings
+10/02 10:28:06 pings complete
+10/02 10:28:06 generating graphs
+10/02 10:28:07 graph generation complete
+10/02 10:29:00 starting pings
+10/02 10:29:07 pings complete
+10/02 10:29:07 generating graphs
+10/02 10:29:08 graph generation complete
+10/02 10:30:00 starting pings
+10/02 10:30:08 pings complete
+10/02 10:30:08 generating graphs
+10/02 10:30:09 graph generation complete
+10/02 10:31:00 starting pings
+10/02 10:31:08 pings complete
+10/02 10:31:08 generating graphs
+10/02 10:31:09 graph generation complete
+10/02 10:32:00 starting pings
+10/02 10:32:08 pings complete
+10/02 10:32:08 generating graphs
+10/02 10:32:09 graph generation complete
+10/02 10:33:00 starting pings
+10/02 10:33:07 pings complete
+10/02 10:33:08 generating graphs
+10/02 10:33:08 graph generation complete
+10/02 10:34:01 starting pings
+10/02 10:34:08 pings complete
+10/02 10:34:08 generating graphs
+10/02 10:34:09 graph generation complete
+10/02 10:35:01 starting pings
+10/02 10:35:08 pings complete
+10/02 10:35:08 generating graphs
+10/02 10:35:10 graph generation complete
+10/02 10:36:00 starting pings
+10/02 10:36:08 pings complete
+10/02 10:36:08 generating graphs
+10/02 10:36:08 graph generation complete
+10/02 10:37:01 starting pings
+10/02 10:37:07 pings complete
+10/02 10:37:07 generating graphs
+10/02 10:37:08 graph generation complete
+10/02 10:38:00 starting pings
+10/02 10:38:08 pings complete
+10/02 10:38:08 generating graphs
+10/02 10:38:09 graph generation complete
+10/02 10:39:00 starting pings
+10/02 10:39:07 pings complete
+10/02 10:39:07 generating graphs
+10/02 10:39:07 graph generation complete
+10/02 10:40:01 starting pings
+10/02 10:40:08 pings complete
+10/02 10:40:08 generating graphs
+10/02 10:40:10 graph generation complete
+10/02 10:41:00 starting pings
+10/02 10:41:08 pings complete
+10/02 10:41:08 generating graphs
+10/02 10:41:09 graph generation complete
+10/02 10:42:00 starting pings
+10/02 10:42:07 pings complete
+10/02 10:42:07 generating graphs
+10/02 10:42:08 graph generation complete
+10/02 10:43:01 starting pings
+10/02 10:43:07 pings complete
+10/02 10:43:07 generating graphs
+10/02 10:43:08 graph generation complete
+10/02 10:44:00 starting pings
+10/02 10:44:08 pings complete
+10/02 10:44:08 generating graphs
+10/02 10:44:09 graph generation complete
+10/02 10:45:00 starting pings
+10/02 10:45:08 pings complete
+10/02 10:45:08 generating graphs
+10/02 10:45:09 graph generation complete
+10/02 10:46:00 starting pings
+10/02 10:46:08 pings complete
+10/02 10:46:08 generating graphs
+10/02 10:46:09 graph generation complete
+10/02 10:47:00 starting pings
+10/02 10:47:08 pings complete
+10/02 10:47:08 generating graphs
+10/02 10:47:09 graph generation complete
+10/02 10:48:00 starting pings
+10/02 10:48:07 pings complete
+10/02 10:48:07 generating graphs
+10/02 10:48:08 graph generation complete
+10/02 10:49:00 starting pings
+10/02 10:49:07 pings complete
+10/02 10:49:07 generating graphs
+10/02 10:49:08 graph generation complete
+10/02 10:50:00 starting pings
+10/02 10:50:06 pings complete
+10/02 10:50:06 generating graphs
+10/02 10:50:07 graph generation complete
+10/02 10:51:01 starting pings
+10/02 10:51:08 pings complete
+10/02 10:51:08 generating graphs
+10/02 10:51:10 graph generation complete
+10/02 10:52:00 starting pings
+10/02 10:52:06 pings complete
+10/02 10:52:06 generating graphs
+10/02 10:52:07 graph generation complete
+10/02 10:53:00 starting pings
+10/02 10:53:07 pings complete
+10/02 10:53:07 generating graphs
+10/02 10:53:08 graph generation complete
+10/02 10:54:00 starting pings
+10/02 10:54:06 pings complete
+10/02 10:54:07 generating graphs
+10/02 10:54:08 graph generation complete
+10/02 10:55:00 starting pings
+10/02 10:55:06 pings complete
+10/02 10:55:06 generating graphs
+10/02 10:55:07 graph generation complete
+10/02 10:56:00 starting pings
+10/02 10:56:06 pings complete
+10/02 10:56:06 generating graphs
+10/02 10:56:07 graph generation complete
+10/02 10:57:00 starting pings
+10/02 10:57:07 pings complete
+10/02 10:57:07 generating graphs
+10/02 10:57:08 graph generation complete
+10/02 10:58:00 starting pings
+10/02 10:58:06 pings complete
+10/02 10:58:06 generating graphs
+10/02 10:58:07 graph generation complete
+10/02 10:59:00 starting pings
+10/02 10:59:06 pings complete
+10/02 10:59:06 generating graphs
+10/02 10:59:07 graph generation complete
+10/02 11:00:01 starting pings
+10/02 11:00:08 pings complete
+10/02 11:00:08 generating graphs
+10/02 11:00:09 graph generation complete
+10/02 11:01:01 starting pings
+10/02 11:01:07 pings complete
+10/02 11:01:07 generating graphs
+10/02 11:01:08 graph generation complete
+10/02 11:02:00 starting pings
+10/02 11:02:08 pings complete
+10/02 11:02:08 generating graphs
+10/02 11:02:09 graph generation complete
+10/02 11:03:00 starting pings
+10/02 11:03:08 pings complete
+10/02 11:03:08 generating graphs
+10/02 11:03:09 graph generation complete
+10/02 11:04:00 starting pings
+10/02 11:04:08 pings complete
+10/02 11:04:08 generating graphs
+10/02 11:04:09 graph generation complete
+10/02 11:05:00 starting pings
+10/02 11:05:08 pings complete
+10/02 11:05:08 generating graphs
+10/02 11:05:09 graph generation complete
+10/02 11:06:01 starting pings
+10/02 11:06:07 pings complete
+10/02 11:06:07 generating graphs
+10/02 11:06:08 graph generation complete
+10/02 11:07:01 starting pings
+10/02 11:07:08 pings complete
+10/02 11:07:08 generating graphs
+10/02 11:07:09 graph generation complete
+10/02 11:08:00 starting pings
+10/02 11:08:08 pings complete
+10/02 11:08:08 generating graphs
+10/02 11:08:09 graph generation complete
+10/02 11:09:01 starting pings
+10/02 11:09:07 pings complete
+10/02 11:09:07 generating graphs
+10/02 11:09:08 graph generation complete
+10/02 11:10:00 starting pings
+10/02 11:10:05 pings complete
+10/02 11:10:05 generating graphs
+10/02 11:10:06 graph generation complete
+10/02 11:11:00 starting pings
+10/02 11:11:06 pings complete
+10/02 11:11:06 generating graphs
+10/02 11:11:07 graph generation complete
+10/02 11:12:00 starting pings
+10/02 11:12:06 pings complete
+10/02 11:12:06 generating graphs
+10/02 11:12:07 graph generation complete
+10/02 11:13:00 starting pings
+10/02 11:13:07 pings complete
+10/02 11:13:07 generating graphs
+10/02 11:13:08 graph generation complete
+10/02 11:14:00 starting pings
+10/02 11:14:06 pings complete
+10/02 11:14:06 generating graphs
+10/02 11:14:08 graph generation complete
+10/02 11:15:00 starting pings
+10/02 11:15:06 pings complete
+10/02 11:15:06 generating graphs
+10/02 11:15:07 graph generation complete
+10/02 11:16:00 starting pings
+10/02 11:16:05 pings complete
+10/02 11:16:05 generating graphs
+10/02 11:16:06 graph generation complete
+10/02 11:17:00 starting pings
+10/02 11:17:07 pings complete
+10/02 11:17:07 generating graphs
+10/02 11:17:08 graph generation complete
+10/02 11:18:00 starting pings
+10/02 11:18:06 pings complete
+10/02 11:18:06 generating graphs
+10/02 11:18:07 graph generation complete
+10/02 11:19:00 starting pings
+10/02 11:19:06 pings complete
+10/02 11:19:07 generating graphs
+10/02 11:19:08 graph generation complete
+10/02 11:20:00 starting pings
+10/02 11:20:08 pings complete
+10/02 11:20:08 generating graphs
+10/02 11:20:10 graph generation complete
+10/02 11:21:00 starting pings
+10/02 11:21:08 pings complete
+10/02 11:21:08 generating graphs
+10/02 11:21:09 graph generation complete
+10/02 11:22:01 starting pings
+10/02 11:22:10 pings complete
+10/02 11:22:10 generating graphs
+10/02 11:22:11 graph generation complete
+10/02 11:23:00 starting pings
+10/02 11:23:09 pings complete
+10/02 11:23:09 generating graphs
+10/02 11:23:10 graph generation complete
+10/02 11:24:00 starting pings
+10/02 11:24:09 pings complete
+10/02 11:24:09 generating graphs
+10/02 11:24:10 graph generation complete
+10/02 11:25:00 starting pings
+10/02 11:25:08 pings complete
+10/02 11:25:08 generating graphs
+10/02 11:25:10 graph generation complete
+10/02 11:26:00 starting pings
+10/02 11:26:08 pings complete
+10/02 11:26:09 generating graphs
+10/02 11:26:10 graph generation complete
+10/02 11:27:00 starting pings
+10/02 11:27:07 pings complete
+10/02 11:27:07 generating graphs
+10/02 11:27:09 graph generation complete
+10/02 11:28:00 starting pings
+10/02 11:28:07 pings complete
+10/02 11:28:07 generating graphs
+10/02 11:28:08 graph generation complete
+10/02 11:29:00 starting pings
+10/02 11:29:08 pings complete
+10/02 11:29:08 generating graphs
+10/02 11:29:09 graph generation complete
+10/02 11:30:00 starting pings
+10/02 11:30:06 pings complete
+10/02 11:30:06 generating graphs
+10/02 11:30:07 graph generation complete
+10/02 11:31:00 starting pings
+10/02 11:31:07 pings complete
+10/02 11:31:07 generating graphs
+10/02 11:31:08 graph generation complete
+10/02 11:32:00 starting pings
+10/02 11:32:06 pings complete
+10/02 11:32:06 generating graphs
+10/02 11:32:07 graph generation complete
+10/02 11:33:00 starting pings
+10/02 11:33:05 pings complete
+10/02 11:33:05 generating graphs
+10/02 11:33:06 graph generation complete
+10/02 11:34:00 starting pings
+10/02 11:34:06 pings complete
+10/02 11:34:06 generating graphs
+10/02 11:34:07 graph generation complete
+10/02 11:35:00 starting pings
+10/02 11:35:05 pings complete
+10/02 11:35:05 generating graphs
+10/02 11:35:06 graph generation complete
+10/02 11:36:00 starting pings
+10/02 11:36:06 pings complete
+10/02 11:36:06 generating graphs
+10/02 11:36:07 graph generation complete
+10/02 11:37:01 starting pings
+10/02 11:37:07 pings complete
+10/02 11:37:07 generating graphs
+10/02 11:37:08 graph generation complete
+10/02 11:38:00 starting pings
+10/02 11:38:07 pings complete
+10/02 11:38:07 generating graphs
+10/02 11:38:08 graph generation complete
+10/02 11:39:00 starting pings
+10/02 11:39:06 pings complete
+10/02 11:39:07 generating graphs
+10/02 11:39:07 graph generation complete
+10/02 11:40:00 starting pings
+10/02 11:40:07 pings complete
+10/02 11:40:07 generating graphs
+10/02 11:40:08 graph generation complete
+10/02 11:41:00 starting pings
+10/02 11:41:06 pings complete
+10/02 11:41:06 generating graphs
+10/02 11:41:07 graph generation complete
+10/02 11:42:00 starting pings
+10/02 11:42:07 pings complete
+10/02 11:42:07 generating graphs
+10/02 11:42:08 graph generation complete
+10/02 11:43:00 starting pings
+10/02 11:43:07 pings complete
+10/02 11:43:07 generating graphs
+10/02 11:43:07 graph generation complete
+10/02 11:44:00 starting pings
+10/02 11:44:07 pings complete
+10/02 11:44:07 generating graphs
+10/02 11:44:09 graph generation complete
+10/02 11:45:00 starting pings
+10/02 11:45:08 pings complete
+10/02 11:45:08 generating graphs
+10/02 11:45:09 graph generation complete
+10/02 11:46:00 starting pings
+10/02 11:46:07 pings complete
+10/02 11:46:07 generating graphs
+10/02 11:46:08 graph generation complete
+10/02 11:47:00 starting pings
+10/02 11:47:08 pings complete
+10/02 11:47:08 generating graphs
+10/02 11:47:09 graph generation complete
+10/02 11:48:00 starting pings
+10/02 11:48:08 pings complete
+10/02 11:48:08 generating graphs
+10/02 11:48:09 graph generation complete
+10/02 11:49:00 starting pings
+10/02 11:49:07 pings complete
+10/02 11:49:07 generating graphs
+10/02 11:49:08 graph generation complete
+10/02 11:50:00 starting pings
+10/02 11:50:08 pings complete
+10/02 11:50:08 generating graphs
+10/02 11:50:09 graph generation complete
+10/02 11:51:00 starting pings
+10/02 11:51:08 pings complete
+10/02 11:51:08 generating graphs
+10/02 11:51:09 graph generation complete
+10/02 11:52:00 starting pings
+10/02 11:52:08 pings complete
+10/02 11:52:08 generating graphs
+10/02 11:52:09 graph generation complete
+10/02 11:53:01 starting pings
+10/02 11:53:08 pings complete
+10/02 11:53:08 generating graphs
+10/02 11:53:10 graph generation complete
+10/02 11:54:00 starting pings
+10/02 11:54:08 pings complete
+10/02 11:54:08 generating graphs
+10/02 11:54:09 graph generation complete
+10/02 11:55:00 starting pings
+10/02 11:55:08 pings complete
+10/02 11:55:08 generating graphs
+10/02 11:55:09 graph generation complete
+10/02 11:56:00 starting pings
+10/02 11:56:07 pings complete
+10/02 11:56:07 generating graphs
+10/02 11:56:08 graph generation complete
+10/02 11:57:00 starting pings
+10/02 11:57:06 pings complete
+10/02 11:57:06 generating graphs
+10/02 11:57:07 graph generation complete
+10/02 11:58:00 starting pings
+10/02 11:58:06 pings complete
+10/02 11:58:06 generating graphs
+10/02 11:58:07 graph generation complete
+10/02 11:59:00 starting pings
+10/02 11:59:08 pings complete
+10/02 11:59:08 generating graphs
+10/02 11:59:09 graph generation complete
+10/02 12:00:00 starting pings
+10/02 12:00:08 pings complete
+10/02 12:00:08 generating graphs
+10/02 12:00:09 graph generation complete
+10/02 12:01:00 starting pings
+10/02 12:01:08 pings complete
+10/02 12:01:08 generating graphs
+10/02 12:01:09 graph generation complete
+10/02 12:02:00 starting pings
+10/02 12:02:08 pings complete
+10/02 12:02:08 generating graphs
+10/02 12:02:09 graph generation complete
+10/02 12:03:00 starting pings
+10/02 12:03:08 pings complete
+10/02 12:03:08 generating graphs
+10/02 12:03:09 graph generation complete
+10/02 12:04:01 starting pings
+10/02 12:04:08 pings complete
+10/02 12:04:08 generating graphs
+10/02 12:04:09 graph generation complete
+10/02 12:05:00 starting pings
+10/02 12:05:07 pings complete
+10/02 12:05:07 generating graphs
+10/02 12:05:08 graph generation complete
+10/02 12:06:00 starting pings
+10/02 12:06:07 pings complete
+10/02 12:06:07 generating graphs
+10/02 12:06:08 graph generation complete
+10/02 12:07:00 starting pings
+10/02 12:07:06 pings complete
+10/02 12:07:06 generating graphs
+10/02 12:07:07 graph generation complete
+10/02 12:08:00 starting pings
+10/02 12:08:06 pings complete
+10/02 12:08:06 generating graphs
+10/02 12:08:08 graph generation complete
+10/02 12:09:00 starting pings
+10/02 12:09:06 pings complete
+10/02 12:09:06 generating graphs
+10/02 12:09:07 graph generation complete
+10/02 12:10:00 starting pings
+10/02 12:10:08 pings complete
+10/02 12:10:08 generating graphs
+10/02 12:10:09 graph generation complete
+10/02 12:11:00 starting pings
+10/02 12:11:08 pings complete
+10/02 12:11:08 generating graphs
+10/02 12:11:09 graph generation complete
+10/02 12:12:00 starting pings
+10/02 12:12:08 pings complete
+10/02 12:12:08 generating graphs
+10/02 12:12:09 graph generation complete
+10/02 12:13:00 starting pings
+10/02 12:13:08 pings complete
+10/02 12:13:08 generating graphs
+10/02 12:13:09 graph generation complete
+10/02 12:14:00 starting pings
+10/02 12:14:08 pings complete
+10/02 12:14:08 generating graphs
+10/02 12:14:09 graph generation complete
+10/02 12:15:00 starting pings
+10/02 12:15:11 pings complete
+10/02 12:15:11 generating graphs
+10/02 12:15:12 graph generation complete
+10/02 12:16:00 starting pings
+10/02 12:16:08 pings complete
+10/02 12:16:08 generating graphs
+10/02 12:16:08 graph generation complete
+10/02 12:17:01 starting pings
+10/02 12:18:00 starting pings
+10/02 12:18:47 rrd update for yahoo.com failed retval 1
+10/02 12:18:47 mass ping failed retval 1
+10/02 12:19:00 starting pings
+10/02 12:19:46 rrd update for yahoo.com failed retval 1
+10/02 12:19:46 mass ping failed retval 1
+10/02 12:20:01 starting pings
+10/02 12:20:01 pings complete
+10/02 12:20:01 generating graphs
+10/02 12:20:02 graph generation complete
+10/02 12:21:00 starting pings
+10/02 12:21:17 rrd update for yahoo.com failed retval 1
+10/02 12:21:17 mass ping failed retval 1
+10/02 12:21:57 rrd update for yahoo.com failed retval 1
+10/02 12:21:57 mass ping failed retval 1
+10/02 12:22:00 starting pings
+10/02 12:22:57 pings complete
+10/02 12:22:57 generating graphs
+10/02 12:22:58 graph generation complete
+10/02 12:23:00 starting pings
+10/02 12:23:56 rrd update for yahoo.com failed retval 1
+10/02 12:23:56 mass ping failed retval 1
+10/02 12:24:00 starting pings
+10/02 12:25:00 starting pings
+10/02 12:25:46 rrd update for yahoo.com failed retval 1
+10/02 12:25:46 mass ping failed retval 1
+10/02 12:25:56 pings complete
+10/02 12:25:56 generating graphs
+10/02 12:25:57 graph generation complete
+10/02 12:26:00 starting pings
+10/02 12:27:00 starting pings
+10/02 12:27:47 rrd update for yahoo.com failed retval 1
+10/02 12:27:47 mass ping failed retval 1
+10/02 12:28:00 starting pings
+10/02 12:28:02 rrd update for yahoo.com failed retval 1
+10/02 12:28:02 mass ping failed retval 1
+10/02 12:29:00 starting pings
+10/02 12:29:26 pings complete
+10/02 12:29:26 generating graphs
+10/02 12:29:27 graph generation complete
+10/02 12:30:00 starting pings
+10/02 12:30:46 rrd update for yahoo.com failed retval 1
+10/02 12:30:46 mass ping failed retval 1
+10/02 12:31:01 starting pings
+10/02 12:31:47 rrd update for yahoo.com failed retval 1
+10/02 12:31:47 mass ping failed retval 1
+10/02 12:31:57 pings complete
+10/02 12:31:57 generating graphs
+10/02 12:31:58 graph generation complete
+10/02 12:32:00 starting pings
+10/02 12:33:00 starting pings
+10/02 12:33:01 rrd update for yahoo.com failed retval 1
+10/02 12:33:01 mass ping failed retval 1
+10/02 12:34:00 starting pings
+10/02 12:34:26 rrd update for yahoo.com failed retval 1
+10/02 12:34:26 mass ping failed retval 1
+10/02 12:34:58 pings complete
+10/02 12:34:58 generating graphs
+10/02 12:34:58 graph generation complete
+10/02 12:35:01 starting pings
+10/02 12:35:08 pings complete
+10/02 12:35:08 generating graphs
+10/02 12:35:09 graph generation complete
+10/02 12:36:00 starting pings
+10/02 12:36:07 pings complete
+10/02 12:36:07 generating graphs
+10/02 12:36:09 graph generation complete
+10/02 12:37:00 starting pings
+10/02 12:37:08 pings complete
+10/02 12:37:08 generating graphs
+10/02 12:37:09 graph generation complete
+10/02 12:38:00 starting pings
+10/02 12:38:08 pings complete
+10/02 12:38:08 generating graphs
+10/02 12:38:09 graph generation complete
+10/02 12:39:01 starting pings
+10/02 12:39:08 pings complete
+10/02 12:39:08 generating graphs
+10/02 12:39:09 graph generation complete
+10/02 12:40:00 starting pings
+10/02 12:40:07 pings complete
+10/02 12:40:07 generating graphs
+10/02 12:40:08 graph generation complete
+10/02 12:41:00 starting pings
+10/02 12:41:06 pings complete
+10/02 12:41:07 generating graphs
+10/02 12:41:08 graph generation complete
+10/02 12:42:00 starting pings
+10/02 12:42:08 pings complete
+10/02 12:42:08 generating graphs
+10/02 12:42:09 graph generation complete
+10/02 12:43:00 starting pings
+10/02 12:43:08 pings complete
+10/02 12:43:08 generating graphs
+10/02 12:43:09 graph generation complete
+10/02 12:44:00 starting pings
+10/02 12:44:07 pings complete
+10/02 12:44:07 generating graphs
+10/02 12:44:08 graph generation complete
+10/02 12:45:00 starting pings
+10/02 12:45:07 pings complete
+10/02 12:45:07 generating graphs
+10/02 12:45:08 graph generation complete
+10/02 12:46:00 starting pings
+10/02 12:46:08 pings complete
+10/02 12:46:08 generating graphs
+10/02 12:46:09 graph generation complete
+10/02 12:47:00 starting pings
+10/02 12:47:08 pings complete
+10/02 12:47:08 generating graphs
+10/02 12:47:09 graph generation complete
+10/02 12:48:00 starting pings
+10/02 12:48:08 pings complete
+10/02 12:48:08 generating graphs
+10/02 12:48:09 graph generation complete
+10/02 12:49:01 starting pings
+10/02 12:49:08 pings complete
+10/02 12:49:08 generating graphs
+10/02 12:49:10 graph generation complete
+10/02 12:50:00 starting pings
+10/02 12:50:08 pings complete
+10/02 12:50:08 generating graphs
+10/02 12:50:08 graph generation complete
+10/02 12:51:01 starting pings
+10/02 12:51:07 pings complete
+10/02 12:51:07 generating graphs
+10/02 12:51:09 graph generation complete
+10/02 12:52:00 starting pings
+10/02 12:52:08 pings complete
+10/02 12:52:08 generating graphs
+10/02 12:52:09 graph generation complete
+10/02 12:53:00 starting pings
+10/02 12:53:08 pings complete
+10/02 12:53:08 generating graphs
+10/02 12:53:08 graph generation complete
+10/02 12:54:01 starting pings
+10/02 12:54:08 pings complete
+10/02 12:54:08 generating graphs
+10/02 12:54:09 graph generation complete
+10/02 12:55:00 starting pings
+10/02 12:55:08 pings complete
+10/02 12:55:08 generating graphs
+10/02 12:55:09 graph generation complete
+10/02 12:56:00 starting pings
+10/02 12:56:08 pings complete
+10/02 12:56:08 generating graphs
+10/02 12:56:09 graph generation complete
+10/02 12:57:00 starting pings
+10/02 12:57:07 pings complete
+10/02 12:57:07 generating graphs
+10/02 12:57:08 graph generation complete
+10/02 12:58:00 starting pings
+10/02 12:58:08 pings complete
+10/02 12:58:08 generating graphs
+10/02 12:58:09 graph generation complete
+10/02 12:59:00 starting pings
+10/02 12:59:08 pings complete
+10/02 12:59:08 generating graphs
+10/02 12:59:09 graph generation complete
+10/02 13:00:00 starting pings
+10/02 13:00:06 pings complete
+10/02 13:00:06 generating graphs
+10/02 13:00:07 graph generation complete
+10/02 13:01:00 starting pings
+10/02 13:01:07 pings complete
+10/02 13:01:07 generating graphs
+10/02 13:01:08 graph generation complete
+10/02 13:02:00 starting pings
+10/02 13:02:06 pings complete
+10/02 13:02:06 generating graphs
+10/02 13:02:08 graph generation complete
+10/02 13:03:00 starting pings
+10/02 13:03:06 pings complete
+10/02 13:03:06 generating graphs
+10/02 13:03:07 graph generation complete
+10/02 13:04:00 starting pings
+10/02 13:04:06 pings complete
+10/02 13:04:07 generating graphs
+10/02 13:04:08 graph generation complete
+10/02 13:05:00 starting pings
+10/02 13:05:05 pings complete
+10/02 13:05:05 generating graphs
+10/02 13:05:07 graph generation complete
+10/02 13:06:00 starting pings
+10/02 13:06:06 pings complete
+10/02 13:06:06 generating graphs
+10/02 13:06:07 graph generation complete
+10/02 13:07:00 starting pings
+10/02 13:07:06 pings complete
+10/02 13:07:06 generating graphs
+10/02 13:07:07 graph generation complete
+10/02 13:08:00 starting pings
+10/02 13:08:05 pings complete
+10/02 13:08:05 generating graphs
+10/02 13:08:06 graph generation complete
+10/02 13:09:00 starting pings
+10/02 13:09:06 pings complete
+10/02 13:09:06 generating graphs
+10/02 13:09:08 graph generation complete
+10/02 13:10:00 starting pings
+10/02 13:10:06 pings complete
+10/02 13:10:06 generating graphs
+10/02 13:10:06 graph generation complete
+10/02 13:11:00 starting pings
+10/02 13:11:06 pings complete
+10/02 13:11:06 generating graphs
+10/02 13:11:07 graph generation complete
+10/02 13:12:00 starting pings
+10/02 13:12:06 pings complete
+10/02 13:12:06 generating graphs
+10/02 13:12:07 graph generation complete
+10/02 13:13:00 starting pings
+10/02 13:13:05 pings complete
+10/02 13:13:05 generating graphs
+10/02 13:13:06 graph generation complete
+10/02 13:14:00 starting pings
+10/02 13:14:05 pings complete
+10/02 13:14:05 generating graphs
+10/02 13:14:07 graph generation complete
+10/02 13:15:00 starting pings
+10/02 13:15:06 pings complete
+10/02 13:15:06 generating graphs
+10/02 13:15:07 graph generation complete
+10/02 13:16:00 starting pings
+10/02 13:16:07 pings complete
+10/02 13:16:07 generating graphs
+10/02 13:16:08 graph generation complete
+10/02 13:17:00 starting pings
+10/02 13:17:08 pings complete
+10/02 13:17:08 generating graphs
+10/02 13:17:09 graph generation complete
+10/02 13:18:00 starting pings
+10/02 13:18:08 pings complete
+10/02 13:18:08 generating graphs
+10/02 13:18:09 graph generation complete
+10/02 13:19:01 starting pings
+10/02 13:19:08 pings complete
+10/02 13:19:08 generating graphs
+10/02 13:19:09 graph generation complete
+10/02 13:20:00 starting pings
+10/02 13:20:08 pings complete
+10/02 13:20:08 generating graphs
+10/02 13:20:09 graph generation complete
+10/02 13:21:00 starting pings
+10/02 13:21:08 pings complete
+10/02 13:21:08 generating graphs
+10/02 13:21:09 graph generation complete
+10/02 13:22:00 starting pings
+10/02 13:22:07 pings complete
+10/02 13:22:07 generating graphs
+10/02 13:22:08 graph generation complete
+10/02 13:23:00 starting pings
+10/02 13:23:08 pings complete
+10/02 13:23:08 generating graphs
+10/02 13:23:09 graph generation complete
+10/02 13:24:00 starting pings
+10/02 13:24:07 pings complete
+10/02 13:24:08 generating graphs
+10/02 13:24:09 graph generation complete
+10/02 13:25:00 starting pings
+10/02 13:25:08 pings complete
+10/02 13:25:08 generating graphs
+10/02 13:25:09 graph generation complete
+10/02 13:26:00 starting pings
+10/02 13:26:08 pings complete
+10/02 13:26:08 generating graphs
+10/02 13:26:09 graph generation complete
+10/02 13:27:00 starting pings
+10/02 13:27:06 pings complete
+10/02 13:27:06 generating graphs
+10/02 13:27:07 graph generation complete
+10/02 13:28:01 starting pings
+10/02 13:28:06 pings complete
+10/02 13:28:06 generating graphs
+10/02 13:28:07 graph generation complete
+10/02 13:29:00 starting pings
+10/02 13:29:06 pings complete
+10/02 13:29:06 generating graphs
+10/02 13:29:08 graph generation complete
+10/02 13:30:00 starting pings
+10/02 13:30:07 pings complete
+10/02 13:30:07 generating graphs
+10/02 13:30:09 graph generation complete
+10/02 13:31:00 starting pings
+10/02 13:31:07 pings complete
+10/02 13:31:07 generating graphs
+10/02 13:31:09 graph generation complete
+10/02 13:32:00 starting pings
+10/02 13:32:07 pings complete
+10/02 13:32:07 generating graphs
+10/02 13:32:08 graph generation complete
+10/02 13:33:01 starting pings
+10/02 13:33:07 pings complete
+10/02 13:33:07 generating graphs
+10/02 13:33:08 graph generation complete
+10/02 13:34:01 starting pings
+10/02 13:34:07 pings complete
+10/02 13:34:07 generating graphs
+10/02 13:34:08 graph generation complete
+10/02 13:35:00 starting pings
+10/02 13:35:08 pings complete
+10/02 13:35:08 generating graphs
+10/02 13:35:09 graph generation complete
+10/02 13:36:00 starting pings
+10/02 13:36:08 pings complete
+10/02 13:36:08 generating graphs
+10/02 13:36:09 graph generation complete
+10/02 13:37:00 starting pings
+10/02 13:37:07 pings complete
+10/02 13:37:07 generating graphs
+10/02 13:37:08 graph generation complete
+10/02 13:38:01 starting pings
+10/02 13:38:08 pings complete
+10/02 13:38:08 generating graphs
+10/02 13:38:09 graph generation complete
+10/02 13:39:00 starting pings
+10/02 13:39:06 pings complete
+10/02 13:39:06 generating graphs
+10/02 13:39:07 graph generation complete
+10/02 13:40:00 starting pings
+10/02 13:40:07 pings complete
+10/02 13:40:07 generating graphs
+10/02 13:40:08 graph generation complete
+10/02 13:41:00 starting pings
+10/02 13:41:07 pings complete
+10/02 13:41:07 generating graphs
+10/02 13:41:08 graph generation complete
+10/02 13:42:00 starting pings
+10/02 13:42:07 pings complete
+10/02 13:42:07 generating graphs
+10/02 13:42:08 graph generation complete
+10/02 13:43:01 starting pings
+10/02 13:43:08 pings complete
+10/02 13:43:08 generating graphs
+10/02 13:43:09 graph generation complete
+10/02 13:44:00 starting pings
+10/02 13:44:08 pings complete
+10/02 13:44:08 generating graphs
+10/02 13:44:09 graph generation complete
+10/02 13:45:00 starting pings
+10/02 13:45:08 pings complete
+10/02 13:45:08 generating graphs
+10/02 13:45:09 graph generation complete
+10/02 13:46:01 starting pings
+10/02 13:46:08 pings complete
+10/02 13:46:08 generating graphs
+10/02 13:46:09 graph generation complete
+10/02 13:47:00 starting pings
+10/02 13:47:08 pings complete
+10/02 13:47:08 generating graphs
+10/02 13:47:09 graph generation complete
+10/02 13:48:00 starting pings
+10/02 13:48:08 pings complete
+10/02 13:48:08 generating graphs
+10/02 13:48:09 graph generation complete
+10/02 13:49:00 starting pings
+10/02 13:49:08 pings complete
+10/02 13:49:08 generating graphs
+10/02 13:49:09 graph generation complete
+10/02 13:50:00 starting pings
+10/02 13:50:08 pings complete
+10/02 13:50:08 generating graphs
+10/02 13:50:09 graph generation complete
+10/02 13:51:00 starting pings
+10/02 13:51:08 pings complete
+10/02 13:51:08 generating graphs
+10/02 13:51:09 graph generation complete
+10/02 13:52:00 starting pings
+10/02 13:52:06 pings complete
+10/02 13:52:07 generating graphs
+10/02 13:52:08 graph generation complete
+10/02 13:53:00 starting pings
+10/02 13:53:07 pings complete
+10/02 13:53:07 generating graphs
+10/02 13:53:08 graph generation complete
+10/02 13:54:01 starting pings
+10/02 13:54:08 pings complete
+10/02 13:54:08 generating graphs
+10/02 13:54:10 graph generation complete
+10/02 13:55:00 starting pings
+10/02 13:55:07 pings complete
+10/02 13:55:07 generating graphs
+10/02 13:55:08 graph generation complete
+10/02 13:56:00 starting pings
+10/02 13:56:07 pings complete
+10/02 13:56:07 generating graphs
+10/02 13:56:08 graph generation complete
+10/02 13:57:00 starting pings
+10/02 13:57:05 pings complete
+10/02 13:57:05 generating graphs
+10/02 13:57:06 graph generation complete
+10/02 13:58:00 starting pings
+10/02 13:58:07 pings complete
+10/02 13:58:07 generating graphs
+10/02 13:58:08 graph generation complete
+10/02 13:59:00 starting pings
+10/02 13:59:06 pings complete
+10/02 13:59:06 generating graphs
+10/02 13:59:07 graph generation complete
+10/02 14:00:00 starting pings
+10/02 14:00:06 pings complete
+10/02 14:00:06 generating graphs
+10/02 14:00:07 graph generation complete
+10/02 14:01:00 starting pings
+10/02 14:01:06 pings complete
+10/02 14:01:06 generating graphs
+10/02 14:01:07 graph generation complete
+10/02 14:02:00 starting pings
+10/02 14:02:06 pings complete
+10/02 14:02:06 generating graphs
+10/02 14:02:07 graph generation complete
+10/02 14:03:01 starting pings
+10/02 14:03:07 pings complete
+10/02 14:03:07 generating graphs
+10/02 14:03:08 graph generation complete
+10/02 14:04:00 starting pings
+10/02 14:04:06 pings complete
+10/02 14:04:06 generating graphs
+10/02 14:04:07 graph generation complete
+10/02 14:05:00 starting pings
+10/02 14:05:08 pings complete
+10/02 14:05:08 generating graphs
+10/02 14:05:09 graph generation complete
+10/02 14:06:00 starting pings
+10/02 14:06:07 pings complete
+10/02 14:06:07 generating graphs
+10/02 14:06:08 graph generation complete
+10/02 14:07:00 starting pings
+10/02 14:07:08 pings complete
+10/02 14:07:08 generating graphs
+10/02 14:07:09 graph generation complete
+10/02 14:08:00 starting pings
+10/02 14:08:08 pings complete
+10/02 14:08:08 generating graphs
+10/02 14:08:09 graph generation complete
+10/02 14:09:00 starting pings
+10/02 14:09:08 pings complete
+10/02 14:09:08 generating graphs
+10/02 14:09:09 graph generation complete
+10/02 14:10:00 starting pings
+10/02 14:10:08 pings complete
+10/02 14:10:08 generating graphs
+10/02 14:10:10 graph generation complete
+10/02 14:11:00 starting pings
+10/02 14:11:08 pings complete
+10/02 14:11:08 generating graphs
+10/02 14:11:09 graph generation complete
+10/02 14:12:00 starting pings
+10/02 14:12:08 pings complete
+10/02 14:12:08 generating graphs
+10/02 14:12:09 graph generation complete
+10/02 14:13:00 starting pings
+10/02 14:13:07 pings complete
+10/02 14:13:07 generating graphs
+10/02 14:13:08 graph generation complete
+10/02 14:14:00 starting pings
+10/02 14:14:06 pings complete
+10/02 14:14:06 generating graphs
+10/02 14:14:07 graph generation complete
+10/02 14:15:00 starting pings
+10/02 14:15:06 pings complete
+10/02 14:15:06 generating graphs
+10/02 14:15:07 graph generation complete
+10/02 14:16:00 starting pings
+10/02 14:16:07 pings complete
+10/02 14:16:07 generating graphs
+10/02 14:16:08 graph generation complete
+10/02 14:17:00 starting pings
+10/02 14:17:06 pings complete
+10/02 14:17:06 generating graphs
+10/02 14:17:07 graph generation complete
+10/02 14:18:00 starting pings
+10/02 14:18:08 pings complete
+10/02 14:18:08 generating graphs
+10/02 14:18:10 graph generation complete
+10/02 14:19:00 starting pings
+10/02 14:19:06 pings complete
+10/02 14:19:06 generating graphs
+10/02 14:19:07 graph generation complete
+10/02 14:20:00 starting pings
+10/02 14:20:08 pings complete
+10/02 14:20:08 generating graphs
+10/02 14:20:09 graph generation complete
+10/02 14:21:00 starting pings
+10/02 14:21:08 pings complete
+10/02 14:21:08 generating graphs
+10/02 14:21:09 graph generation complete
+10/02 14:22:00 starting pings
+10/02 14:22:08 pings complete
+10/02 14:22:08 generating graphs
+10/02 14:22:09 graph generation complete
+10/02 14:23:00 starting pings
+10/02 14:23:07 pings complete
+10/02 14:23:07 generating graphs
+10/02 14:23:08 graph generation complete
+10/02 14:24:01 starting pings
+10/02 14:24:08 pings complete
+10/02 14:24:08 generating graphs
+10/02 14:24:09 graph generation complete
+10/02 14:25:00 starting pings
+10/02 14:25:06 pings complete
+10/02 14:25:06 generating graphs
+10/02 14:25:07 graph generation complete
+10/02 14:26:00 starting pings
+10/02 14:26:07 pings complete
+10/02 14:26:07 generating graphs
+10/02 14:26:08 graph generation complete
+10/02 14:27:00 starting pings
+10/02 14:27:07 pings complete
+10/02 14:27:07 generating graphs
+10/02 14:27:08 graph generation complete
+10/02 14:28:01 starting pings
+10/02 14:28:08 pings complete
+10/02 14:28:08 generating graphs
+10/02 14:28:10 graph generation complete
+10/02 14:29:00 starting pings
+10/02 14:29:06 pings complete
+10/02 14:29:06 generating graphs
+10/02 14:29:07 graph generation complete
+10/02 14:30:00 starting pings
+10/02 14:30:08 pings complete
+10/02 14:30:08 generating graphs
+10/02 14:30:09 graph generation complete
+10/02 14:31:00 starting pings
+10/02 14:31:08 pings complete
+10/02 14:31:08 generating graphs
+10/02 14:31:09 graph generation complete
+10/02 14:32:00 starting pings
+10/02 14:32:07 pings complete
+10/02 14:32:07 generating graphs
+10/02 14:32:08 graph generation complete
+10/02 14:33:00 starting pings
+10/02 14:33:08 pings complete
+10/02 14:33:08 generating graphs
+10/02 14:33:09 graph generation complete
+10/02 14:34:00 starting pings
+10/02 14:34:08 pings complete
+10/02 14:34:08 generating graphs
+10/02 14:34:09 graph generation complete
+10/02 14:35:00 starting pings
+10/02 14:35:07 pings complete
+10/02 14:35:07 generating graphs
+10/02 14:35:08 graph generation complete
+10/02 14:36:00 starting pings
+10/02 14:36:07 pings complete
+10/02 14:36:08 generating graphs
+10/02 14:36:08 graph generation complete
+10/02 14:37:01 starting pings
+10/02 14:37:08 pings complete
+10/02 14:37:09 generating graphs
+10/02 14:37:09 graph generation complete
+10/02 14:38:00 starting pings
+10/02 14:38:08 pings complete
+10/02 14:38:08 generating graphs
+10/02 14:38:09 graph generation complete
+10/02 14:39:00 starting pings
+10/02 14:39:07 pings complete
+10/02 14:39:07 generating graphs
+10/02 14:39:08 graph generation complete
+10/02 14:40:00 starting pings
+10/02 14:40:07 pings complete
+10/02 14:40:07 generating graphs
+10/02 14:40:08 graph generation complete
+10/02 14:41:01 starting pings
+10/02 14:41:08 pings complete
+10/02 14:41:08 generating graphs
+10/02 14:41:09 graph generation complete
+10/02 14:42:00 starting pings
+10/02 14:42:08 pings complete
+10/02 14:42:08 generating graphs
+10/02 14:42:09 graph generation complete
+10/02 14:43:00 starting pings
+10/02 14:43:07 pings complete
+10/02 14:43:07 generating graphs
+10/02 14:43:08 graph generation complete
+10/02 14:44:01 starting pings
+10/02 14:44:08 pings complete
+10/02 14:44:08 generating graphs
+10/02 14:44:09 graph generation complete
+10/02 14:45:00 starting pings
+10/02 14:45:08 pings complete
+10/02 14:45:08 generating graphs
+10/02 14:45:09 graph generation complete
+10/02 14:46:00 starting pings
+10/02 14:46:08 pings complete
+10/02 14:46:08 generating graphs
+10/02 14:46:09 graph generation complete
+10/02 14:47:00 starting pings
+10/02 14:47:06 pings complete
+10/02 14:47:07 generating graphs
+10/02 14:47:08 graph generation complete
+10/02 14:48:00 starting pings
+10/02 14:48:11 pings complete
+10/02 14:48:11 generating graphs
+10/02 14:48:12 graph generation complete
+10/02 14:49:00 starting pings
+10/02 14:49:07 pings complete
+10/02 14:49:07 generating graphs
+10/02 14:49:08 graph generation complete
+10/02 14:50:00 starting pings
+10/02 14:50:08 pings complete
+10/02 14:50:08 generating graphs
+10/02 14:50:09 graph generation complete
+10/02 14:51:00 starting pings
+10/02 14:51:06 pings complete
+10/02 14:51:06 generating graphs
+10/02 14:51:08 graph generation complete
+10/02 14:52:00 starting pings
+10/02 14:52:07 pings complete
+10/02 14:52:07 generating graphs
+10/02 14:52:08 graph generation complete
+10/02 14:53:01 starting pings
+10/02 14:53:09 pings complete
+10/02 14:53:09 generating graphs
+10/02 14:53:10 graph generation complete
+10/02 14:54:00 starting pings
+10/02 14:54:08 pings complete
+10/02 14:54:08 generating graphs
+10/02 14:54:09 graph generation complete
+10/02 14:55:00 starting pings
+10/02 14:55:07 pings complete
+10/02 14:55:07 generating graphs
+10/02 14:55:08 graph generation complete
+10/02 14:56:00 starting pings
+10/02 14:56:07 pings complete
+10/02 14:56:07 generating graphs
+10/02 14:56:07 graph generation complete
+10/02 14:57:00 starting pings
+10/02 14:57:07 pings complete
+10/02 14:57:07 generating graphs
+10/02 14:57:08 graph generation complete
+10/02 14:58:00 starting pings
+10/02 14:58:08 pings complete
+10/02 14:58:08 generating graphs
+10/02 14:58:09 graph generation complete
+10/02 14:59:00 starting pings
+10/02 14:59:05 pings complete
+10/02 14:59:05 generating graphs
+10/02 14:59:06 graph generation complete
+10/02 15:00:01 starting pings
+10/02 15:00:08 pings complete
+10/02 15:00:08 generating graphs
+10/02 15:00:09 graph generation complete
+10/02 15:01:00 starting pings
+10/02 15:01:08 pings complete
+10/02 15:01:08 generating graphs
+10/02 15:01:09 graph generation complete
+10/02 15:02:00 starting pings
+10/02 15:02:07 pings complete
+10/02 15:02:08 generating graphs
+10/02 15:02:09 graph generation complete
+10/02 15:03:00 starting pings
+10/02 15:03:06 pings complete
+10/02 15:03:06 generating graphs
+10/02 15:03:07 graph generation complete
+10/02 15:04:00 starting pings
+10/02 15:04:05 pings complete
+10/02 15:04:05 generating graphs
+10/02 15:04:06 graph generation complete
+10/02 15:05:01 starting pings
+10/02 15:05:07 pings complete
+10/02 15:05:07 generating graphs
+10/02 15:05:08 graph generation complete
+10/02 15:06:00 starting pings
+10/02 15:06:06 pings complete
+10/02 15:06:06 generating graphs
+10/02 15:06:07 graph generation complete
+10/02 15:07:00 starting pings
+10/02 15:07:07 pings complete
+10/02 15:07:07 generating graphs
+10/02 15:07:07 graph generation complete
+10/02 15:08:01 starting pings
+10/02 15:08:08 pings complete
+10/02 15:08:08 generating graphs
+10/02 15:08:09 graph generation complete
+10/02 15:09:00 starting pings
+10/02 15:09:08 pings complete
+10/02 15:09:08 generating graphs
+10/02 15:09:09 graph generation complete
+10/02 15:10:00 starting pings
+10/02 15:10:08 pings complete
+10/02 15:10:08 generating graphs
+10/02 15:10:09 graph generation complete
+10/02 15:11:00 starting pings
+10/02 15:11:07 pings complete
+10/02 15:11:07 generating graphs
+10/02 15:11:08 graph generation complete
+10/02 15:12:00 starting pings
+10/02 15:12:08 pings complete
+10/02 15:12:08 generating graphs
+10/02 15:12:09 graph generation complete
+10/02 15:13:00 starting pings
+10/02 15:13:08 pings complete
+10/02 15:13:08 generating graphs
+10/02 15:13:09 graph generation complete
+10/02 15:14:00 starting pings
+10/02 15:14:08 pings complete
+10/02 15:14:08 generating graphs
+10/02 15:14:09 graph generation complete
+10/02 15:15:00 starting pings
+10/02 15:15:07 pings complete
+10/02 15:15:07 generating graphs
+10/02 15:15:08 graph generation complete
+10/02 15:16:01 starting pings
+10/02 15:16:08 pings complete
+10/02 15:16:08 generating graphs
+10/02 15:16:09 graph generation complete
+10/02 15:17:00 starting pings
+10/02 15:17:06 pings complete
+10/02 15:17:07 generating graphs
+10/02 15:17:08 graph generation complete
+10/02 15:18:00 starting pings
+10/02 15:18:07 pings complete
+10/02 15:18:07 generating graphs
+10/02 15:18:09 graph generation complete
+10/02 15:19:00 starting pings
+10/02 15:19:06 pings complete
+10/02 15:19:06 generating graphs
+10/02 15:19:07 graph generation complete
+10/02 15:20:00 starting pings
+10/02 15:20:08 pings complete
+10/02 15:20:08 generating graphs
+10/02 15:20:09 graph generation complete
+10/02 15:21:00 starting pings
+10/02 15:21:08 pings complete
+10/02 15:21:08 generating graphs
+10/02 15:21:09 graph generation complete
+10/02 15:22:00 starting pings
+10/02 15:22:06 pings complete
+10/02 15:22:06 generating graphs
+10/02 15:22:07 graph generation complete
+10/02 15:23:00 starting pings
+10/02 15:23:06 pings complete
+10/02 15:23:06 generating graphs
+10/02 15:23:07 graph generation complete
+10/02 15:24:00 starting pings
+10/02 15:24:06 pings complete
+10/02 15:24:06 generating graphs
+10/02 15:24:08 graph generation complete
+10/02 15:25:00 starting pings
+10/02 15:25:07 pings complete
+10/02 15:25:07 generating graphs
+10/02 15:25:08 graph generation complete
+10/02 15:26:00 starting pings
+10/02 15:26:06 pings complete
+10/02 15:26:06 generating graphs
+10/02 15:26:07 graph generation complete
+10/02 15:27:00 starting pings
+10/02 15:27:07 pings complete
+10/02 15:27:07 generating graphs
+10/02 15:27:08 graph generation complete
+10/02 15:28:00 starting pings
+10/02 15:28:08 pings complete
+10/02 15:28:08 generating graphs
+10/02 15:28:09 graph generation complete
+10/02 15:29:00 starting pings
+10/02 15:29:08 pings complete
+10/02 15:29:08 generating graphs
+10/02 15:29:09 graph generation complete
+10/02 15:30:00 starting pings
+10/02 15:30:08 pings complete
+10/02 15:30:08 generating graphs
+10/02 15:30:09 graph generation complete
+10/02 15:31:00 starting pings
+10/02 15:31:07 pings complete
+10/02 15:31:07 generating graphs
+10/02 15:31:08 graph generation complete
+10/02 15:32:00 starting pings
+10/02 15:32:08 pings complete
+10/02 15:32:08 generating graphs
+10/02 15:32:09 graph generation complete
+10/02 15:33:00 starting pings
+10/02 15:33:08 pings complete
+10/02 15:33:08 generating graphs
+10/02 15:33:09 graph generation complete
+10/02 15:34:00 starting pings
+10/02 15:34:07 pings complete
+10/02 15:34:08 generating graphs
+10/02 15:34:09 graph generation complete
+10/02 15:35:00 starting pings
+10/02 15:35:08 pings complete
+10/02 15:35:08 generating graphs
+10/02 15:35:09 graph generation complete
+10/02 15:36:00 starting pings
+10/02 15:36:06 pings complete
+10/02 15:36:07 generating graphs
+10/02 15:36:08 graph generation complete
+10/02 15:37:00 starting pings
+10/02 15:37:06 pings complete
+10/02 15:37:06 generating graphs
+10/02 15:37:07 graph generation complete
+10/02 15:38:00 starting pings
+10/02 15:38:07 pings complete
+10/02 15:38:07 generating graphs
+10/02 15:38:08 graph generation complete
+10/02 15:39:00 starting pings
+10/02 15:39:05 pings complete
+10/02 15:39:05 generating graphs
+10/02 15:39:06 graph generation complete
+10/02 15:40:01 starting pings
+10/02 15:40:07 pings complete
+10/02 15:40:07 generating graphs
+10/02 15:40:08 graph generation complete
+10/02 15:41:00 starting pings
+10/02 15:41:08 pings complete
+10/02 15:41:08 generating graphs
+10/02 15:41:09 graph generation complete
+10/02 15:42:00 starting pings
+10/02 15:42:07 pings complete
+10/02 15:42:07 generating graphs
+10/02 15:42:08 graph generation complete
+10/02 15:43:00 starting pings
+10/02 15:43:06 pings complete
+10/02 15:43:06 generating graphs
+10/02 15:43:07 graph generation complete
+10/02 15:44:00 starting pings
+10/02 15:44:08 pings complete
+10/02 15:44:08 generating graphs
+10/02 15:44:09 graph generation complete
+10/02 15:45:00 starting pings
+10/02 15:45:08 pings complete
+10/02 15:45:08 generating graphs
+10/02 15:45:09 graph generation complete
+10/02 15:46:00 starting pings
+10/02 15:46:06 pings complete
+10/02 15:46:06 generating graphs
+10/02 15:46:07 graph generation complete
+10/02 15:47:01 starting pings
+10/02 15:47:08 pings complete
+10/02 15:47:08 generating graphs
+10/02 15:47:09 graph generation complete
+10/02 15:48:00 starting pings
+10/02 15:48:08 pings complete
+10/02 15:48:08 generating graphs
+10/02 15:48:09 graph generation complete
+10/02 15:49:00 starting pings
+10/02 15:49:07 pings complete
+10/02 15:49:07 generating graphs
+10/02 15:49:08 graph generation complete
+10/02 15:50:00 starting pings
+10/02 15:50:06 pings complete
+10/02 15:50:06 generating graphs
+10/02 15:50:07 graph generation complete
+10/02 15:51:00 starting pings
+10/02 15:51:07 pings complete
+10/02 15:51:07 generating graphs
+10/02 15:51:08 graph generation complete
+10/02 15:52:00 starting pings
+10/02 15:52:08 pings complete
+10/02 15:52:08 generating graphs
+10/02 15:52:09 graph generation complete
+10/02 15:53:01 starting pings
+10/02 15:53:08 pings complete
+10/02 15:53:08 generating graphs
+10/02 15:53:10 graph generation complete
+10/02 15:54:00 starting pings
+10/02 15:54:06 pings complete
+10/02 15:54:06 generating graphs
+10/02 15:54:08 graph generation complete
+10/02 15:55:00 starting pings
+10/02 15:55:07 pings complete
+10/02 15:55:08 generating graphs
+10/02 15:55:08 graph generation complete
+10/02 15:56:01 starting pings
+10/02 15:56:08 pings complete
+10/02 15:56:08 generating graphs
+10/02 15:56:10 graph generation complete
+10/02 15:57:00 starting pings
+10/02 15:57:08 pings complete
+10/02 15:57:08 generating graphs
+10/02 15:57:09 graph generation complete
+10/02 15:58:00 starting pings
+10/02 15:58:08 pings complete
+10/02 15:58:08 generating graphs
+10/02 15:58:09 graph generation complete
+10/02 15:59:00 starting pings
+10/02 15:59:08 pings complete
+10/02 15:59:08 generating graphs
+10/02 15:59:09 graph generation complete
+10/02 16:00:00 starting pings
+10/02 16:00:06 pings complete
+10/02 16:00:06 generating graphs
+10/02 16:00:07 graph generation complete
+10/02 16:01:00 starting pings
+10/02 16:01:08 pings complete
+10/02 16:01:08 generating graphs
+10/02 16:01:09 graph generation complete
+10/02 16:02:00 starting pings
+10/02 16:02:07 pings complete
+10/02 16:02:08 generating graphs
+10/02 16:02:09 graph generation complete
+10/02 16:03:00 starting pings
+10/02 16:03:07 pings complete
+10/02 16:03:07 generating graphs
+10/02 16:03:08 graph generation complete
+10/02 16:04:00 starting pings
+10/02 16:04:07 pings complete
+10/02 16:04:07 generating graphs
+10/02 16:04:08 graph generation complete
+10/02 16:05:00 starting pings
+10/02 16:05:08 pings complete
+10/02 16:05:08 generating graphs
+10/02 16:05:09 graph generation complete
+10/02 16:06:00 starting pings
+10/02 16:06:07 pings complete
+10/02 16:06:07 generating graphs
+10/02 16:06:08 graph generation complete
+10/02 16:07:00 starting pings
+10/02 16:07:07 pings complete
+10/02 16:07:07 generating graphs
+10/02 16:07:08 graph generation complete
+10/02 16:08:00 starting pings
+10/02 16:08:07 pings complete
+10/02 16:08:07 generating graphs
+10/02 16:08:08 graph generation complete
+10/02 16:09:00 starting pings
+10/02 16:09:08 pings complete
+10/02 16:09:08 generating graphs
+10/02 16:09:09 graph generation complete
+10/02 16:10:00 starting pings
+10/02 16:10:06 pings complete
+10/02 16:10:06 generating graphs
+10/02 16:10:07 graph generation complete
+10/02 16:11:00 starting pings
+10/02 16:11:06 pings complete
+10/02 16:11:06 generating graphs
+10/02 16:11:07 graph generation complete
+10/02 16:12:00 starting pings
+10/02 16:12:07 pings complete
+10/02 16:12:08 generating graphs
+10/02 16:12:09 graph generation complete
+10/02 16:13:00 starting pings
+10/02 16:13:08 pings complete
+10/02 16:13:08 generating graphs
+10/02 16:13:09 graph generation complete
+10/02 16:14:00 starting pings
+10/02 16:14:08 pings complete
+10/02 16:14:08 generating graphs
+10/02 16:14:09 graph generation complete
+10/02 16:15:00 starting pings
+10/02 16:15:07 pings complete
+10/02 16:15:07 generating graphs
+10/02 16:15:08 graph generation complete
+10/02 16:16:00 starting pings
+10/02 16:16:08 pings complete
+10/02 16:16:08 generating graphs
+10/02 16:16:09 graph generation complete
+10/02 16:17:00 starting pings
+10/02 16:17:07 pings complete
+10/02 16:17:07 generating graphs
+10/02 16:17:08 graph generation complete
+10/02 16:18:00 starting pings
+10/02 16:18:07 pings complete
+10/02 16:18:07 generating graphs
+10/02 16:18:08 graph generation complete
+10/02 16:19:00 starting pings
+10/02 16:19:07 pings complete
+10/02 16:19:07 generating graphs
+10/02 16:19:08 graph generation complete
+10/02 16:20:00 starting pings
+10/02 16:20:07 pings complete
+10/02 16:20:07 generating graphs
+10/02 16:20:08 graph generation complete
+10/02 16:21:00 starting pings
+10/02 16:21:08 pings complete
+10/02 16:21:08 generating graphs
+10/02 16:21:09 graph generation complete
+10/02 16:22:00 starting pings
+10/02 16:22:07 pings complete
+10/02 16:22:07 generating graphs
+10/02 16:22:09 graph generation complete
+10/02 16:23:00 starting pings
+10/02 16:23:05 pings complete
+10/02 16:23:05 generating graphs
+10/02 16:23:06 graph generation complete
+10/02 16:24:00 starting pings
+10/02 16:24:06 pings complete
+10/02 16:24:06 generating graphs
+10/02 16:24:08 graph generation complete
+10/02 16:25:00 starting pings
+10/02 16:25:07 pings complete
+10/02 16:25:07 generating graphs
+10/02 16:25:08 graph generation complete
+10/02 16:26:00 starting pings
+10/02 16:26:08 pings complete
+10/02 16:26:08 generating graphs
+10/02 16:26:08 graph generation complete
+10/02 16:27:00 starting pings
+10/02 16:27:08 pings complete
+10/02 16:27:08 generating graphs
+10/02 16:27:09 graph generation complete
+10/02 16:28:00 starting pings
+10/02 16:28:07 pings complete
+10/02 16:28:07 generating graphs
+10/02 16:28:08 graph generation complete
+10/02 16:29:00 starting pings
+10/02 16:29:08 pings complete
+10/02 16:29:08 generating graphs
+10/02 16:29:10 graph generation complete
+10/02 16:30:00 starting pings
+10/02 16:30:07 pings complete
+10/02 16:30:07 generating graphs
+10/02 16:30:08 graph generation complete
+10/02 16:31:01 starting pings
+10/02 16:31:07 pings complete
+10/02 16:31:07 generating graphs
+10/02 16:31:08 graph generation complete
+10/02 16:32:01 starting pings
+10/02 16:32:08 pings complete
+10/02 16:32:08 generating graphs
+10/02 16:32:09 graph generation complete
+10/02 16:33:00 starting pings
+10/02 16:33:07 pings complete
+10/02 16:33:07 generating graphs
+10/02 16:33:08 graph generation complete
+10/02 16:34:00 starting pings
+10/02 16:34:06 pings complete
+10/02 16:34:07 generating graphs
+10/02 16:34:07 graph generation complete
+10/02 16:35:01 starting pings
+10/02 16:35:07 pings complete
+10/02 16:35:07 generating graphs
+10/02 16:35:08 graph generation complete
+10/02 16:36:00 starting pings
+10/02 16:36:06 pings complete
+10/02 16:36:06 generating graphs
+10/02 16:36:06 graph generation complete
+10/02 16:37:00 starting pings
+10/02 16:37:07 pings complete
+10/02 16:37:07 generating graphs
+10/02 16:37:08 graph generation complete
+10/02 16:38:00 starting pings
+10/02 16:38:05 pings complete
+10/02 16:38:05 generating graphs
+10/02 16:38:06 graph generation complete
+10/02 16:39:01 starting pings
+10/02 16:39:07 pings complete
+10/02 16:39:07 generating graphs
+10/02 16:39:09 graph generation complete
+10/02 16:40:00 starting pings
+10/02 16:40:05 pings complete
+10/02 16:40:05 generating graphs
+10/02 16:40:06 graph generation complete
+10/02 16:41:00 starting pings
+10/02 16:41:05 pings complete
+10/02 16:41:05 generating graphs
+10/02 16:41:06 graph generation complete
+10/02 16:42:00 starting pings
+10/02 16:42:08 pings complete
+10/02 16:42:08 generating graphs
+10/02 16:42:09 graph generation complete
+10/02 16:43:00 starting pings
+10/02 16:43:08 pings complete
+10/02 16:43:08 generating graphs
+10/02 16:43:09 graph generation complete
+10/02 16:44:00 starting pings
+10/02 16:44:07 pings complete
+10/02 16:44:07 generating graphs
+10/02 16:44:10 graph generation complete
+10/02 16:45:00 starting pings
+10/02 16:45:06 pings complete
+10/02 16:45:06 generating graphs
+10/02 16:45:07 graph generation complete
+10/02 16:46:00 starting pings
+10/02 16:46:07 pings complete
+10/02 16:46:07 generating graphs
+10/02 16:46:08 graph generation complete
+10/02 16:47:00 starting pings
+10/02 16:47:07 pings complete
+10/02 16:47:07 generating graphs
+10/02 16:47:08 graph generation complete
+10/02 16:48:00 starting pings
+10/02 16:48:06 pings complete
+10/02 16:48:06 generating graphs
+10/02 16:48:08 graph generation complete
+10/02 16:49:00 starting pings
+10/02 16:49:06 pings complete
+10/02 16:49:06 generating graphs
+10/02 16:49:07 graph generation complete
+10/02 16:50:00 starting pings
+10/02 16:50:07 pings complete
+10/02 16:50:07 generating graphs
+10/02 16:50:08 graph generation complete
+10/02 16:51:00 starting pings
+10/02 16:51:07 pings complete
+10/02 16:51:07 generating graphs
+10/02 16:51:08 graph generation complete
+10/02 16:52:00 starting pings
+10/02 16:52:06 pings complete
+10/02 16:52:06 generating graphs
+10/02 16:52:08 graph generation complete
+10/02 16:53:00 starting pings
+10/02 16:53:06 pings complete
+10/02 16:53:06 generating graphs
+10/02 16:53:07 graph generation complete
+10/02 16:54:00 starting pings
+10/02 16:54:07 pings complete
+10/02 16:54:07 generating graphs
+10/02 16:54:08 graph generation complete
+10/02 16:55:00 starting pings
+10/02 16:55:06 pings complete
+10/02 16:55:06 generating graphs
+10/02 16:55:08 graph generation complete
+10/02 16:56:00 starting pings
+10/02 16:56:07 pings complete
+10/02 16:56:07 generating graphs
+10/02 16:56:08 graph generation complete
+10/02 16:57:00 starting pings
+10/02 16:57:05 pings complete
+10/02 16:57:05 generating graphs
+10/02 16:57:07 graph generation complete
+10/02 16:58:00 starting pings
+10/02 16:58:05 pings complete
+10/02 16:58:05 generating graphs
+10/02 16:58:06 graph generation complete
+10/02 16:59:00 starting pings
+10/02 16:59:05 pings complete
+10/02 16:59:06 generating graphs
+10/02 16:59:06 graph generation complete
+10/02 17:00:03 starting pings
+10/02 17:00:11 pings complete
+10/02 17:00:11 generating graphs
+10/02 17:00:12 graph generation complete
+10/02 17:01:01 starting pings
+10/02 17:01:07 pings complete
+10/02 17:01:07 generating graphs
+10/02 17:01:08 graph generation complete
+10/02 17:02:00 starting pings
+10/02 17:02:09 pings complete
+10/02 17:02:10 generating graphs
+10/02 17:02:10 graph generation complete
+10/02 17:03:00 starting pings
+10/02 17:03:06 pings complete
+10/02 17:03:07 generating graphs
+10/02 17:03:08 graph generation complete
+10/02 17:04:00 starting pings
+10/02 17:04:07 pings complete
+10/02 17:04:07 generating graphs
+10/02 17:04:08 graph generation complete
+10/02 17:05:00 starting pings
+10/02 17:05:07 pings complete
+10/02 17:05:07 generating graphs
+10/02 17:05:08 graph generation complete
+10/02 17:06:00 starting pings
+10/02 17:06:06 pings complete
+10/02 17:06:06 generating graphs
+10/02 17:06:08 graph generation complete
+10/02 17:07:00 starting pings
+10/02 17:07:06 pings complete
+10/02 17:07:06 generating graphs
+10/02 17:07:08 graph generation complete
+10/02 17:08:00 starting pings
+10/02 17:08:06 pings complete
+10/02 17:08:06 generating graphs
+10/02 17:08:07 graph generation complete
+10/02 17:09:00 starting pings
+10/02 17:09:07 pings complete
+10/02 17:09:07 generating graphs
+10/02 17:09:08 graph generation complete
+10/02 17:10:00 starting pings
+10/02 17:10:06 pings complete
+10/02 17:10:06 generating graphs
+10/02 17:10:07 graph generation complete
+10/02 17:11:00 starting pings
+10/02 17:11:06 pings complete
+10/02 17:11:06 generating graphs
+10/02 17:11:07 graph generation complete
+10/02 17:12:00 starting pings
+10/02 17:12:06 pings complete
+10/02 17:12:06 generating graphs
+10/02 17:12:07 graph generation complete
+10/02 17:13:00 starting pings
+10/02 17:13:05 pings complete
+10/02 17:13:05 generating graphs
+10/02 17:13:07 graph generation complete
+10/02 17:14:05 starting pings
+10/02 17:14:12 pings complete
+10/02 17:14:12 generating graphs
+10/02 17:14:13 graph generation complete
+10/02 17:15:02 starting pings
+10/02 17:15:10 pings complete
+10/02 17:15:10 generating graphs
+10/02 17:15:11 graph generation complete
+10/02 17:16:00 starting pings
+10/02 17:16:06 pings complete
+10/02 17:16:06 generating graphs
+10/02 17:16:07 graph generation complete
+10/02 17:17:00 starting pings
+10/02 17:17:05 pings complete
+10/02 17:17:06 generating graphs
+10/02 17:17:07 graph generation complete
+10/02 17:18:00 starting pings
+10/02 17:18:06 pings complete
+10/02 17:18:06 generating graphs
+10/02 17:18:07 graph generation complete
+10/02 17:19:00 starting pings
+10/02 17:19:07 pings complete
+10/02 17:19:07 generating graphs
+10/02 17:19:08 graph generation complete
+10/02 17:20:00 starting pings
+10/02 17:20:05 pings complete
+10/02 17:20:05 generating graphs
+10/02 17:20:06 graph generation complete
+10/02 17:21:00 starting pings
+10/02 17:21:05 pings complete
+10/02 17:21:05 generating graphs
+10/02 17:21:06 graph generation complete
+10/02 17:22:00 starting pings
+10/02 17:22:06 pings complete
+10/02 17:22:06 generating graphs
+10/02 17:22:06 graph generation complete
+10/02 17:23:00 starting pings
+10/02 17:23:06 pings complete
+10/02 17:23:06 generating graphs
+10/02 17:23:07 graph generation complete
+10/02 17:24:00 starting pings
+10/02 17:24:05 pings complete
+10/02 17:24:05 generating graphs
+10/02 17:24:07 graph generation complete
+10/02 17:25:00 starting pings
+10/02 17:25:06 pings complete
+10/02 17:25:06 generating graphs
+10/02 17:25:07 graph generation complete
+10/02 17:26:00 starting pings
+10/02 17:26:07 pings complete
+10/02 17:26:07 generating graphs
+10/02 17:26:08 graph generation complete
+10/02 17:27:01 starting pings
+10/02 17:27:07 pings complete
+10/02 17:27:07 generating graphs
+10/02 17:27:08 graph generation complete
+10/02 17:28:00 starting pings
+10/02 17:28:05 pings complete
+10/02 17:28:05 generating graphs
+10/02 17:28:06 graph generation complete
+10/02 17:29:00 starting pings
+10/02 17:29:06 pings complete
+10/02 17:29:06 generating graphs
+10/02 17:29:07 graph generation complete
+10/02 17:30:00 starting pings
+10/02 17:30:05 pings complete
+10/02 17:30:05 generating graphs
+10/02 17:30:06 graph generation complete
+10/02 17:31:00 starting pings
+10/02 17:31:06 pings complete
+10/02 17:31:06 generating graphs
+10/02 17:31:08 graph generation complete
+10/02 17:32:00 starting pings
+10/02 17:32:06 pings complete
+10/02 17:32:06 generating graphs
+10/02 17:32:07 graph generation complete
+10/02 17:33:00 starting pings
+10/02 17:33:06 pings complete
+10/02 17:33:06 generating graphs
+10/02 17:33:07 graph generation complete
+10/02 17:34:00 starting pings
+10/02 17:34:07 pings complete
+10/02 17:34:07 generating graphs
+10/02 17:34:08 graph generation complete
+10/02 17:35:00 starting pings
+10/02 17:35:05 pings complete
+10/02 17:35:05 generating graphs
+10/02 17:35:06 graph generation complete
+10/02 17:36:00 starting pings
+10/02 17:36:05 pings complete
+10/02 17:36:05 generating graphs
+10/02 17:36:06 graph generation complete
+10/02 17:37:00 starting pings
+10/02 17:37:05 pings complete
+10/02 17:37:05 generating graphs
+10/02 17:37:06 graph generation complete
+10/02 17:38:00 starting pings
+10/02 17:38:07 pings complete
+10/02 17:38:07 generating graphs
+10/02 17:38:08 graph generation complete
+10/02 17:39:00 starting pings
+10/02 17:39:06 pings complete
+10/02 17:39:06 generating graphs
+10/02 17:39:08 graph generation complete
+10/02 17:40:00 starting pings
+10/02 17:40:06 pings complete
+10/02 17:40:06 generating graphs
+10/02 17:40:07 graph generation complete
+10/02 17:41:00 starting pings
+10/02 17:41:06 pings complete
+10/02 17:41:06 generating graphs
+10/02 17:41:07 graph generation complete
+10/02 17:42:00 starting pings
+10/02 17:42:05 pings complete
+10/02 17:42:05 generating graphs
+10/02 17:42:06 graph generation complete
+10/02 17:43:01 starting pings
+10/02 17:43:07 pings complete
+10/02 17:43:07 generating graphs
+10/02 17:43:08 graph generation complete
+10/02 17:44:00 starting pings
+10/02 17:44:05 pings complete
+10/02 17:44:05 generating graphs
+10/02 17:44:06 graph generation complete
+10/02 17:45:00 starting pings
+10/02 17:45:04 pings complete
+10/02 17:45:04 generating graphs
+10/02 17:45:05 graph generation complete
+10/02 17:46:00 starting pings
+10/02 17:46:06 pings complete
+10/02 17:46:06 generating graphs
+10/02 17:46:07 graph generation complete
+10/02 17:47:00 starting pings
+10/02 17:47:05 pings complete
+10/02 17:47:05 generating graphs
+10/02 17:47:06 graph generation complete
+10/02 17:48:00 starting pings
+10/02 17:48:06 pings complete
+10/02 17:48:06 generating graphs
+10/02 17:48:07 graph generation complete
+10/02 17:49:00 starting pings
+10/02 17:49:05 pings complete
+10/02 17:49:05 generating graphs
+10/02 17:49:06 graph generation complete
+10/02 17:50:00 starting pings
+10/02 17:50:06 pings complete
+10/02 17:50:06 generating graphs
+10/02 17:50:07 graph generation complete
+10/02 17:51:00 starting pings
+10/02 17:51:07 pings complete
+10/02 17:51:07 generating graphs
+10/02 17:51:08 graph generation complete
+10/02 17:52:00 starting pings
+10/02 17:52:05 pings complete
+10/02 17:52:05 generating graphs
+10/02 17:52:06 graph generation complete
+10/02 17:53:00 starting pings
+10/02 17:53:06 pings complete
+10/02 17:53:06 generating graphs
+10/02 17:53:07 graph generation complete
+10/02 17:54:00 starting pings
+10/02 17:54:06 pings complete
+10/02 17:54:06 generating graphs
+10/02 17:54:07 graph generation complete
+10/02 17:55:00 starting pings
+10/02 17:55:07 pings complete
+10/02 17:55:07 generating graphs
+10/02 17:55:08 graph generation complete
+10/02 17:56:00 starting pings
+10/02 17:56:05 pings complete
+10/02 17:56:05 generating graphs
+10/02 17:56:06 graph generation complete
+10/02 17:57:00 starting pings
+10/02 17:57:07 pings complete
+10/02 17:57:07 generating graphs
+10/02 17:57:08 graph generation complete
+10/02 17:58:00 starting pings
+10/02 17:58:06 pings complete
+10/02 17:58:06 generating graphs
+10/02 17:58:07 graph generation complete
+10/02 17:59:00 starting pings
+10/02 17:59:07 pings complete
+10/02 17:59:07 generating graphs
+10/02 17:59:08 graph generation complete
+10/02 18:00:00 starting pings
+10/02 18:00:05 pings complete
+10/02 18:00:05 generating graphs
+10/02 18:00:06 graph generation complete
+10/02 18:01:00 starting pings
+10/02 18:01:06 pings complete
+10/02 18:01:06 generating graphs
+10/02 18:01:07 graph generation complete
+10/02 18:02:00 starting pings
+10/02 18:02:05 pings complete
+10/02 18:02:05 generating graphs
+10/02 18:02:06 graph generation complete
+10/02 18:03:00 starting pings
+10/02 18:03:07 pings complete
+10/02 18:03:07 generating graphs
+10/02 18:03:08 graph generation complete
+10/02 18:04:00 starting pings
+10/02 18:04:07 pings complete
+10/02 18:04:07 generating graphs
+10/02 18:04:07 graph generation complete
+10/02 18:05:00 starting pings
+10/02 18:05:06 pings complete
+10/02 18:05:06 generating graphs
+10/02 18:05:08 graph generation complete
+10/02 18:06:00 starting pings
+10/02 18:06:05 pings complete
+10/02 18:06:05 generating graphs
+10/02 18:06:06 graph generation complete
+10/02 18:07:00 starting pings
+10/02 18:07:06 pings complete
+10/02 18:07:06 generating graphs
+10/02 18:07:07 graph generation complete
+10/02 18:08:00 starting pings
+10/02 18:08:06 pings complete
+10/02 18:08:06 generating graphs
+10/02 18:08:07 graph generation complete
+10/02 18:09:00 starting pings
+10/02 18:09:05 pings complete
+10/02 18:09:05 generating graphs
+10/02 18:09:07 graph generation complete
+10/02 18:10:00 starting pings
+10/02 18:10:06 pings complete
+10/02 18:10:06 generating graphs
+10/02 18:10:07 graph generation complete
+10/02 18:11:00 starting pings
+10/02 18:11:06 pings complete
+10/02 18:11:06 generating graphs
+10/02 18:11:08 graph generation complete
+10/02 18:12:00 starting pings
+10/02 18:12:08 pings complete
+10/02 18:12:08 generating graphs
+10/02 18:12:10 graph generation complete
+10/02 18:13:00 starting pings
+10/02 18:13:07 pings complete
+10/02 18:13:07 generating graphs
+10/02 18:13:08 graph generation complete
+10/02 18:14:00 starting pings
+10/02 18:14:06 pings complete
+10/02 18:14:06 generating graphs
+10/02 18:14:07 graph generation complete
+10/02 18:15:00 starting pings
+10/02 18:15:06 pings complete
+10/02 18:15:06 generating graphs
+10/02 18:15:07 graph generation complete
+10/02 18:16:00 starting pings
+10/02 18:16:06 pings complete
+10/02 18:16:06 generating graphs
+10/02 18:16:07 graph generation complete
+10/02 18:17:00 starting pings
+10/02 18:17:05 pings complete
+10/02 18:17:05 generating graphs
+10/02 18:17:06 graph generation complete
+10/02 18:18:00 starting pings
+10/02 18:18:06 pings complete
+10/02 18:18:06 generating graphs
+10/02 18:18:07 graph generation complete
+10/02 18:19:00 starting pings
+10/02 18:19:06 pings complete
+10/02 18:19:06 generating graphs
+10/02 18:19:07 graph generation complete
+10/02 18:20:00 starting pings
+10/02 18:20:06 pings complete
+10/02 18:20:06 generating graphs
+10/02 18:20:07 graph generation complete
+10/02 18:21:00 starting pings
+10/02 18:21:06 pings complete
+10/02 18:21:06 generating graphs
+10/02 18:21:07 graph generation complete
+10/02 18:22:00 starting pings
+10/02 18:22:07 pings complete
+10/02 18:22:07 generating graphs
+10/02 18:22:08 graph generation complete
+10/02 18:23:00 starting pings
+10/02 18:23:05 pings complete
+10/02 18:23:05 generating graphs
+10/02 18:23:06 graph generation complete
+10/02 18:24:00 starting pings
+10/02 18:24:07 pings complete
+10/02 18:24:07 generating graphs
+10/02 18:24:08 graph generation complete
+10/02 18:25:00 starting pings
+10/02 18:25:07 pings complete
+10/02 18:25:07 generating graphs
+10/02 18:25:08 graph generation complete
+10/02 18:26:01 starting pings
+10/02 18:26:06 pings complete
+10/02 18:26:06 generating graphs
+10/02 18:26:07 graph generation complete
+10/02 18:27:01 starting pings
+10/02 18:27:09 pings complete
+10/02 18:27:09 generating graphs
+10/02 18:27:09 graph generation complete
+10/02 18:28:00 starting pings
+10/02 18:28:06 pings complete
+10/02 18:28:06 generating graphs
+10/02 18:28:07 graph generation complete
+10/02 18:29:00 starting pings
+10/02 18:29:06 pings complete
+10/02 18:29:06 generating graphs
+10/02 18:29:07 graph generation complete
+10/02 18:30:00 starting pings
+10/02 18:30:07 pings complete
+10/02 18:30:07 generating graphs
+10/02 18:30:08 graph generation complete
+10/02 18:31:00 starting pings
+10/02 18:31:05 pings complete
+10/02 18:31:05 generating graphs
+10/02 18:31:06 graph generation complete
+10/02 18:32:00 starting pings
+10/02 18:32:05 pings complete
+10/02 18:32:05 generating graphs
+10/02 18:32:06 graph generation complete
+10/02 18:33:00 starting pings
+10/02 18:33:05 pings complete
+10/02 18:33:05 generating graphs
+10/02 18:33:06 graph generation complete
+10/02 18:34:00 starting pings
+10/02 18:34:06 pings complete
+10/02 18:34:06 generating graphs
+10/02 18:34:06 graph generation complete
+10/02 18:35:01 starting pings
+10/02 18:35:07 pings complete
+10/02 18:35:07 generating graphs
+10/02 18:35:08 graph generation complete
+10/02 18:36:00 starting pings
+10/02 18:36:06 pings complete
+10/02 18:36:06 generating graphs
+10/02 18:36:07 graph generation complete
+10/02 18:37:00 starting pings
+10/02 18:37:05 pings complete
+10/02 18:37:05 generating graphs
+10/02 18:37:06 graph generation complete
+10/02 18:38:01 starting pings
+10/02 18:38:08 pings complete
+10/02 18:38:08 generating graphs
+10/02 18:38:12 graph generation complete
+10/02 18:39:00 starting pings
+10/02 18:39:07 pings complete
+10/02 18:39:07 generating graphs
+10/02 18:39:08 graph generation complete
+10/02 18:40:00 starting pings
+10/02 18:40:06 pings complete
+10/02 18:40:06 generating graphs
+10/02 18:40:08 graph generation complete
+10/02 18:41:00 starting pings
+10/02 18:41:06 pings complete
+10/02 18:41:06 generating graphs
+10/02 18:41:07 graph generation complete
+10/02 18:42:00 starting pings
+10/02 18:42:07 pings complete
+10/02 18:42:07 generating graphs
+10/02 18:42:08 graph generation complete
+10/02 18:43:00 starting pings
+10/02 18:43:06 pings complete
+10/02 18:43:06 generating graphs
+10/02 18:43:07 graph generation complete
+10/02 18:44:01 starting pings
+10/02 18:44:06 pings complete
+10/02 18:44:06 generating graphs
+10/02 18:44:07 graph generation complete
+10/02 18:45:00 starting pings
+10/02 18:45:05 pings complete
+10/02 18:45:05 generating graphs
+10/02 18:45:06 graph generation complete
+10/02 18:46:00 starting pings
+10/02 18:46:07 pings complete
+10/02 18:46:07 generating graphs
+10/02 18:46:08 graph generation complete
+10/02 18:47:00 starting pings
+10/02 18:47:05 pings complete
+10/02 18:47:05 generating graphs
+10/02 18:47:06 graph generation complete
+10/02 18:48:00 starting pings
+10/02 18:48:07 pings complete
+10/02 18:48:07 generating graphs
+10/02 18:48:08 graph generation complete
+10/02 18:49:00 starting pings
+10/02 18:49:06 pings complete
+10/02 18:49:06 generating graphs
+10/02 18:49:07 graph generation complete
+10/02 18:50:00 starting pings
+10/02 18:50:07 pings complete
+10/02 18:50:07 generating graphs
+10/02 18:50:08 graph generation complete
+10/02 18:51:00 starting pings
+10/02 18:51:05 pings complete
+10/02 18:51:05 generating graphs
+10/02 18:51:06 graph generation complete
+10/02 18:52:00 starting pings
+10/02 18:52:07 pings complete
+10/02 18:52:07 generating graphs
+10/02 18:52:08 graph generation complete
+10/02 18:53:00 starting pings
+10/02 18:53:07 pings complete
+10/02 18:53:07 generating graphs
+10/02 18:53:08 graph generation complete
+10/02 18:54:00 starting pings
+10/02 18:54:06 pings complete
+10/02 18:54:06 generating graphs
+10/02 18:54:07 graph generation complete
+10/02 18:55:01 starting pings
+10/02 18:55:07 pings complete
+10/02 18:55:07 generating graphs
+10/02 18:55:08 graph generation complete
+10/02 18:56:00 starting pings
+10/02 18:56:05 pings complete
+10/02 18:56:05 generating graphs
+10/02 18:56:06 graph generation complete
+10/02 18:57:00 starting pings
+10/02 18:57:07 pings complete
+10/02 18:57:07 generating graphs
+10/02 18:57:08 graph generation complete
+10/02 18:58:00 starting pings
+10/02 18:58:07 pings complete
+10/02 18:58:07 generating graphs
+10/02 18:58:08 graph generation complete
+10/02 18:59:00 starting pings
+10/02 18:59:06 pings complete
+10/02 18:59:06 generating graphs
+10/02 18:59:07 graph generation complete
+10/02 19:00:00 starting pings
+10/02 19:00:05 pings complete
+10/02 19:00:05 generating graphs
+10/02 19:00:06 graph generation complete
+10/02 19:01:00 starting pings
+10/02 19:01:06 pings complete
+10/02 19:01:06 generating graphs
+10/02 19:01:07 graph generation complete
+10/02 19:02:00 starting pings
+10/02 19:02:07 pings complete
+10/02 19:02:07 generating graphs
+10/02 19:02:08 graph generation complete
+10/02 19:03:00 starting pings
+10/02 19:03:06 pings complete
+10/02 19:03:06 generating graphs
+10/02 19:03:07 graph generation complete
+10/02 19:04:00 starting pings
+10/02 19:04:06 pings complete
+10/02 19:04:06 generating graphs
+10/02 19:04:07 graph generation complete
+10/02 19:05:01 starting pings
+10/02 19:05:11 pings complete
+10/02 19:05:11 generating graphs
+10/02 19:05:12 graph generation complete
+10/02 19:06:00 starting pings
+10/02 19:06:08 pings complete
+10/02 19:06:08 generating graphs
+10/02 19:06:09 graph generation complete
+10/02 19:07:00 starting pings
+10/02 19:07:08 pings complete
+10/02 19:07:08 generating graphs
+10/02 19:07:09 graph generation complete
+10/02 19:08:00 starting pings
+10/02 19:08:06 pings complete
+10/02 19:08:06 generating graphs
+10/02 19:08:06 graph generation complete
+10/02 19:09:00 starting pings
+10/02 19:09:06 pings complete
+10/02 19:09:06 generating graphs
+10/02 19:09:07 graph generation complete
+10/02 19:10:00 starting pings
+10/02 19:10:08 pings complete
+10/02 19:10:08 generating graphs
+10/02 19:10:09 graph generation complete
+10/02 19:11:00 starting pings
+10/02 19:11:06 pings complete
+10/02 19:11:06 generating graphs
+10/02 19:11:08 graph generation complete
+10/02 19:12:01 starting pings
+10/02 19:12:09 pings complete
+10/02 19:12:09 generating graphs
+10/02 19:12:10 graph generation complete
+10/02 19:13:00 starting pings
+10/02 19:13:07 pings complete
+10/02 19:13:07 generating graphs
+10/02 19:13:08 graph generation complete
+10/02 19:14:00 starting pings
+10/02 19:14:06 pings complete
+10/02 19:14:06 generating graphs
+10/02 19:14:07 graph generation complete
+10/02 19:15:02 starting pings
+10/02 19:15:08 pings complete
+10/02 19:15:08 generating graphs
+10/02 19:15:08 graph generation complete
+10/02 19:16:01 starting pings
+10/02 19:16:06 pings complete
+10/02 19:16:06 generating graphs
+10/02 19:16:07 graph generation complete
+10/02 19:17:00 starting pings
+10/02 19:17:07 pings complete
+10/02 19:17:07 generating graphs
+10/02 19:17:08 graph generation complete
+10/02 19:18:00 starting pings
+10/02 19:18:06 pings complete
+10/02 19:18:06 generating graphs
+10/02 19:18:08 graph generation complete
+10/02 19:19:01 starting pings
+10/02 19:19:09 pings complete
+10/02 19:19:09 generating graphs
+10/02 19:19:11 graph generation complete
+10/02 19:20:00 starting pings
+10/02 19:20:07 pings complete
+10/02 19:20:07 generating graphs
+10/02 19:20:09 graph generation complete
+10/03 06:35:01 starting pings
+10/03 06:35:12 pings complete
+10/03 06:35:12 generating graphs
+10/03 06:35:13 graph generation complete
+10/03 06:36:00 starting pings
+10/03 06:36:05 pings complete
+10/03 06:36:05 generating graphs
+10/03 06:36:06 graph generation complete
+10/03 06:37:00 starting pings
+10/03 06:37:06 pings complete
+10/03 06:37:06 generating graphs
+10/03 06:37:11 graph generation complete
+10/03 06:38:00 starting pings
+10/03 06:38:08 pings complete
+10/03 06:38:09 generating graphs
+10/03 06:38:10 graph generation complete
+10/03 06:39:00 starting pings
+10/03 06:39:05 pings complete
+10/03 06:39:05 generating graphs
+10/03 06:39:06 graph generation complete
+10/03 06:40:00 starting pings
+10/03 06:40:05 pings complete
+10/03 06:40:05 generating graphs
+10/03 06:40:06 graph generation complete
+10/03 06:41:00 starting pings
+10/03 06:41:05 pings complete
+10/03 06:41:05 generating graphs
+10/03 06:41:07 graph generation complete
+10/03 06:42:00 starting pings
+10/03 06:42:07 pings complete
+10/03 06:42:07 generating graphs
+10/03 06:42:08 graph generation complete
+10/03 06:43:00 starting pings
+10/03 06:43:06 pings complete
+10/03 06:43:06 generating graphs
+10/03 06:43:07 graph generation complete
+10/03 06:44:00 starting pings
+10/03 06:44:07 pings complete
+10/03 06:44:07 generating graphs
+10/03 06:44:08 graph generation complete
+10/03 06:45:00 starting pings
+10/03 06:45:06 pings complete
+10/03 06:45:07 generating graphs
+10/03 06:45:08 graph generation complete
+10/03 06:46:00 starting pings
+10/03 06:46:07 pings complete
+10/03 06:46:07 generating graphs
+10/03 06:46:08 graph generation complete
+10/03 06:47:00 starting pings
+10/03 06:47:06 rrd update for yahoo.com failed retval 1
+10/03 06:47:08 mass ping failed retval 1
+10/03 06:48:00 starting pings
+10/03 06:48:05 pings complete
+10/03 06:48:05 generating graphs
+10/03 06:48:06 graph generation complete
+10/03 06:49:00 starting pings
+10/03 06:49:06 pings complete
+10/03 06:49:06 generating graphs
+10/03 06:49:06 graph generation complete
+10/03 06:50:01 starting pings
+10/03 06:50:06 pings complete
+10/03 06:50:06 generating graphs
+10/03 06:50:07 graph generation complete
+10/03 06:51:00 starting pings
+10/03 06:51:06 pings complete
+10/03 06:51:06 generating graphs
+10/03 06:51:07 graph generation complete
+10/03 06:52:01 starting pings
+10/03 06:52:06 pings complete
+10/03 06:52:06 generating graphs
+10/03 06:52:07 graph generation complete
+10/03 06:53:00 starting pings
+10/03 06:53:06 pings complete
+10/03 06:53:06 generating graphs
+10/03 06:53:08 graph generation complete
+10/03 06:54:00 starting pings
+10/03 06:54:06 pings complete
+10/03 06:54:06 generating graphs
+10/03 06:54:08 graph generation complete
+10/03 06:55:00 starting pings
+10/03 06:55:05 pings complete
+10/03 06:55:05 generating graphs
+10/03 06:55:07 graph generation complete
+10/03 06:56:00 starting pings
+10/03 06:56:05 pings complete
+10/03 06:56:05 generating graphs
+10/03 06:56:07 graph generation complete
+10/03 06:57:00 starting pings
+10/03 06:57:05 pings complete
+10/03 06:57:05 generating graphs
+10/03 06:57:06 graph generation complete
+10/03 06:58:00 starting pings
+10/03 06:58:07 pings complete
+10/03 06:58:07 generating graphs
+10/03 06:58:09 graph generation complete
+10/03 06:59:00 starting pings
+10/03 06:59:08 pings complete
+10/03 06:59:08 generating graphs
+10/03 06:59:09 graph generation complete
+10/03 07:00:00 starting pings
+10/03 07:00:07 pings complete
+10/03 07:00:07 generating graphs
+10/03 07:00:08 graph generation complete
+10/03 07:01:00 starting pings
+10/03 07:01:06 pings complete
+10/03 07:01:07 generating graphs
+10/03 07:01:08 graph generation complete
+10/03 07:02:00 starting pings
+10/03 07:02:06 pings complete
+10/03 07:02:06 generating graphs
+10/03 07:02:07 graph generation complete
+10/03 07:03:00 starting pings
+10/03 07:03:07 pings complete
+10/03 07:03:07 generating graphs
+10/03 07:03:08 graph generation complete
+10/03 07:04:01 starting pings
+10/03 07:04:07 pings complete
+10/03 07:04:07 generating graphs
+10/03 07:04:08 graph generation complete
+10/03 07:05:00 starting pings
+10/03 07:05:07 pings complete
+10/03 07:05:07 generating graphs
+10/03 07:05:08 graph generation complete
+10/03 07:06:00 starting pings
+10/03 07:06:05 pings complete
+10/03 07:06:05 generating graphs
+10/03 07:06:07 graph generation complete
+10/03 07:07:00 starting pings
+10/03 07:07:06 pings complete
+10/03 07:07:06 generating graphs
+10/03 07:07:08 graph generation complete
+10/03 07:08:00 starting pings
+10/03 07:08:06 pings complete
+10/03 07:08:06 generating graphs
+10/03 07:08:07 graph generation complete
+10/03 07:09:00 starting pings
+10/03 07:09:05 pings complete
+10/03 07:09:06 generating graphs
+10/03 07:09:06 graph generation complete
+10/03 07:10:01 starting pings
+10/03 07:10:05 pings complete
+10/03 07:10:05 generating graphs
+10/03 07:10:07 graph generation complete
+10/03 07:11:00 starting pings
+10/03 07:11:05 pings complete
+10/03 07:11:05 generating graphs
+10/03 07:11:07 graph generation complete
+10/03 07:12:00 starting pings
+10/03 07:12:06 pings complete
+10/03 07:12:06 generating graphs
+10/03 07:12:07 graph generation complete
+10/03 07:13:00 starting pings
+10/03 07:13:05 pings complete
+10/03 07:13:05 generating graphs
+10/03 07:13:06 graph generation complete
+10/03 07:14:01 starting pings
+10/03 07:14:07 pings complete
+10/03 07:14:07 generating graphs
+10/03 07:14:08 graph generation complete
+10/03 07:15:00 starting pings
+10/03 07:15:05 pings complete
+10/03 07:15:05 generating graphs
+10/03 07:15:07 graph generation complete
+10/03 07:16:00 starting pings
+10/03 07:16:05 pings complete
+10/03 07:16:05 generating graphs
+10/03 07:16:06 graph generation complete
+10/03 07:17:00 starting pings
+10/03 07:17:07 pings complete
+10/03 07:17:07 generating graphs
+10/03 07:17:08 graph generation complete
+10/03 07:18:00 starting pings
+10/03 07:18:06 pings complete
+10/03 07:18:06 generating graphs
+10/03 07:18:07 graph generation complete
+10/03 07:19:01 starting pings
+10/03 07:19:07 pings complete
+10/03 07:19:07 generating graphs
+10/03 07:19:08 graph generation complete
+10/03 07:20:00 starting pings
+10/03 07:20:06 pings complete
+10/03 07:20:07 generating graphs
+10/03 07:20:08 graph generation complete
+10/03 07:21:00 starting pings
+10/03 07:21:06 pings complete
+10/03 07:21:06 generating graphs
+10/03 07:21:07 graph generation complete
+10/03 07:22:00 starting pings
+10/03 07:22:05 pings complete
+10/03 07:22:05 generating graphs
+10/03 07:22:06 graph generation complete
+10/03 07:23:00 starting pings
+10/03 07:23:07 pings complete
+10/03 07:23:07 generating graphs
+10/03 07:23:08 graph generation complete
+10/03 07:24:00 starting pings
+10/03 07:24:06 pings complete
+10/03 07:24:06 generating graphs
+10/03 07:24:07 graph generation complete
+10/03 07:25:01 starting pings
+10/03 07:25:06 pings complete
+10/03 07:25:06 generating graphs
+10/03 07:25:07 graph generation complete
+10/03 07:26:00 starting pings
+10/03 07:26:06 pings complete
+10/03 07:26:06 generating graphs
+10/03 07:26:07 graph generation complete
+10/03 07:27:00 starting pings
+10/03 07:27:07 pings complete
+10/03 07:27:07 generating graphs
+10/03 07:27:08 graph generation complete
+10/03 07:28:00 starting pings
+10/03 07:28:07 pings complete
+10/03 07:28:07 generating graphs
+10/03 07:28:08 graph generation complete
+10/03 07:29:00 starting pings
+10/03 07:29:05 pings complete
+10/03 07:29:05 generating graphs
+10/03 07:29:06 graph generation complete
+10/03 07:30:00 starting pings
+10/03 07:30:07 pings complete
+10/03 07:30:07 generating graphs
+10/03 07:30:08 graph generation complete
+10/03 07:31:00 starting pings
+10/03 07:31:06 pings complete
+10/03 07:31:07 generating graphs
+10/03 07:31:08 graph generation complete
+10/03 07:32:00 starting pings
+10/03 07:32:05 pings complete
+10/03 07:32:05 generating graphs
+10/03 07:32:06 graph generation complete
+10/03 07:33:00 starting pings
+10/03 07:33:07 pings complete
+10/03 07:33:07 generating graphs
+10/03 07:33:08 graph generation complete
+10/03 07:34:00 starting pings
+10/03 07:34:05 pings complete
+10/03 07:34:05 generating graphs
+10/03 07:34:06 graph generation complete
+10/03 07:35:00 starting pings
+10/03 07:35:07 pings complete
+10/03 07:35:07 generating graphs
+10/03 07:35:09 graph generation complete
+10/03 07:36:00 starting pings
+10/03 07:36:06 pings complete
+10/03 07:36:06 generating graphs
+10/03 07:36:07 graph generation complete
+10/03 07:37:00 starting pings
+10/03 07:37:07 pings complete
+10/03 07:37:07 generating graphs
+10/03 07:37:09 graph generation complete
+10/03 07:38:00 starting pings
+10/03 07:38:06 pings complete
+10/03 07:38:06 generating graphs
+10/03 07:38:07 graph generation complete
+10/03 07:39:00 starting pings
+10/03 07:39:05 pings complete
+10/03 07:39:06 generating graphs
+10/03 07:39:07 graph generation complete
+10/03 07:40:00 starting pings
+10/03 07:40:07 pings complete
+10/03 07:40:07 generating graphs
+10/03 07:40:08 graph generation complete
+10/03 07:41:00 starting pings
+10/03 07:41:06 pings complete
+10/03 07:41:06 generating graphs
+10/03 07:41:07 graph generation complete
+10/03 07:42:00 starting pings
+10/03 07:42:06 pings complete
+10/03 07:42:06 generating graphs
+10/03 07:42:07 graph generation complete
+10/03 07:43:00 starting pings
+10/03 07:43:06 pings complete
+10/03 07:43:06 generating graphs
+10/03 07:43:07 graph generation complete
+10/03 07:44:00 starting pings
+10/03 07:44:06 pings complete
+10/03 07:44:06 generating graphs
+10/03 07:44:07 graph generation complete
+10/03 07:45:00 starting pings
+10/03 07:45:06 pings complete
+10/03 07:45:07 generating graphs
+10/03 07:45:08 graph generation complete
+10/03 07:46:00 starting pings
+10/03 07:46:07 pings complete
+10/03 07:46:07 generating graphs
+10/03 07:46:08 graph generation complete
+10/03 07:47:00 starting pings
+10/03 07:47:07 pings complete
+10/03 07:47:07 generating graphs
+10/03 07:47:09 graph generation complete
+10/03 07:48:00 starting pings
+10/03 07:48:08 pings complete
+10/03 07:48:08 generating graphs
+10/03 07:48:08 graph generation complete
+10/03 07:49:01 starting pings
+10/03 07:49:07 pings complete
+10/03 07:49:07 generating graphs
+10/03 07:49:08 graph generation complete
+10/03 07:50:00 starting pings
+10/03 07:50:06 pings complete
+10/03 07:50:06 generating graphs
+10/03 07:50:07 graph generation complete
+10/03 07:51:00 starting pings
+10/03 07:51:07 pings complete
+10/03 07:51:07 generating graphs
+10/03 07:51:08 graph generation complete
+10/03 07:52:00 starting pings
+10/03 07:52:05 pings complete
+10/03 07:52:05 generating graphs
+10/03 07:52:06 graph generation complete
+10/03 07:53:00 starting pings
+10/03 07:53:05 pings complete
+10/03 07:53:05 generating graphs
+10/03 07:53:06 graph generation complete
+10/03 07:54:00 starting pings
+10/03 07:54:06 pings complete
+10/03 07:54:06 generating graphs
+10/03 07:54:08 graph generation complete
+10/03 07:55:00 starting pings
+10/03 07:55:06 pings complete
+10/03 07:55:06 generating graphs
+10/03 07:55:07 graph generation complete
+10/03 07:56:00 starting pings
+10/03 07:56:05 pings complete
+10/03 07:56:05 generating graphs
+10/03 07:56:06 graph generation complete
+10/03 07:57:00 starting pings
+10/03 07:57:06 pings complete
+10/03 07:57:06 generating graphs
+10/03 07:57:07 graph generation complete
+10/03 07:58:00 starting pings
+10/03 07:58:06 pings complete
+10/03 07:58:06 generating graphs
+10/03 07:58:07 graph generation complete
+10/03 07:59:00 starting pings
+10/03 07:59:07 pings complete
+10/03 07:59:07 generating graphs
+10/03 07:59:08 graph generation complete
+10/03 08:00:00 starting pings
+10/03 08:00:06 pings complete
+10/03 08:00:06 generating graphs
+10/03 08:00:07 graph generation complete
+10/03 08:01:00 starting pings
+10/03 08:01:07 pings complete
+10/03 08:01:07 generating graphs
+10/03 08:01:08 graph generation complete
+10/03 08:02:00 starting pings
+10/03 08:02:08 pings complete
+10/03 08:02:08 generating graphs
+10/03 08:02:09 graph generation complete
+10/03 08:03:00 starting pings
+10/03 08:03:07 pings complete
+10/03 08:03:07 generating graphs
+10/03 08:03:08 graph generation complete
+10/03 08:04:00 starting pings
+10/03 08:04:07 pings complete
+10/03 08:04:08 generating graphs
+10/03 08:04:08 graph generation complete
+10/03 08:05:01 starting pings
+10/03 08:05:07 pings complete
+10/03 08:05:07 generating graphs
+10/03 08:05:08 graph generation complete
+10/03 08:06:00 starting pings
+10/03 08:06:08 pings complete
+10/03 08:06:08 generating graphs
+10/03 08:06:09 graph generation complete
+10/03 08:07:00 starting pings
+10/03 08:07:08 pings complete
+10/03 08:07:08 generating graphs
+10/03 08:07:09 graph generation complete
+10/03 08:08:00 starting pings
+10/03 08:08:07 pings complete
+10/03 08:08:07 generating graphs
+10/03 08:08:08 graph generation complete
+10/03 08:09:00 starting pings
+10/03 08:09:06 pings complete
+10/03 08:09:06 generating graphs
+10/03 08:09:07 graph generation complete
+10/03 08:10:00 starting pings
+10/03 08:10:08 pings complete
+10/03 08:10:08 generating graphs
+10/03 08:10:09 graph generation complete
+10/03 08:11:01 starting pings
+10/03 08:11:08 pings complete
+10/03 08:11:08 generating graphs
+10/03 08:11:09 graph generation complete
+10/03 08:12:00 starting pings
+10/03 08:12:08 pings complete
+10/03 08:12:08 generating graphs
+10/03 08:12:09 graph generation complete
+10/03 08:13:00 starting pings
+10/03 08:13:07 pings complete
+10/03 08:13:07 generating graphs
+10/03 08:13:08 graph generation complete
+10/03 08:14:00 starting pings
+10/03 08:14:08 pings complete
+10/03 08:14:08 generating graphs
+10/03 08:14:09 graph generation complete
+10/03 08:15:00 starting pings
+10/03 08:15:06 pings complete
+10/03 08:15:06 generating graphs
+10/03 08:15:07 graph generation complete
+10/03 08:16:01 starting pings
+10/03 08:16:08 pings complete
+10/03 08:16:08 generating graphs
+10/03 08:16:09 graph generation complete
+10/03 08:17:01 starting pings
+10/03 08:17:08 pings complete
+10/03 08:17:08 generating graphs
+10/03 08:17:09 graph generation complete
+10/03 08:18:01 starting pings
+10/03 08:18:08 pings complete
+10/03 08:18:08 generating graphs
+10/03 08:18:09 graph generation complete
+10/03 08:19:01 starting pings
+10/03 08:19:08 pings complete
+10/03 08:19:08 generating graphs
+10/03 08:19:09 graph generation complete
+10/03 08:20:00 starting pings
+10/03 08:20:07 pings complete
+10/03 08:20:07 generating graphs
+10/03 08:20:09 graph generation complete
+10/03 08:21:00 starting pings
+10/03 08:21:07 pings complete
+10/03 08:21:07 generating graphs
+10/03 08:21:08 graph generation complete
+10/03 08:22:00 starting pings
+10/03 08:22:07 pings complete
+10/03 08:22:07 generating graphs
+10/03 08:22:08 graph generation complete
+10/03 08:23:00 starting pings
+10/03 08:23:07 pings complete
+10/03 08:23:07 generating graphs
+10/03 08:23:07 graph generation complete
+10/03 08:24:01 starting pings
+10/03 08:24:08 pings complete
+10/03 08:24:08 generating graphs
+10/03 08:24:10 graph generation complete
+10/03 08:25:00 starting pings
+10/03 08:25:08 pings complete
+10/03 08:25:08 generating graphs
+10/03 08:25:09 graph generation complete
+10/03 08:26:00 starting pings
+10/03 08:26:06 pings complete
+10/03 08:26:06 generating graphs
+10/03 08:26:07 graph generation complete
+10/03 08:27:00 starting pings
+10/03 08:27:08 pings complete
+10/03 08:27:08 generating graphs
+10/03 08:27:09 graph generation complete
+10/03 08:28:00 starting pings
+10/03 08:28:06 pings complete
+10/03 08:28:06 generating graphs
+10/03 08:28:07 graph generation complete
+10/03 08:29:01 starting pings
+10/03 08:29:07 pings complete
+10/03 08:29:07 generating graphs
+10/03 08:29:08 graph generation complete
+10/03 08:30:00 starting pings
+10/03 08:30:08 pings complete
+10/03 08:30:08 generating graphs
+10/03 08:30:09 graph generation complete
+10/03 08:31:00 starting pings
+10/03 08:31:07 pings complete
+10/03 08:31:07 generating graphs
+10/03 08:31:08 graph generation complete
+10/03 08:32:00 starting pings
+10/03 08:32:08 pings complete
+10/03 08:32:08 generating graphs
+10/03 08:32:08 graph generation complete
+10/03 08:33:01 starting pings
+10/03 08:33:07 pings complete
+10/03 08:33:07 generating graphs
+10/03 08:33:08 graph generation complete
+10/03 08:34:00 starting pings
+10/03 08:34:07 pings complete
+10/03 08:34:07 generating graphs
+10/03 08:34:07 graph generation complete
+10/03 08:35:01 starting pings
+10/03 08:35:08 pings complete
+10/03 08:35:08 generating graphs
+10/03 08:35:09 graph generation complete
+10/03 08:36:00 starting pings
+10/03 08:36:07 pings complete
+10/03 08:36:07 generating graphs
+10/03 08:36:08 graph generation complete
+10/03 08:37:00 starting pings
+10/03 08:37:05 pings complete
+10/03 08:37:05 generating graphs
+10/03 08:37:06 graph generation complete
+10/03 08:38:00 starting pings
+10/03 08:38:06 pings complete
+10/03 08:38:06 generating graphs
+10/03 08:38:07 graph generation complete
+10/03 08:39:01 starting pings
+10/03 08:39:07 pings complete
+10/03 08:39:07 generating graphs
+10/03 08:39:08 graph generation complete
+10/03 08:40:00 starting pings
+10/03 08:40:05 pings complete
+10/03 08:40:05 generating graphs
+10/03 08:40:06 graph generation complete
+10/03 08:41:00 starting pings
+10/03 08:41:07 pings complete
+10/03 08:41:07 generating graphs
+10/03 08:41:08 graph generation complete
+10/03 08:42:00 starting pings
+10/03 08:42:06 pings complete
+10/03 08:42:06 generating graphs
+10/03 08:42:07 graph generation complete
+10/03 08:43:00 starting pings
+10/03 08:43:06 pings complete
+10/03 08:43:07 generating graphs
+10/03 08:43:07 graph generation complete
+10/03 08:44:00 starting pings
+10/03 08:44:07 pings complete
+10/03 08:44:07 generating graphs
+10/03 08:44:08 graph generation complete
+10/03 08:45:00 starting pings
+10/03 08:45:06 pings complete
+10/03 08:45:06 generating graphs
+10/03 08:45:08 graph generation complete
+10/03 08:46:00 starting pings
+10/03 08:46:06 pings complete
+10/03 08:46:06 generating graphs
+10/03 08:46:08 graph generation complete
+10/03 08:47:00 starting pings
+10/03 08:47:06 pings complete
+10/03 08:47:06 generating graphs
+10/03 08:47:07 graph generation complete
+10/03 08:48:00 starting pings
+10/03 08:48:06 pings complete
+10/03 08:48:06 generating graphs
+10/03 08:48:07 graph generation complete
+10/03 08:49:00 starting pings
+10/03 08:49:05 pings complete
+10/03 08:49:05 generating graphs
+10/03 08:49:07 graph generation complete
+10/03 08:50:00 starting pings
+10/03 08:50:05 pings complete
+10/03 08:50:05 generating graphs
+10/03 08:50:06 graph generation complete
+10/03 08:51:00 starting pings
+10/03 08:51:05 pings complete
+10/03 08:51:05 generating graphs
+10/03 08:51:06 graph generation complete
+10/03 08:52:00 starting pings
+10/03 08:52:06 pings complete
+10/03 08:52:07 generating graphs
+10/03 08:52:08 graph generation complete
+10/03 08:53:00 starting pings
+10/03 08:53:06 pings complete
+10/03 08:53:06 generating graphs
+10/03 08:53:07 graph generation complete
+10/03 08:54:00 starting pings
+10/03 08:54:07 pings complete
+10/03 08:54:07 generating graphs
+10/03 08:54:08 graph generation complete
+10/03 08:55:00 starting pings
+10/03 08:55:06 pings complete
+10/03 08:55:06 generating graphs
+10/03 08:55:07 graph generation complete
+10/03 08:56:00 starting pings
+10/03 08:56:09 pings complete
+10/03 08:56:09 generating graphs
+10/03 08:56:10 graph generation complete
+10/03 08:57:00 starting pings
+10/03 08:57:06 pings complete
+10/03 08:57:06 generating graphs
+10/03 08:57:08 graph generation complete
+10/03 08:58:00 starting pings
+10/03 08:58:05 pings complete
+10/03 08:58:05 generating graphs
+10/03 08:58:07 graph generation complete
+10/03 08:59:00 starting pings
+10/03 08:59:08 pings complete
+10/03 08:59:08 generating graphs
+10/03 08:59:08 graph generation complete
+10/03 09:00:01 starting pings
+10/03 09:00:07 pings complete
+10/03 09:00:07 generating graphs
+10/03 09:00:08 graph generation complete
+10/03 09:01:00 starting pings
+10/03 09:01:08 pings complete
+10/03 09:01:08 generating graphs
+10/03 09:01:09 graph generation complete
+10/03 09:02:00 starting pings
+10/03 09:02:06 pings complete
+10/03 09:02:06 generating graphs
+10/03 09:02:08 graph generation complete
+10/03 09:03:00 starting pings
+10/03 09:03:08 pings complete
+10/03 09:03:08 generating graphs
+10/03 09:03:09 graph generation complete
+10/03 09:04:01 starting pings
+10/03 09:04:09 pings complete
+10/03 09:04:09 generating graphs
+10/03 09:04:10 graph generation complete
+10/03 09:05:00 starting pings
+10/03 09:05:08 pings complete
+10/03 09:05:08 generating graphs
+10/03 09:05:09 graph generation complete
+10/03 09:06:01 starting pings
+10/03 09:06:09 pings complete
+10/03 09:06:09 generating graphs
+10/03 09:06:10 graph generation complete
+10/03 09:07:00 starting pings
+10/03 09:07:08 pings complete
+10/03 09:07:08 generating graphs
+10/03 09:07:10 graph generation complete
+10/03 09:08:00 starting pings
+10/03 09:08:08 pings complete
+10/03 09:08:08 generating graphs
+10/03 09:08:09 graph generation complete
+10/03 09:09:00 starting pings
+10/03 09:09:08 pings complete
+10/03 09:09:08 generating graphs
+10/03 09:09:09 graph generation complete
+10/03 09:10:00 starting pings
+10/03 09:10:07 pings complete
+10/03 09:10:07 generating graphs
+10/03 09:10:08 graph generation complete
+10/03 09:11:00 starting pings
+10/03 09:11:07 pings complete
+10/03 09:11:07 generating graphs
+10/03 09:11:08 graph generation complete
+10/03 09:12:00 starting pings
+10/03 09:12:06 pings complete
+10/03 09:12:06 generating graphs
+10/03 09:12:07 graph generation complete
+10/03 09:13:00 starting pings
+10/03 09:13:06 pings complete
+10/03 09:13:06 generating graphs
+10/03 09:13:07 graph generation complete
+10/03 09:14:01 starting pings
+10/03 09:14:07 pings complete
+10/03 09:14:07 generating graphs
+10/03 09:14:08 graph generation complete
+10/03 09:15:00 starting pings
+10/03 09:15:07 pings complete
+10/03 09:15:07 generating graphs
+10/03 09:15:08 graph generation complete
+10/03 09:16:00 starting pings
+10/03 09:16:10 pings complete
+10/03 09:16:10 generating graphs
+10/03 09:16:12 graph generation complete
+10/03 09:17:00 starting pings
+10/03 09:17:06 pings complete
+10/03 09:17:06 generating graphs
+10/03 09:17:07 graph generation complete
+10/03 09:18:01 starting pings
+10/03 09:18:08 pings complete
+10/03 09:18:09 generating graphs
+10/03 09:18:09 graph generation complete
+10/03 09:19:00 starting pings
+10/03 09:19:08 pings complete
+10/03 09:19:08 generating graphs
+10/03 09:19:09 graph generation complete
+10/03 09:20:00 starting pings
+10/03 09:20:08 pings complete
+10/03 09:20:08 generating graphs
+10/03 09:20:09 graph generation complete
+10/03 09:21:00 starting pings
+10/03 09:21:06 pings complete
+10/03 09:21:06 generating graphs
+10/03 09:21:07 graph generation complete
+10/03 09:22:00 starting pings
+10/03 09:22:08 pings complete
+10/03 09:22:08 generating graphs
+10/03 09:22:14 graph generation complete
+10/03 09:23:00 starting pings
+10/03 09:23:07 pings complete
+10/03 09:23:07 generating graphs
+10/03 09:23:08 graph generation complete
+10/03 09:24:00 starting pings
+10/03 09:24:05 pings complete
+10/03 09:24:05 generating graphs
+10/03 09:24:06 graph generation complete
+10/03 09:25:00 starting pings
+10/03 09:25:06 pings complete
+10/03 09:25:06 generating graphs
+10/03 09:25:07 graph generation complete
+10/03 09:26:01 starting pings
+10/03 09:26:07 pings complete
+10/03 09:26:07 generating graphs
+10/03 09:26:08 graph generation complete
+10/03 09:27:00 starting pings
+10/03 09:27:06 pings complete
+10/03 09:27:06 generating graphs
+10/03 09:27:07 graph generation complete
+10/03 09:28:00 starting pings
+10/03 09:28:06 pings complete
+10/03 09:28:06 generating graphs
+10/03 09:28:08 graph generation complete
+10/03 09:29:00 starting pings
+10/03 09:29:08 pings complete
+10/03 09:29:08 generating graphs
+10/03 09:29:08 graph generation complete
+10/03 09:30:00 starting pings
+10/03 09:30:07 pings complete
+10/03 09:30:07 generating graphs
+10/03 09:30:08 graph generation complete
+10/03 09:31:01 starting pings
+10/03 09:31:08 pings complete
+10/03 09:31:08 generating graphs
+10/03 09:31:09 graph generation complete
+10/03 09:32:01 starting pings
+10/03 09:32:08 pings complete
+10/03 09:32:08 generating graphs
+10/03 09:32:10 graph generation complete
+10/03 09:33:00 starting pings
+10/03 09:33:06 pings complete
+10/03 09:33:06 generating graphs
+10/03 09:33:07 graph generation complete
+10/03 09:34:01 starting pings
+10/03 09:34:07 pings complete
+10/03 09:34:07 generating graphs
+10/03 09:34:07 graph generation complete
+10/03 09:35:01 starting pings
+10/03 09:35:07 pings complete
+10/03 09:35:07 generating graphs
+10/03 09:35:07 graph generation complete
+10/03 09:36:00 starting pings
+10/03 09:36:07 pings complete
+10/03 09:36:07 generating graphs
+10/03 09:36:08 graph generation complete
+10/03 09:37:00 starting pings
+10/03 09:37:06 pings complete
+10/03 09:37:06 generating graphs
+10/03 09:37:07 graph generation complete
+10/03 09:38:00 starting pings
+10/03 09:38:06 pings complete
+10/03 09:38:06 generating graphs
+10/03 09:38:07 graph generation complete
+10/03 09:39:00 starting pings
+10/03 09:39:06 pings complete
+10/03 09:39:07 generating graphs
+10/03 09:39:08 graph generation complete
+10/03 09:40:00 starting pings
+10/03 09:40:07 pings complete
+10/03 09:40:07 generating graphs
+10/03 09:40:08 graph generation complete
+10/03 09:41:00 starting pings
+10/03 09:41:07 pings complete
+10/03 09:41:07 generating graphs
+10/03 09:41:07 graph generation complete
+10/03 09:42:00 starting pings
+10/03 09:42:07 pings complete
+10/03 09:42:07 generating graphs
+10/03 09:42:08 graph generation complete
+10/03 09:43:00 starting pings
+10/03 09:43:06 pings complete
+10/03 09:43:06 generating graphs
+10/03 09:43:07 graph generation complete
+10/03 09:44:00 starting pings
+10/03 09:44:07 pings complete
+10/03 09:44:07 generating graphs
+10/03 09:44:08 graph generation complete
+10/03 09:45:00 starting pings
+10/03 09:45:06 pings complete
+10/03 09:45:06 generating graphs
+10/03 09:45:06 graph generation complete
+10/03 09:46:01 starting pings
+10/03 09:46:08 pings complete
+10/03 09:46:08 generating graphs
+10/03 09:46:10 graph generation complete
+10/03 09:47:00 starting pings
+10/03 09:47:07 pings complete
+10/03 09:47:07 generating graphs
+10/03 09:47:08 graph generation complete
+10/03 09:48:00 starting pings
+10/03 09:48:07 pings complete
+10/03 09:48:07 generating graphs
+10/03 09:48:08 graph generation complete
+10/03 09:49:00 starting pings
+10/03 09:49:06 pings complete
+10/03 09:49:06 generating graphs
+10/03 09:49:07 graph generation complete
+10/03 09:50:00 starting pings
+10/03 09:50:05 pings complete
+10/03 09:50:05 generating graphs
+10/03 09:50:07 graph generation complete
+10/03 09:51:00 starting pings
+10/03 09:51:06 pings complete
+10/03 09:51:06 generating graphs
+10/03 09:51:08 graph generation complete
+10/03 09:52:00 starting pings
+10/03 09:52:06 pings complete
+10/03 09:52:06 generating graphs
+10/03 09:52:07 graph generation complete
+10/03 09:53:00 starting pings
+10/03 09:53:08 pings complete
+10/03 09:53:08 generating graphs
+10/03 09:53:10 graph generation complete
+10/03 09:54:00 starting pings
+10/03 09:54:07 pings complete
+10/03 09:54:07 generating graphs
+10/03 09:54:07 graph generation complete
+10/03 09:55:00 starting pings
+10/03 09:55:06 pings complete
+10/03 09:55:06 generating graphs
+10/03 09:55:07 graph generation complete
+10/03 09:56:00 starting pings
+10/03 09:56:05 pings complete
+10/03 09:56:05 generating graphs
+10/03 09:56:06 graph generation complete
+10/03 09:57:00 starting pings
+10/03 09:57:06 pings complete
+10/03 09:57:06 generating graphs
+10/03 09:57:07 graph generation complete
+10/03 09:58:00 starting pings
+10/03 09:58:06 pings complete
+10/03 09:58:06 generating graphs
+10/03 09:58:08 graph generation complete
+10/03 09:59:00 starting pings
+10/03 09:59:06 pings complete
+10/03 09:59:06 generating graphs
+10/03 09:59:07 graph generation complete
+10/03 10:00:00 starting pings
+10/03 10:00:06 pings complete
+10/03 10:00:06 generating graphs
+10/03 10:00:07 graph generation complete
+10/03 10:01:00 starting pings
+10/03 10:01:06 pings complete
+10/03 10:01:06 generating graphs
+10/03 10:01:08 graph generation complete
+10/03 10:02:00 starting pings
+10/03 10:02:07 pings complete
+10/03 10:02:07 generating graphs
+10/03 10:02:07 graph generation complete
+10/03 10:03:01 starting pings
+10/03 10:03:07 pings complete
+10/03 10:03:07 generating graphs
+10/03 10:03:08 graph generation complete
+10/03 10:04:00 starting pings
+10/03 10:04:06 pings complete
+10/03 10:04:06 generating graphs
+10/03 10:04:07 graph generation complete
+10/03 10:05:00 starting pings
+10/03 10:05:06 pings complete
+10/03 10:05:06 generating graphs
+10/03 10:05:08 graph generation complete
+10/03 10:06:00 starting pings
+10/03 10:06:06 pings complete
+10/03 10:06:06 generating graphs
+10/03 10:06:07 graph generation complete
+10/03 10:07:00 starting pings
+10/03 10:07:05 pings complete
+10/03 10:07:05 generating graphs
+10/03 10:07:06 graph generation complete
+10/03 10:08:01 starting pings
+10/03 10:08:07 pings complete
+10/03 10:08:07 generating graphs
+10/03 10:08:07 graph generation complete
+10/03 10:09:01 starting pings
+10/03 10:09:08 pings complete
+10/03 10:09:08 generating graphs
+10/03 10:09:09 graph generation complete
+10/03 10:10:00 starting pings
+10/03 10:10:08 pings complete
+10/03 10:10:08 generating graphs
+10/03 10:10:09 graph generation complete
+10/03 10:11:00 starting pings
+10/03 10:11:06 pings complete
+10/03 10:11:06 generating graphs
+10/03 10:11:07 graph generation complete
+10/03 10:12:00 starting pings
+10/03 10:12:06 pings complete
+10/03 10:12:06 generating graphs
+10/03 10:12:07 graph generation complete
+10/03 10:13:00 starting pings
+10/03 10:13:05 pings complete
+10/03 10:13:05 generating graphs
+10/03 10:13:06 graph generation complete
+10/03 10:14:00 starting pings
+10/03 10:14:05 pings complete
+10/03 10:14:05 generating graphs
+10/03 10:14:06 graph generation complete
+10/03 10:15:00 starting pings
+10/03 10:15:06 pings complete
+10/03 10:15:06 generating graphs
+10/03 10:15:07 graph generation complete
+10/03 10:16:00 starting pings
+10/03 10:16:07 pings complete
+10/03 10:16:07 generating graphs
+10/03 10:16:08 graph generation complete
+10/03 10:17:00 starting pings
+10/03 10:17:06 pings complete
+10/03 10:17:06 generating graphs
+10/03 10:17:07 graph generation complete
+10/03 10:18:00 starting pings
+10/03 10:18:06 pings complete
+10/03 10:18:07 generating graphs
+10/03 10:18:07 graph generation complete
+10/03 10:19:00 starting pings
+10/03 10:19:05 pings complete
+10/03 10:19:05 generating graphs
+10/03 10:19:06 graph generation complete
+10/03 10:20:00 starting pings
+10/03 10:20:07 pings complete
+10/03 10:20:07 generating graphs
+10/03 10:20:08 graph generation complete
+10/03 10:21:00 starting pings
+10/03 10:21:05 pings complete
+10/03 10:21:05 generating graphs
+10/03 10:21:06 graph generation complete
+10/03 10:22:00 starting pings
+10/03 10:22:08 pings complete
+10/03 10:22:08 generating graphs
+10/03 10:22:09 graph generation complete
+10/03 10:23:00 starting pings
+10/03 10:23:06 pings complete
+10/03 10:23:06 generating graphs
+10/03 10:23:07 graph generation complete
+10/03 10:24:01 starting pings
+10/03 10:24:07 pings complete
+10/03 10:24:07 generating graphs
+10/03 10:24:08 graph generation complete
+10/03 10:25:00 starting pings
+10/03 10:25:08 pings complete
+10/03 10:25:08 generating graphs
+10/03 10:25:08 graph generation complete
+10/03 10:26:01 starting pings
+10/03 10:26:08 pings complete
+10/03 10:26:08 generating graphs
+10/03 10:26:09 graph generation complete
+10/03 10:27:01 starting pings
+10/03 10:27:08 pings complete
+10/03 10:27:08 generating graphs
+10/03 10:27:09 graph generation complete
+10/03 10:28:00 starting pings
+10/03 10:28:08 pings complete
+10/03 10:28:08 generating graphs
+10/03 10:28:09 graph generation complete
+10/03 10:29:00 starting pings
+10/03 10:29:07 pings complete
+10/03 10:29:07 generating graphs
+10/03 10:29:08 graph generation complete
+10/03 10:30:00 starting pings
+10/03 10:30:08 pings complete
+10/03 10:30:08 generating graphs
+10/03 10:30:09 graph generation complete
+10/03 10:31:00 starting pings
+10/03 10:31:06 pings complete
+10/03 10:31:06 generating graphs
+10/03 10:31:07 graph generation complete
+10/03 10:32:00 starting pings
+10/03 10:32:07 pings complete
+10/03 10:32:07 generating graphs
+10/03 10:32:08 graph generation complete
+10/03 10:33:00 starting pings
+10/03 10:33:06 pings complete
+10/03 10:33:06 generating graphs
+10/03 10:33:07 graph generation complete
+10/03 10:34:01 starting pings
+10/03 10:34:08 pings complete
+10/03 10:34:08 generating graphs
+10/03 10:34:09 graph generation complete
+10/03 10:35:00 starting pings
+10/03 10:35:06 pings complete
+10/03 10:35:06 generating graphs
+10/03 10:35:08 graph generation complete
+10/03 10:36:00 starting pings
+10/03 10:36:06 pings complete
+10/03 10:36:06 generating graphs
+10/03 10:36:08 graph generation complete
+10/03 10:37:00 starting pings
+10/03 10:37:06 pings complete
+10/03 10:37:06 generating graphs
+10/03 10:37:08 graph generation complete
+10/03 10:38:00 starting pings
+10/03 10:38:07 pings complete
+10/03 10:38:07 generating graphs
+10/03 10:38:09 graph generation complete
+10/03 10:39:00 starting pings
+10/03 10:39:06 pings complete
+10/03 10:39:06 generating graphs
+10/03 10:39:07 graph generation complete
+10/03 10:40:01 starting pings
+10/03 10:40:08 pings complete
+10/03 10:40:08 generating graphs
+10/03 10:40:09 graph generation complete
+10/03 10:41:00 starting pings
+10/03 10:41:07 pings complete
+10/03 10:41:07 generating graphs
+10/03 10:41:07 graph generation complete
+10/03 10:42:00 starting pings
+10/03 10:42:07 pings complete
+10/03 10:42:07 generating graphs
+10/03 10:42:08 graph generation complete
+10/03 10:43:00 starting pings
+10/03 10:43:08 pings complete
+10/03 10:43:08 generating graphs
+10/03 10:43:09 graph generation complete
+10/03 10:44:00 starting pings
+10/03 10:44:08 pings complete
+10/03 10:44:08 generating graphs
+10/03 10:44:09 graph generation complete
+10/03 10:45:00 starting pings
+10/03 10:45:05 pings complete
+10/03 10:45:05 generating graphs
+10/03 10:45:06 graph generation complete
+10/03 10:46:00 starting pings
+10/03 10:46:06 pings complete
+10/03 10:46:06 generating graphs
+10/03 10:46:07 graph generation complete
+10/03 10:47:00 starting pings
+10/03 10:47:06 pings complete
+10/03 10:47:06 generating graphs
+10/03 10:47:08 graph generation complete
+10/03 10:48:00 starting pings
+10/03 10:48:06 pings complete
+10/03 10:48:06 generating graphs
+10/03 10:48:08 graph generation complete
+10/03 10:49:00 starting pings
+10/03 10:49:06 pings complete
+10/03 10:49:06 generating graphs
+10/03 10:49:08 graph generation complete
+10/03 10:50:00 starting pings
+10/03 10:50:08 pings complete
+10/03 10:50:08 generating graphs
+10/03 10:50:09 graph generation complete
+10/03 10:51:00 starting pings
+10/03 10:51:07 pings complete
+10/03 10:51:07 generating graphs
+10/03 10:51:08 graph generation complete
+10/03 10:52:00 starting pings
+10/03 10:52:08 pings complete
+10/03 10:52:08 generating graphs
+10/03 10:52:09 graph generation complete
+10/03 10:53:00 starting pings
+10/03 10:53:07 pings complete
+10/03 10:53:07 generating graphs
+10/03 10:53:08 graph generation complete
+10/03 10:54:00 starting pings
+10/03 10:54:07 pings complete
+10/03 10:54:07 generating graphs
+10/03 10:54:08 graph generation complete
+10/03 10:55:00 starting pings
+10/03 10:55:05 pings complete
+10/03 10:55:05 generating graphs
+10/03 10:55:06 graph generation complete
+10/03 10:56:00 starting pings
+10/03 10:56:05 pings complete
+10/03 10:56:05 generating graphs
+10/03 10:56:07 graph generation complete
+10/03 10:57:00 starting pings
+10/03 10:57:06 pings complete
+10/03 10:57:06 generating graphs
+10/03 10:57:08 graph generation complete
+10/03 10:58:00 starting pings
+10/03 10:58:07 pings complete
+10/03 10:58:07 generating graphs
+10/03 10:58:08 graph generation complete
+10/03 10:59:00 starting pings
+10/03 10:59:06 pings complete
+10/03 10:59:06 generating graphs
+10/03 10:59:08 graph generation complete
+10/03 11:00:00 starting pings
+10/03 11:00:06 pings complete
+10/03 11:00:07 generating graphs
+10/03 11:00:08 graph generation complete
+10/03 11:01:00 starting pings
+10/03 11:01:05 pings complete
+10/03 11:01:05 generating graphs
+10/03 11:01:06 graph generation complete
+10/03 11:02:00 starting pings
+10/03 11:02:05 pings complete
+10/03 11:02:05 generating graphs
+10/03 11:02:06 graph generation complete
+10/03 11:03:00 starting pings
+10/03 11:03:06 pings complete
+10/03 11:03:06 generating graphs
+10/03 11:03:08 graph generation complete
+10/03 11:04:00 starting pings
+10/03 11:04:06 pings complete
+10/03 11:04:06 generating graphs
+10/03 11:04:07 graph generation complete
+10/03 11:05:00 starting pings
+10/03 11:05:07 pings complete
+10/03 11:05:07 generating graphs
+10/03 11:05:08 graph generation complete
+10/03 11:06:00 starting pings
+10/03 11:06:06 pings complete
+10/03 11:06:06 generating graphs
+10/03 11:06:07 graph generation complete
+10/03 11:07:00 starting pings
+10/03 11:07:06 pings complete
+10/03 11:07:06 generating graphs
+10/03 11:07:07 graph generation complete
+10/03 11:08:00 starting pings
+10/03 11:08:07 pings complete
+10/03 11:08:07 generating graphs
+10/03 11:08:08 graph generation complete
+10/03 11:09:00 starting pings
+10/03 11:09:06 pings complete
+10/03 11:09:06 generating graphs
+10/03 11:09:07 graph generation complete
+10/03 11:10:00 starting pings
+10/03 11:10:05 pings complete
+10/03 11:10:05 generating graphs
+10/03 11:10:06 graph generation complete
+10/03 11:11:00 starting pings
+10/03 11:11:06 pings complete
+10/03 11:11:06 generating graphs
+10/03 11:11:07 graph generation complete
+10/03 11:12:00 starting pings
+10/03 11:12:07 pings complete
+10/03 11:12:07 generating graphs
+10/03 11:12:08 graph generation complete
+10/03 11:13:00 starting pings
+10/03 11:13:06 pings complete
+10/03 11:13:06 generating graphs
+10/03 11:13:07 graph generation complete
+10/03 11:14:00 starting pings
+10/03 11:14:06 pings complete
+10/03 11:14:06 generating graphs
+10/03 11:14:06 graph generation complete
+10/03 11:15:01 starting pings
+10/03 11:15:08 pings complete
+10/03 11:15:08 generating graphs
+10/03 11:15:09 graph generation complete
+10/03 11:16:00 starting pings
+10/03 11:16:08 pings complete
+10/03 11:16:08 generating graphs
+10/03 11:16:09 graph generation complete
+10/03 11:17:00 starting pings
+10/03 11:17:07 pings complete
+10/03 11:17:08 generating graphs
+10/03 11:17:09 graph generation complete
+10/03 11:18:00 starting pings
+10/03 11:18:08 pings complete
+10/03 11:18:08 generating graphs
+10/03 11:18:09 graph generation complete
+10/03 11:19:00 starting pings
+10/03 11:19:06 pings complete
+10/03 11:19:06 generating graphs
+10/03 11:19:07 graph generation complete
+10/03 11:20:00 starting pings
+10/03 11:20:08 pings complete
+10/03 11:20:08 generating graphs
+10/03 11:20:09 graph generation complete
+10/03 11:21:01 starting pings
+10/03 11:21:07 pings complete
+10/03 11:21:07 generating graphs
+10/03 11:21:08 graph generation complete
+10/03 11:22:00 starting pings
+10/03 11:22:06 pings complete
+10/03 11:22:06 generating graphs
+10/03 11:22:09 graph generation complete
+10/03 11:23:00 starting pings
+10/03 11:23:06 pings complete
+10/03 11:23:06 generating graphs
+10/03 11:23:07 graph generation complete
+10/03 11:24:00 starting pings
+10/03 11:24:06 pings complete
+10/03 11:24:06 generating graphs
+10/03 11:24:07 graph generation complete
+10/03 11:25:00 starting pings
+10/03 11:25:07 pings complete
+10/03 11:25:07 generating graphs
+10/03 11:25:08 graph generation complete
+10/03 11:26:00 starting pings
+10/03 11:26:06 pings complete
+10/03 11:26:06 generating graphs
+10/03 11:26:07 graph generation complete
+10/03 11:27:00 starting pings
+10/03 11:27:08 pings complete
+10/03 11:27:08 generating graphs
+10/03 11:27:09 graph generation complete
+10/03 11:28:00 starting pings
+10/03 11:28:07 pings complete
+10/03 11:28:07 generating graphs
+10/03 11:28:07 graph generation complete
+10/03 11:29:01 starting pings
+10/03 11:29:07 pings complete
+10/03 11:29:07 generating graphs
+10/03 11:29:08 graph generation complete
+10/03 11:30:00 starting pings
+10/03 11:30:07 pings complete
+10/03 11:30:07 generating graphs
+10/03 11:30:08 graph generation complete
+10/03 11:31:00 starting pings
+10/03 11:31:08 pings complete
+10/03 11:31:08 generating graphs
+10/03 11:31:09 graph generation complete
+10/03 11:32:00 starting pings
+10/03 11:32:08 pings complete
+10/03 11:32:08 generating graphs
+10/03 11:32:08 graph generation complete
+10/03 11:33:01 starting pings
+10/03 11:33:08 pings complete
+10/03 11:33:09 generating graphs
+10/03 11:33:09 graph generation complete
+10/03 11:34:00 starting pings
+10/03 11:34:07 pings complete
+10/03 11:34:07 generating graphs
+10/03 11:34:08 graph generation complete
+10/03 11:35:00 starting pings
+10/03 11:35:08 pings complete
+10/03 11:35:08 generating graphs
+10/03 11:35:09 graph generation complete
+10/03 11:36:00 starting pings
+10/03 11:36:06 pings complete
+10/03 11:36:07 generating graphs
+10/03 11:36:08 graph generation complete
+10/03 11:37:00 starting pings
+10/03 11:37:06 pings complete
+10/03 11:37:06 generating graphs
+10/03 11:37:07 graph generation complete
+10/03 11:38:00 starting pings
+10/03 11:38:07 pings complete
+10/03 11:38:07 generating graphs
+10/03 11:38:08 graph generation complete
+10/03 11:39:00 starting pings
+10/03 11:39:07 pings complete
+10/03 11:39:07 generating graphs
+10/03 11:39:07 graph generation complete
+10/03 11:40:00 starting pings
+10/03 11:40:06 pings complete
+10/03 11:40:06 generating graphs
+10/03 11:40:07 graph generation complete
+10/03 11:41:00 starting pings
+10/03 11:41:06 pings complete
+10/03 11:41:06 generating graphs
+10/03 11:41:07 graph generation complete
+10/03 11:42:00 starting pings
+10/03 11:42:07 pings complete
+10/03 11:42:07 generating graphs
+10/03 11:42:08 graph generation complete
+10/03 11:43:00 starting pings
+10/03 11:43:06 pings complete
+10/03 11:43:07 generating graphs
+10/03 11:43:09 graph generation complete
